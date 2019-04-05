@@ -24,3 +24,13 @@
 |   Chandelier  	    	   | /ˌʃændəˈlɪr/ 			| đèn trùm |
 |    balcony  	    	   | /ˈbælkəni/ 			| ban công |
 |    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
+|     sail  	    	   | /seɪl/ 			| cánh buồm |
+|     parasol  	    	   | /ˈpærəsɔːl/ 			| Ô che nắng |
+|     utensil  	    	   | /juːˈtensl/ 			| Vật dụng sử dụng trong nhà |
+|     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
+|     couch  	    	   | /kaʊtʃ/ 			| sofa |
+|     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
+|     coast  	    	   | /koʊst/ 			| bờ biển |
+|     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
+|blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
+| applaud|  //əˈplɔːd/ | vỗ tay |
