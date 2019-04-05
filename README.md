@@ -1,2 +1,5 @@
-# created data for test request server using service http
-# code by Jethro Pham
+# Vocabulary
+
+| Word         | NAmE 			| vn				| Phrase|
+|--------------|----------------|-------------------|-------|
+| wool   	   | /wʊl/ 			| Cây cỏ			|       |
