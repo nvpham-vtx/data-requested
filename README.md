@@ -33,4 +33,8 @@
 |     coast  	    	   | /koʊst/ 			| bờ biển |
 |     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
 |blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
-| applaud|  //əˈplɔːd/ | vỗ tay |
+| applaud|  /əˈplɔːd/ | vỗ tay |
+| stove|  /stoʊv/ | bếp |
+| pot|  /pɑːt/ | cái nồi (đồ đựng để nấu chín thức ăn) |
+| oven|  /ˈʌvn/ | lò nướng |
+| saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
