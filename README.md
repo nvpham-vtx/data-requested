@@ -41,6 +41,8 @@
 | oven|  /ˈʌvn/ | lò nướng |
 | saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
 
-## part 4
+## Part 4
 
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 | stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
