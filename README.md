@@ -45,4 +45,32 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-| stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
+|stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
+|pan|  /pæn/ | cái chảo |
+|pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
+|stir|/ˈstɜːrɪŋ/| khuấy|
+|distance|/ˈdɪstəns/| khoảng cách|
+|shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
+|pedestal|/ˈpedɪstl/| bệ đỡ|
+|floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
+|centrepiece|/ˈsentərpiːs/| trung tâm của một cái bàn|
+|hurry|/ˈhɜːri/|vội vàng|
+|trail|/treɪl/|đường mòn|
+|wrist|/rɪst/|cổ tay|
+|wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
+|dismantle|/dɪsˈmæntl/|tháo dỡ|
+|gesture|/ˈdʒestʃər/|cử chỉ|
+|banquet|/ˈbæŋkwɪt/|bữa tiệc|
+|variety |/vəˈraɪəti/|đa dạng|
+|lap |/læp/|đùi|
+|barefoot |/ˈberfʊt/ |chân đất|
+|edge |/edʒ/ |mép, biên|
+
+
+
+
+
+
+
+
+
