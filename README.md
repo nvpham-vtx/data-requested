@@ -65,7 +65,18 @@
 |lap |/læp/|đùi|
 |barefoot |/ˈberfʊt/ |chân đất|
 |edge |/edʒ/ |mép, biên|
-
+|stroller |/ˈstroʊlər/|xe đẩy|
+|carriage  |/ˈkærɪdʒ/ |toa xe lửa|
+|pedestrian  |/pəˈdestriən/ |người đi bộ|
+|cupboard   |/ˈkʌbərd/ |tủ bát đĩa|
+|assortment   |/əˈsɔːrtmənt/|hỗn hợp|
+|carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
+|weave   |/wiːv/|dệt|
+| rol   |/roʊl|cuộn|
+| pave   |/peɪv/|phủ đường đi bằng đá or vật liệu khác|
+| reflect   |/rɪˈflekt/|phản chiếu trong gương|
+| mirror   |/ˈmɪrər/|gương|
+| tray   |/treɪ/|cái khay|
 
 
 
