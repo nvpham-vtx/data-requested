@@ -1,5 +1,7 @@
 # Vocabulary
 
+## Part 3
+
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 | wool   	   | /wʊl/ 			| cây cỏ			|
@@ -38,3 +40,7 @@
 | pot|  /pɑːt/ | cái nồi (đồ đựng để nấu chín thức ăn) |
 | oven|  /ˈʌvn/ | lò nướng |
 | saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
+
+## part 4
+
+| stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
