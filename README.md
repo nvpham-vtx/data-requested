@@ -4,7 +4,7 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-| wool   	   | /wʊl/ 			| cây cỏ			|
+| wool   	   | /wʊl/ 			| cuộn len			|
 | shore   	   | /ʃɔːr/ 			| bờ biển			|
 | rod   	   | /rɑːd/ 			| gậy bằng gỗ, thủy tinh, kim loại|
 | reel    	   | /riːl/ 			| cuộn, quấn| 
@@ -48,7 +48,7 @@
 |stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
 |pan|  /pæn/ | cái chảo |
 |pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
-|stir|/ˈstɜːrɪŋ/| khuấy|
+|stir|/ˈstɜːr/| khuấy|
 |distance|/ˈdɪstəns/| khoảng cách|
 |shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
 |pedestal|/ˈpedɪstl/| bệ đỡ|
@@ -99,9 +99,18 @@
 | match|/ mætʃ/|que diêm|
 | grill|/ ɡrɪl/|vỉ nướng|
 | instrument|/ 'ɪnstrəmənt/|nhạc cụ, thiết bị|
-|  rack|/ 'ræk/|giá đỡ|
-
-
-
+|rack|/ 'ræk/|giá đỡ|
+|sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
+|grass |/ ɡræs/|cây cỏ|
+|grass |/ spreɪ/|xịt, phun|
+|splash |/splæʃ/|văng, bắn tung tóe|
+|fountain |/ˈfaʊntn/|đài phun nước|
+|mow |/moʊ/|cắt,gặt hái|
+|lawn |/lɔːn/|bãi cỏ|
+|fold |/foʊld/|gấp, khoanh tròn|
+|tear |/ter/|xé làm nhiều mảnh|
+|facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
+|unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
+|deck |/dek/|tầng trên cùng của một con tàu|
 
 
