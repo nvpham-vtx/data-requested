@@ -1,6 +1,6 @@
 # Vocabulary
 
-## Part 3
+## Part 1
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -41,7 +41,7 @@
 | oven|  /ˈʌvn/ | lò nướng |
 | saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
 
-## Part 4
+## Part 2
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -53,7 +53,7 @@
 |shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
 |pedestal|/ˈpedɪstl/| bệ đỡ|
 |floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
-|centrepiece|/ˈsentərpiːs/| trung tâm của một cái bàn|
+|centrepiece|/ˈsentərpiːs/| trung tâm của một khối|
 |hurry|/ˈhɜːri/|vội vàng|
 |trail|/treɪl/|đường mòn|
 |wrist|/rɪst/|cổ tay|
@@ -68,18 +68,38 @@
 |stroller |/ˈstroʊlər/|xe đẩy|
 |carriage  |/ˈkærɪdʒ/ |toa xe lửa|
 |pedestrian  |/pəˈdestriən/ |người đi bộ|
-|cupboard   |/ˈkʌbərd/ |tủ bát đĩa|
+|cupboard   |/ˈkʌbərd/ |tủ để cốc, chén|
 |assortment   |/əˈsɔːrtmənt/|hỗn hợp|
 |carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
 |weave   |/wiːv/|dệt|
-| rol   |/roʊl|cuộn|
+| roll   |/roʊl|cuộn|
 | pave   |/peɪv/|phủ đường đi bằng đá or vật liệu khác|
 | reflect   |/rɪˈflekt/|phản chiếu trong gương|
 | mirror   |/ˈmɪrər/|gương|
 | tray   |/treɪ/|cái khay|
 
+## Part 3
 
-
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|neat|/ˈniːt/| gọn gàng, ngăn lắp|
+|serve|/sɜːrv/| phục vụ|
+|lit|/lɪt/| thắp sáng|
+|unfold|/ʌnˈfoʊld/| mở những cái đã gập|
+|hood|/hʊd/| mui xe|
+|conductor|/kənˈdʌktər/| người điều khiển|
+|curb |/kɜːrb/| lề đường, kiềm chế|
+|curve |/kɜːrv/| uốn cong|
+|exceed |/ɪkˈsiːd/|vượt quá|
+|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
+|bargain |/ˈbɑːrɡən/|mặc cả|
+|stroll |/stroʊl/|đi bộ thư giãn|
+|fence|/fens/|hàng rào|
+|rope|/roʊp/|dây thừng|
+| match|/ mætʃ/|que diêm|
+| grill|/ ɡrɪl/|vỉ nướng|
+| instrument|/ 'ɪnstrəmənt/|nhạc cụ, thiết bị|
+|  rack|/ 'ræk/|giá đỡ|
 
 
 
