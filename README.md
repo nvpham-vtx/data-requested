@@ -77,11 +77,6 @@
 | reflect   |/rɪˈflekt/|phản chiếu trong gương|
 | mirror   |/ˈmɪrər/|gương|
 | tray   |/treɪ/|cái khay|
-
-## Part 3
-
-| Word         | NAmE 			| VN				|
-|--------------|----------------|-------------------|
 |neat|/ˈniːt/| gọn gàng, ngăn lắp|
 |serve|/sɜːrv/| phục vụ|
 |lit|/lɪt/| thắp sáng|
@@ -91,6 +86,11 @@
 |curb |/kɜːrb/| lề đường, kiềm chế|
 |curve |/kɜːrv/| uốn cong|
 |exceed |/ɪkˈsiːd/|vượt quá|
+
+## Part 3
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
 |bargain |/ˈbɑːrɡən/|mặc cả|
 |stroll |/stroʊl/|đi bộ thư giãn|
@@ -112,11 +112,6 @@
 |facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
 |unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
 |deck |/dek/|tầng trên cùng của một con tàu|
-
-## Part 4
-
-| Word         | NAmE 			| VN				|
-|--------------|----------------|-------------------|
 | weld |/weld/|hàn, gắn, liên kết|
 | renovation |/ˌrenəˈveɪʃn/|cải tạo|
 | wire |/waɪər/|dây điện|
@@ -137,6 +132,32 @@
 |  dental    |/ˈdentl/|nha khoa|
 |  supply    |/səˈplaɪ/|vật tư|
 |  warehouse    |/ˈwerhaʊs/|kho|
+
+## Part 4
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |  postpone    |/poʊˈspoʊn/|hoãn lại|
 |  instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
 |  emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
+|  pants    |/pænts/|quần dài|
+|get in touch|// |liên lạc|
+|cabinet |/ˈkæbɪnət/|buồng tắm|
+|appreciate |/əˈpriːʃieɪt/|đánh giá cao|
+|tile  |/taɪl/|viên gạch|
+|concern |/kənˈsɜːrn/|lo lắng, quan ngại|
+|confident |/kənˈsɜːrn/|tự tin|
+|semester |/sɪˈmestər/|học kỳ|
+|mind |/maɪnd/|lí trí, trí nhớ|
+| article |/ˈɑːrtɪkl/|bài báo|
+| decade |/ˈdekeɪd/|thập kỷ|
+| retire |/rɪˈtaɪər/|về hưu|
+| compact |/ˈkɑːmpækt/|nhỏ gọn hơn bình thường|
+| cord |/ˈkɑːmpækt/|dây thừng|
+| representative |/ˌreprɪˈzentətɪv/|đại diện|
+|  colleague |/ˈkɑːliːɡ/|đồng nghiệp|
+|  former |/ˈfɔːrmər/|trước đây|
+|  firm |/fɜːrm/|doanh nghiệp, công ty|
+|  represent  |/ˌreprɪˈzent/|đại diện|
+|   preside  |/prɪˈzaɪd/|chủ trì|
+|   committee  |/kəˈmɪti/|ủy ban|
