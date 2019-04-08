@@ -45,7 +45,7 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|stare|  /ster/ | nhìn vào cái gì đó một thời gian dài |
+|stare = gaze|  /ster/ = /ɡeɪz/ | nhìn vào cái gì đó một thời gian dài |
 |pan|  /pæn/ | cái chảo |
 |pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
 |stir|/ˈstɜːr/| khuấy|
@@ -102,15 +102,41 @@
 |rack|/ 'ræk/|giá đỡ|
 |sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
 |grass |/ ɡræs/|cây cỏ|
-|grass |/ spreɪ/|xịt, phun|
+| spray |/ spreɪ/|xịt, phun|
 |splash |/splæʃ/|văng, bắn tung tóe|
 |fountain |/ˈfaʊntn/|đài phun nước|
 |mow |/moʊ/|cắt,gặt hái|
 |lawn |/lɔːn/|bãi cỏ|
-|fold |/foʊld/|gấp, khoanh tròn|
+|fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
 |tear |/ter/|xé làm nhiều mảnh|
 |facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
 |unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
 |deck |/dek/|tầng trên cùng của một con tàu|
 
+## Part 4
 
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+| weld |/weld/|hàn, gắn, liên kết|
+| renovation |/ˌrenəˈveɪʃn/|cải tạo|
+| wire |/waɪər/|dây điện|
+| calm  |/waɪər/|tĩnh, không có gợn sóng, không có gió|
+| demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
+| curtain  |/ˈkɜːrtn/|rèm cửa|
+| ditch  |/dɪtʃ/|kênh, mương|
+|  dig  |/dɪɡ/|đào|
+|  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
+|  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
+|  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
+|  crop   |/krɑːp/|cây trồng|
+|  harvest   |/ˈhɑːrvɪst/|thu hoạch|
+|  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
+|  lend   |/lend/|cho mượn|
+|  atmosphere   |/ˈætməsfɪr/|bầu khí quyển|
+|  secretary    |/ˈsekrəteri/|thư ký|
+|  dental    |/ˈdentl/|nha khoa|
+|  supply    |/səˈplaɪ/|vật tư|
+|  warehouse    |/ˈwerhaʊs/|kho|
+|  postpone    |/poʊˈspoʊn/|hoãn lại|
+|  instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
+|  emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
