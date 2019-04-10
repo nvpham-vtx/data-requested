@@ -54,7 +54,7 @@
 |pedestal|/ˈpedɪstl/| bệ đỡ|
 |floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
 |centrepiece|/ˈsentərpiːs/| trung tâm của một khối|
-|hurry|/ˈhɜːri/|vội vàng|
+|hurry == rush|/ˈhɜːri/ == /rʌʃ/ |vội vàng|
 |trail|/treɪl/|đường mòn|
 |wrist|/rɪst/|cổ tay|
 |wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
@@ -172,3 +172,33 @@
 |charity   |/faɪˈnænʃl/ |tài chính|
 |gate   |/ɡeɪt/ |cổng|
 |inclement    |/ɪnˈklemənt/ |thời tiết xấu|
+|proposal    |/prəˈpoʊzl/ |đề xuất|
+| thorough    |/ˈθɜːroʊ/ |triệt để, kỹ lưỡng|
+| subway    |/ˈsʌbweɪ/ |tàu điện ngầm|
+| weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
+|  soul     |/soʊl/ |tâm hồn|
+|consultant|/kənˈsʌltənt/ |chuyên gia|
+
+## Part 5
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|lawyer|/ˈlɔːjər/ |luật sư|
+| consult|/kənˈsʌlt/ |tư vấn|
+| approximately|/əˈprɑːksɪmətli/ |xấp xỉ|
+| exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
+| portfolio |/pɔːrtˈfoʊlioʊ/ |túi đựng tài liệu|
+|  impressive |/ɪmˈpresɪv/ |ấn tượng|
+|  handy |/ˈhændi/ |tiện dụng|
+|  convenience  |/kənˈviːniəns/ |tiện lợi|
+|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
+|  furniture  |/ˈfɜːrnɪtʃər/ |đồ nội thất|
+|   cozy  |/ˈkoʊzi/ |ấm áp|
+|    steak  |/steɪk/ |miếng bò hầm bít tết|
+|delicious|/dɪˈlɪʃəs/ |thơm ngon|
+| vend|/vend/ |bán|
+| disappear|/ˌdɪsəˈpɪr/ |biến mất|
+| receipt|/rɪˈsiːt/ |biên lai|
+|  clue |/kluː/ |đầu mối|
+|   escort |/ˈeskɔːrt/ |hộ tống|
+|court |/kɔːrt/ |tòa án|
