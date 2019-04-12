@@ -4,177 +4,177 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-| wool   	   | /wʊl/ 			| cuộn len			|
-| shore   	   | /ʃɔːr/ 			| bờ biển			|
-| rod   	   | /rɑːd/ 			| gậy bằng gỗ, thủy tinh, kim loại|
-| reel    	   | /riːl/ 			| cuộn, quấn| 
-| runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
-|  passenger	    	   | /ˈpæsɪndʒər/ 			| hành khách|  
-|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			| Rời khỏi tàu bay, máy bay| 
-|  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
-|  crew 	    	   | /kruː/ 			| Tất cả người trên tàu or máy bay| 
-|  helmet 	    	   | /ˈhelmɪt/ 			| mũ bảo hiểm|
-|  safety 	    	   | /ˈseɪfti/ 			| an toàn|
-|  lean 	    	   | /liːn 			| dựa vào|
-|  cloth 	    	   | /klɔːθ/ 			| vải (vật liệu được dệt bằng lụa)|
-|  leash 	    	   | /liːʃ/ 			| dây xích|
 |  sip 	    	   | /sɪp/ 			| nhấm nháp (uống một lượng rất nhỏ)|
-|  measure 	    	   | /ˈmeʒər/ 			| đo lường|
-|   Candlestick 	    	   | /ˈkændlstɪk/ 			| giá đỡ cây nến|
-|   candle  	    	   | /ˈkændl/ 			| cây nến|
-|    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
-|   Chandelier  	    	   | /ˌʃændəˈlɪr/ 			| đèn trùm |
+| reel    	   | /riːl/ 			| cuộn, quấn| 
+|  crew 	    	   | /kruː/ 			| Tất cả người trên tàu or máy bay| 
+|     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
+| saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
+|  helmet 	    	   | /ˈhelmɪt/ 			| mũ bảo hiểm|
+|deck |/dek/|tầng trên cùng của một con tàu|
+|   Candlestick 	    	   | /ˈkændlstɪk/ 			| chân nến|
 |    balcony  	    	   | /ˈbælkəni/ 			| ban công |
-|    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
+|gesture|/ˈdʒestʃər/|cử chỉ|
+|  cloth 	    	   | /klɔːθ/ 			| vải (vật liệu được dệt bằng lụa)|
+| runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
+|  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
+|  lean 	    	   | /liːn 			| dựa vào|
+|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			| Rời khỏi tàu bay, máy bay| 
+| wool   	   | /wʊl/ 			| vải len, cuộn len			|
+|  measure 	    	   | /ˈmeʒər/ 			| đo lường|
+|fountain |/ˈfaʊntn/|đài phun nước|
+|  leash 	    	   | /liːʃ/ 			| dây xích|
+|   Chandelier  	    	   | /ˌʃændəˈlɪr/ 			| đèn trùm |
+|  passenger	    	   | /ˈpæsɪndʒər/ 			| hành khách|  
+| oven|  /ˈʌvn/ | lò nướng |
 |     sail  	    	   | /seɪl/ 			| cánh buồm |
-|     parasol  	    	   | /ˈpærəsɔːl/ 			| Ô che nắng |
+| applaud|  /əˈplɔːd/ | vỗ tay |
+|    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
+|stir|/ˈstɜːr/| khuấy|
 |     utensil  	    	   | /juːˈtensl/ 			| Vật dụng sử dụng trong nhà |
 |     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
-|     couch  	    	   | /kaʊtʃ/ 			| sofa |
-|     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
-|     coast  	    	   | /koʊst/ 			| bờ biển |
-|     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
+| shore   	   | /ʃɔːr/ 			| bờ biển			|
 |blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
-| applaud|  /əˈplɔːd/ | vỗ tay |
+|     couch  	    	   | /kaʊtʃ/ 			| sofa |
+| rod   	   | /rɑːd/ 			| gậy bằng gỗ, thủy tinh, kim loại|
+|     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
+|     coast  	    	   | /koʊst/ 			| bờ biển |
 | stove|  /stoʊv/ | bếp |
-| pot|  /pɑːt/ | cái nồi (đồ đựng để nấu chín thức ăn) |
-| oven|  /ˈʌvn/ | lò nướng |
-| saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
+|wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
 
 ## Part 2
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|stare = gaze|  /ster/ = /ɡeɪz/ | nhìn vào cái gì đó một thời gian dài |
-|pan|  /pæn/ | cái chảo |
-|pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
-|stir|/ˈstɜːr/| khuấy|
+|exceed |/ɪkˈsiːd/|vượt quá|
+|lap |/læp/|đùi|
 |distance|/ˈdɪstəns/| khoảng cách|
+|     parasol  	    	   | /ˈpærəsɔːl/ 			| Ô che nắng |
 |shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
 |pedestal|/ˈpedɪstl/| bệ đỡ|
 |floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
 |centrepiece|/ˈsentərpiːs/| trung tâm của một khối|
 |hurry == rush|/ˈhɜːri/ == /rʌʃ/ |vội vàng|
+|pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
 |trail|/treɪl/|đường mòn|
-|wrist|/rɪst/|cổ tay|
-|wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
-|dismantle|/dɪsˈmæntl/|tháo dỡ|
-|gesture|/ˈdʒestʃər/|cử chỉ|
+| pot|  /pɑːt/ | cái nồi (đồ đựng để nấu chín thức ăn) |
+|    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
 |banquet|/ˈbæŋkwɪt/|bữa tiệc|
-|variety |/vəˈraɪəti/|đa dạng|
-|lap |/læp/|đùi|
+|wrist|/rɪst/|cổ tay|
+|pan|  /pæn/ | cái chảo |
 |barefoot |/ˈberfʊt/ |chân đất|
+| mirror   |/ˈmɪrər/|gương|
 |edge |/edʒ/ |mép, biên|
-|stroller |/ˈstroʊlər/|xe đẩy|
-|carriage  |/ˈkærɪdʒ/ |toa xe lửa|
 |pedestrian  |/pəˈdestriən/ |người đi bộ|
 |cupboard   |/ˈkʌbərd/ |tủ để cốc, chén|
+|stroller |/ˈstroʊlər/|xe đẩy|
 |assortment   |/əˈsɔːrtmənt/|hỗn hợp|
-|carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
-|weave   |/wiːv/|dệt|
-| roll   |/roʊl|cuộn|
 | pave   |/peɪv/|phủ đường đi bằng đá or vật liệu khác|
+|carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
+|dismantle|/dɪsˈmæntl/|tháo dỡ|
+|variety |/vəˈraɪəti/|đa dạng|
+|  safety 	    	   | /ˈseɪfti/ 			| an toàn|
 | reflect   |/rɪˈflekt/|phản chiếu trong gương|
-| mirror   |/ˈmɪrər/|gương|
-| tray   |/treɪ/|cái khay|
-|neat|/ˈniːt/| gọn gàng, ngăn lắp|
-|serve|/sɜːrv/| phục vụ|
-|lit|/lɪt/| thắp sáng|
-|unfold|/ʌnˈfoʊld/| mở những cái đã gập|
-|hood|/hʊd/| mui xe|
-|conductor|/kənˈdʌktər/| người điều khiển|
-|curb |/kɜːrb/| lề đường, kiềm chế|
 |curve |/kɜːrv/| uốn cong|
-|exceed |/ɪkˈsiːd/|vượt quá|
+|carriage  |/ˈkærɪdʒ/ |toa xe lửa|
+|unfold|/ʌnˈfoʊld/| mở những cái đã gập|
+|grass |/ ɡræs/|cây cỏ|
+| tray   |/treɪ/|cái khay|
+|lit|/lɪt/| thắp sáng|
+|serve|/sɜːrv/| phục vụ|
+|conductor|/kənˈdʌktər/| người điều khiển|
+|weave   |/wiːv/|dệt|
+|neat|/ˈniːt/| gọn gàng, ngăn lắp|
+| roll   |/roʊl|cuộn|
+|curb |/kɜːrb/| lề đường, kiềm chế|
 
 ## Part 3
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
-|bargain |/ˈbɑːrɡən/|mặc cả|
+| grill|/ ɡrɪl/|vỉ nướng|
 |stroll |/stroʊl/|đi bộ thư giãn|
 |fence|/fens/|hàng rào|
 |rope|/roʊp/|dây thừng|
 | match|/ mætʃ/|que diêm|
-| grill|/ ɡrɪl/|vỉ nướng|
-| instrument|/ 'ɪnstrəmənt/|nhạc cụ, thiết bị|
-|rack|/ 'ræk/|giá đỡ|
-|sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
-|grass |/ ɡræs/|cây cỏ|
-| spray |/ spreɪ/|xịt, phun|
-|splash |/splæʃ/|văng, bắn tung tóe|
-|fountain |/ˈfaʊntn/|đài phun nước|
-|mow |/moʊ/|cắt,gặt hái|
-|lawn |/lɔːn/|bãi cỏ|
-|fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
 |tear |/ter/|xé làm nhiều mảnh|
 |facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
-|unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
-|deck |/dek/|tầng trên cùng của một con tàu|
-| weld |/weld/|hàn, gắn, liên kết|
+| instrument|/ 'ɪnstrəmənt/|nhạc cụ, thiết bị|
+|rack|/ 'ræk/|giá đỡ|
+| demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
+| spray |/ spreɪ/|xịt, phun|
+|stare = gaze|  /ster/ = /ɡeɪz/ | nhìn vào cái gì đó một thời gian dài |
+|hood|/hʊd/| mui xe|
+|mow |/moʊ/|cắt,gặt hái|
+|lawn |/lɔːn/|bãi cỏ|
+|bargain |/ˈbɑːrɡən/|mặc cả|
+|fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
+|  dig  |/dɪɡ/|đào|
+| ditch  |/dɪtʃ/|kênh, mương|
+|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
+|splash |/splæʃ/|văng, bắn tung tóe|
 | renovation |/ˌrenəˈveɪʃn/|cải tạo|
 | wire |/waɪər/|dây điện|
+|  supply    |/səˈplaɪ/|vật tư|
+|   candle  	    	   | /ˈkændl/ 			| cây nến|
 | calm  |/waɪər/|tĩnh, không có gợn sóng, không có gió|
-| demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
 | curtain  |/ˈkɜːrtn/|rèm cửa|
-| ditch  |/dɪtʃ/|kênh, mương|
-|  dig  |/dɪɡ/|đào|
+|sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
 |  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
 |  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
-|  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
+| weld |/weld/|hàn, gắn, liên kết|
+|unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
 |  crop   |/krɑːp/|cây trồng|
 |  harvest   |/ˈhɑːrvɪst/|thu hoạch|
 |  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
 |  lend   |/lend/|cho mượn|
+|pants    |/pænts/|quần dài|
+|instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
 |  atmosphere   |/ˈætməsfɪr/|bầu khí quyển|
-|  secretary    |/ˈsekrəteri/|thư ký|
-|  dental    |/ˈdentl/|nha khoa|
-|  supply    |/səˈplaɪ/|vật tư|
 |  warehouse    |/ˈwerhaʊs/|kho|
+|retire |/rɪˈtaɪər/|về hưu|
 
 ## Part 4
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|postpone    |/poʊˈspoʊn/|hoãn lại|
-|instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
 |emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
-|pants    |/pænts/|quần dài|
 |get in touch|// |liên lạc|
+|  promotional |/prəˈmoʊʃənl/ |quảng cáo|
+|  secretary    |/ˈsekrəteri/|thư ký|
+|  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
 |cabinet |/ˈkæbɪnət/|buồng tắm|
 |appreciate |/əˈpriːʃieɪt/|đánh giá cao|
 |tile  |/taɪl/|viên gạch|
-|concern |/kənˈsɜːrn/|lo lắng, quan ngại|
 |confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết|
 |semester |/sɪˈmestər/|học kỳ|
 |mind |/maɪnd/|lí trí, trí nhớ|
 |article |/ˈɑːrtɪkl/|bài báo|
-|decade |/ˈdekeɪd/|thập kỷ|
-|retire |/rɪˈtaɪər/|về hưu|
+|postpone    |/poʊˈspoʊn/|hoãn lại|
 |compact |/ˈkɑːmpækt/|nhỏ gọn hơn bình thường|
-|cord |/kɔːrd/|dây thừng|
-|representative |/ˌreprɪˈzentətɪv/|đại diện|
-|colleague |/ˈkɑːliːɡ/|đồng nghiệp|
-|former |/ˈfɔːrmər/|trước đây|
+|cord |/kɔːrd/|dây|
+|  dental    |/ˈdentl/|nha khoa|
+|inclement    |/ɪnˈklemənt/ |xấu|
+| domestic |/dəˈmestɪk/ |trong nước|
+|charity   |/ˈtʃærəti/|từ thiện|
 |firm |/fɜːrm/|doanh nghiệp, công ty|
-|represent  |/ˌreprɪˈzent/|đại diện|
 |preside  |/prɪˈzaɪd/|chủ trì|
-|committee  |/kəˈmɪti/|ủy ban|
 |professor  |/prəˈfesər/|giáo sư|
 |pharmacy  |/ˈfɑːrməsi/|tiệm thuốc|
+| portfolio |/pɔːrtˈfoʊlioʊ/ |túi đựng tài liệu|
+|lawyer|/ˈlɔːjər/ |luật sư|
 |catalogue  |/ˈkætəlɔːɡ/|mục lục|
 |cab  |/kæb/|taxi|
 |invoice  |/ˈɪnvɔɪs/|hóa đơn|
-|revise   |/rɪˈvaɪz/|xem lại|
+|  impressive |/ɪmˈpresɪv/ |ấn tượng|
 |itinerary   |/aɪˈtɪnəreri/|hành trình|
-|charity   |/ˈtʃærəti/|từ thiện|
+| exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
+|colleague |/ˈkɑːliːɡ/|đồng nghiệp|
+| vend|/vend/ |bán|
 |charity   |/faɪˈnænʃl/ |tài chính|
-|gate   |/ɡeɪt/ |cổng|
-|inclement    |/ɪnˈklemənt/ |thời tiết xấu|
 |proposal    |/prəˈpoʊzl/ |đề xuất|
+|  errand |/ˈerənd/ |việc vặt|
 | thorough    |/ˈθɜːroʊ/ |triệt để, kỹ lưỡng|
-| subway    |/ˈsʌbweɪ/ |tàu điện ngầm|
+|agency|/ˈeɪdʒənsi/|đại lý|
 | weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
 |  soul     |/soʊl/ |tâm hồn|
 |consultant|/kənˈsʌltənt/ |chuyên gia|
@@ -183,22 +183,37 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|lawyer|/ˈlɔːjər/ |luật sư|
 | consult|/kənˈsʌlt/ |tư vấn|
-| approximately|/əˈprɑːksɪmətli/ |xấp xỉ|
-| exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
-| portfolio |/pɔːrtˈfoʊlioʊ/ |túi đựng tài liệu|
-|  impressive |/ɪmˈpresɪv/ |ấn tượng|
+|decade |/ˈdekeɪd/|thập kỷ|
+| subway    |/ˈsʌbweɪ/ |tàu điện ngầm|
 |  handy |/ˈhændi/ |tiện dụng|
-|  convenience  |/kənˈviːniəns/ |tiện lợi|
-|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
+|gate   |/ɡeɪt/ |cổng|
+|represent  |/ˌreprɪˈzent/|đại diện|
+|revise   |/rɪˈvaɪz/|xem lại|
 |  furniture  |/ˈfɜːrnɪtʃər/ |đồ nội thất|
-|   cozy  |/ˈkoʊzi/ |ấm áp|
+|representative |/ˌreprɪˈzentətɪv/|đại diện|
+|concern |/kənˈsɜːrn/|lo lắng, quan ngại|
+|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
+|committee  |/kəˈmɪti/|ủy ban|
+|  convenience  |/kənˈviːniəns/ |tiện lợi|
 |    steak  |/steɪk/ |miếng bò hầm bít tết|
-|delicious|/dɪˈlɪʃəs/ |thơm ngon|
-| vend|/vend/ |bán|
+| bake |/beɪk/ |nướng|
+|payroll|/ˈpeɪroʊl/|bảng lương|
 | disappear|/ˌdɪsəˈpɪr/ |biến mất|
+| approximately|/əˈprɑːksɪmətli/ |xấp xỉ|
+|former |/ˈfɔːrmər/|trước đây|
 | receipt|/rɪˈsiːt/ |biên lai|
+|   figure |/ˈfɪɡjər/ |số liệu|
 |  clue |/kluː/ |đầu mối|
-|   escort |/ˈeskɔːrt/ |hộ tống|
+|   cozy  |/ˈkoʊzi/ |ấm áp|
 |court |/kɔːrt/ |tòa án|
+|auditorium|/ˌɔːdɪˈtɔːriəm/|khán phòng|
+| bilingual |/ˌbaɪˈlɪŋɡwəl/ |nói được 2 thứ tiếng|
+|delicious|/dɪˈlɪʃəs/ |thơm ngon|
+|  pocket |/ˈpɑːkɪt/ |túi quần|
+|    appealing |/əˈpiːlɪŋ/ |hấp dẫn, thú vị|
+|bid|/bɪd/ |đấu thầu|
+|   escort |/ˈeskɔːrt/ |hộ tống|
+|jam||/dʒæm/|tắc đường, mứt|
+|lecture|/ˈlektʃər/|bài diễn thuyết, bài học|
+| understaffed |/ˌʌndərˈstæft/ |thiếu nhân sự|
