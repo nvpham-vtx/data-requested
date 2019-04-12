@@ -18,7 +18,7 @@
 | runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
 |  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
 |  lean 	    	   | /liːn 			| dựa vào|
-|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			| Rời khỏi tàu bay, máy bay| 
+|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			| Rời khỏi tàu bay => Lên bờ, máy bay| 
 | wool   	   | /wʊl/ 			| vải len, cuộn len			|
 |  measure 	    	   | /ˈmeʒər/ 			| đo lường|
 |fountain |/ˈfaʊntn/|đài phun nước|
@@ -30,12 +30,12 @@
 | applaud|  /əˈplɔːd/ | vỗ tay |
 |    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
 |stir|/ˈstɜːr/| khuấy|
-|     utensil  	    	   | /juːˈtensl/ 			| Vật dụng sử dụng trong nhà |
+|     utensil  	    	   | /juːˈtensl/ 			| Vật dụng gia đình |
 |     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
 | shore   	   | /ʃɔːr/ 			| bờ biển			|
 |blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
 |     couch  	    	   | /kaʊtʃ/ 			| sofa |
-| rod   	   | /rɑːd/ 			| gậy bằng gỗ, thủy tinh, kim loại|
+| rod   	   | /rɑːd/ 			| cái que, cái gậy|
 |     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
 |     coast  	    	   | /koʊst/ 			| bờ biển |
 | stove|  /stoʊv/ | bếp |
@@ -96,9 +96,9 @@
 |fence|/fens/|hàng rào|
 |rope|/roʊp/|dây thừng|
 | match|/ mætʃ/|que diêm|
-|tear |/ter/|xé làm nhiều mảnh|
+|tearing |/tering/|xé làm nhiều mảnh|
 |facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
-| instrument|/ 'ɪnstrəmənt/|nhạc cụ, thiết bị|
+| instrument|/ 'ɪnstrəmənt/|nhạc cụ,dụng cụ|
 |rack|/ 'ræk/|giá đỡ|
 | demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
 | spray |/ spreɪ/|xịt, phun|
@@ -154,7 +154,7 @@
 |cord |/kɔːrd/|dây|
 |  dental    |/ˈdentl/|nha khoa|
 |inclement    |/ɪnˈklemənt/ |xấu|
-| domestic |/dəˈmestɪk/ |trong nước|
+| domestic |/dəˈmestɪk/ |thuộc về trong nước|
 |charity   |/ˈtʃærəti/|từ thiện|
 |firm |/fɜːrm/|doanh nghiệp, công ty|
 |preside  |/prɪˈzaɪd/|chủ trì|
@@ -168,31 +168,31 @@
 |  impressive |/ɪmˈpresɪv/ |ấn tượng|
 |itinerary   |/aɪˈtɪnəreri/|hành trình|
 | exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
-|colleague |/ˈkɑːliːɡ/|đồng nghiệp|
+|colleague =  coworker |/ˈkɑːliːɡ/ = /ˈkoʊ wɜːrkər/|đồng nghiệp|
 | vend|/vend/ |bán|
-|charity   |/faɪˈnænʃl/ |tài chính|
+|finance   |/faɪˈnænʃl/ |tài chính|
 |proposal    |/prəˈpoʊzl/ |đề xuất|
 |  errand |/ˈerənd/ |việc vặt|
-| thorough    |/ˈθɜːroʊ/ |triệt để, kỹ lưỡng|
-|agency|/ˈeɪdʒənsi/|đại lý|
+| thorough    |/ˈθɜːroʊ/ |cẩn thận, tỉ mỉ|
+|agency|/ˈeɪdʒənsi/|hãng,đại lý|
 | weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
 |  soul     |/soʊl/ |tâm hồn|
-|consultant|/kənˈsʌltənt/ |chuyên gia|
+|consultant|/kənˈsʌltənt/ |ngưới tư vấn|
 
 ## Part 5
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-| consult|/kənˈsʌlt/ |tư vấn|
+|consult|/kənˈsʌlt/ |tư vấn|
 |decade |/ˈdekeɪd/|thập kỷ|
 | subway    |/ˈsʌbweɪ/ |tàu điện ngầm|
 |  handy |/ˈhændi/ |tiện dụng|
 |gate   |/ɡeɪt/ |cổng|
 |represent  |/ˌreprɪˈzent/|đại diện|
-|revise   |/rɪˈvaɪz/|xem lại|
+|revise   |/rɪˈvaɪz/|sửa lại|
 |  furniture  |/ˈfɜːrnɪtʃər/ |đồ nội thất|
-|representative |/ˌreprɪˈzentətɪv/|đại diện|
-|concern |/kənˈsɜːrn/|lo lắng, quan ngại|
+|representative |/ˌreprɪˈzentətɪv/|đại diện, tiêu biểu|
+|concern |/kənˈsɜːrn/|lo lắng, liên quan|
 |  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |committee  |/kəˈmɪti/|ủy ban|
 |  convenience  |/kənˈviːniəns/ |tiện lợi|
@@ -215,5 +215,34 @@
 |bid|/bɪd/ |đấu thầu|
 |   escort |/ˈeskɔːrt/ |hộ tống|
 |jam||/dʒæm/|tắc đường, mứt|
-|lecture|/ˈlektʃər/|bài diễn thuyết, bài học|
+|lecture|/ˈlektʃər/|bài diễn thuyết, bài giảng|
 | understaffed |/ˌʌndərˈstæft/ |thiếu nhân sự|
+| unpack |/ˌʌnˈpæk/ |giải nén|
+| glad  |/ɡlæd/ |hài lòng, vui mừng|
+|  attentive  |/əˈtentɪv/ |chăm chú|
+|  reception   |/rɪˈsepʃn/ |nơi tiếp nhận, tiệc chiêu đãi|
+|  ballroom   |/ˈbɔːlruːm/ |phòng khiêu vũ|
+|  cartridge   |/ˈkɑːrtrɪdʒ/ |ống chứa mực|
+|  overseas   |/ˌoʊvərˈsiːz/ |hải ngoại|
+
+## Part 6
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|  suburb    |/ˈsʌbɜːrb/ |ngoại ô|
+|  depart    |/dɪˈpɑːrt/ |khởi hành|
+|  accurate    |/ˈækjərət/ |chính sác đến từng chi tiết|
+|   patient     |/ˈpeɪʃnt/ |bệnh nhân|
+|   intersection     |/ɪntərˈsekʃn/ |ngã tư|
+|   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
+|    assembly      |/əˈsembli/ |hội đồng|
+|     tenant      |/ˈtenənt/ |người thuê nhà|
+|     terrible      |/ˈterəbl/ |tồi tệ khủng khiếp|
+|     speech      |/spiːtʃ/ |bài diễn thuyết|
+|      fantastic      |/fænˈtæstɪk/ |rất tốt, xuất sắc|
+|unfortunately|/ʌnˈfɔːrtʃənətli/ |không may thay|
+|handout |/ˈhændaʊt/ |tờ thông tin|
+|reserve |/rɪˈzɜːrv/ |đặt trước|
+|persuade |/pəˈsweid/ |thuyết phục|
+|proper |/ˈpropə/ |đúng|
+|hesitate |/ˈheziteit/ |do dự|
