@@ -206,7 +206,7 @@
 |   figure |/ˈfɪɡjər/ |số liệu|
 |  clue |/kluː/ |đầu mối|
 |   cozy  |/ˈkoʊzi/ |ấm áp|
-|court |/kɔːrt/ |tòa án|
+|court |/kɔːrt/ |tòa án, sân chơi|
 |auditorium|/ˌɔːdɪˈtɔːriəm/|khán phòng|
 | bilingual |/ˌbaɪˈlɪŋɡwəl/ |nói được 2 thứ tiếng|
 |delicious|/dɪˈlɪʃəs/ |thơm ngon|
@@ -246,3 +246,23 @@
 |persuade |/pəˈsweid/ |thuyết phục|
 |proper |/ˈpropə/ |đúng|
 |hesitate |/ˈheziteit/ |do dự|
+|recommendation |/ˌrekəmenˈdeɪʃn/ |sự giới thiệu|
+|recommend |/rekəˈmend/ |lời khuyên|
+|loud |/laud/ |to, ầm ĩ|
+|stake |/steik/ |cọc|
+|brake |/breɪk/ |phanh|
+|promote |/prəˈməut/ |thăng chức|
+|secret |/ˈsiːkrit/ |thầm kín, bí mật|
+|heat |/hiːt/ |bếp, lò|
+|bust |/bast/ |bắt giữ, thu|
+|straight |/streit/ |thẳng|
+|decaf |/ˈdiːˌkæf/ |khử hết cafein|
+|fault |/fɔːlt/ |khuyết điểm|
+|presentation |/ˌpriːzenˈteɪʃn/ |sự trình diễn, trưng bày|
+|bother |/ˈboðə/ |làm phiền|
+|grab |/ɡrab/ |chiếm|
+|bite |/bait/ |cắn, châm đốt|
+|warrant|/ˈworənt/ |biện hộ, bảo đảm|
+|beneficial|/benəˈfiʃəl/ |hưởng quyền lợi|
+|humid|/ˈhjuːmid/ |ẩm thấp|
+|doubt|/daut/ |nghi ngờ|
