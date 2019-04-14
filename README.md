@@ -266,3 +266,37 @@
 |beneficial|/benəˈfiʃəl/ |hưởng quyền lợi|
 |humid|/ˈhjuːmid/ |ẩm thấp|
 |doubt|/daut/ |nghi ngờ|
+|economic|/iːkəˈnomik/ |thuộc về kinh tế|
+|degree|/diˈɡriː/ |bằng cấp, độ C|
+|dish|/diʃ/ |món ăn|
+|immediate|/iˈmiːdiət/ |ngay lập tức|
+
+## Part 7
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|defective|/ˈdiːfekt/ |có thiếu sót|
+|fundraiser|/ˈfʌndreɪzər/ |người gây quỹ|
+|proof|/pruːf/ |chứng cứ, bằng chứng|
+|aisle|/ail/ |lối đi giữa hai dãy ghế|
+|staple|/ˈsteipl/ |ghim dập, đinh kẹp|
+|exhibition|/eksiˈbiʃən/ |cuộc triển lãm|
+|secure|/siˈkjuə/ |an tâm, bảo đảm|
+|honest|/ˈonist/ |trung thực|
+|briefcase|// |cặp đựng giấy tờ, tài liệu|
+|envelope|/ˈenvələup,ˈɑːnvəloʊp/ |phong bì|
+|maintenance|/ˈmeɪntənəns/ |sự bảo dưỡng|
+|burden|/ˈbəːdn/ |gánh nặng|
+|leak|/liːk/ |lỗ rò; khe hở|
+|directed by|/daɪˈrekt/ |đạo diễn bởi|
+|adventure|/ədˈventʃə/ |chuyến phiêu lưu|
+|amaze|/əˈmeiz/ |hết sức ngạc nhiên|
+|critic|/ˈkritik/ |nhà phê bình|
+|overpass|/ˈəuvəpaːs/ |vượt qua|
+|alleviate|/əˈliːvieit/ |làm giảm|
+|congested|/kənˈdʒestid/ |đông nghịt; chật ních|
+|official|/əˈfiʃəl/ |thuộc chính quyền|
+|alternative|/oːlˈtəːnətiv/ |có thể lựa chọn|
+|citizen|/ˈsitizn/ |công dân|
+|spoil|/spoil/ |làm hỏngt|
+|outage|/ˈautidʒ/ |sự mất điện|
