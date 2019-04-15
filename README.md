@@ -123,7 +123,7 @@
 |  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
 | weld |/weld/|hàn, gắn, liên kết|
 |unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
-|  crop   |/krɑːp/|cây trồng|
+|  crop   |/krɑːp/|vụ mùa|
 |  harvest   |/ˈhɑːrvɪst/|thu hoạch|
 |  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
 |  lend   |/lend/|cho mượn|
@@ -144,13 +144,13 @@
 |  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
 |cabinet |/ˈkæbɪnət/|buồng tắm|
 |appreciate |/əˈpriːʃieɪt/|đánh giá cao|
-|tile  |/taɪl/|viên gạch|
+|tile  |/taɪl/|ngói, đá lát|
 |confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết|
 |semester |/sɪˈmestər/|học kỳ|
 |mind |/maɪnd/|lí trí, trí nhớ|
 |article |/ˈɑːrtɪkl/|bài báo|
 |postpone    |/poʊˈspoʊn/|hoãn lại|
-|compact |/ˈkɑːmpækt/|nhỏ gọn hơn bình thường|
+|compact |/ˈkɑːmpækt/|chật ních|
 |cord |/kɔːrd/|dây|
 |  dental    |/ˈdentl/|nha khoa|
 |inclement    |/ɪnˈklemənt/ |xấu|
@@ -189,7 +189,7 @@
 |  handy |/ˈhændi/ |tiện dụng|
 |gate   |/ɡeɪt/ |cổng|
 |represent  |/ˌreprɪˈzent/|đại diện|
-|revise   |/rɪˈvaɪz/|sửa lại|
+|revise   |/rɪˈvaɪz/|sửa lại, xem lại|
 |  furniture  |/ˈfɜːrnɪtʃər/ |đồ nội thất|
 |representative |/ˌreprɪˈzentətɪv/|đại diện, tiêu biểu|
 |concern |/kənˈsɜːrn/|lo lắng, liên quan|
@@ -214,7 +214,7 @@
 |    appealing |/əˈpiːlɪŋ/ |hấp dẫn, thú vị|
 |bid|/bɪd/ |đấu thầu|
 |   escort |/ˈeskɔːrt/ |hộ tống|
-|jam||/dʒæm/|tắc đường, mứt|
+|jam|/dʒæm/|tắc đường, mứt|
 |lecture|/ˈlektʃər/|bài diễn thuyết, bài giảng|
 | understaffed |/ˌʌndərˈstæft/ |thiếu nhân sự|
 | unpack |/ˌʌnˈpæk/ |giải nén|
@@ -233,7 +233,7 @@
 |  depart    |/dɪˈpɑːrt/ |khởi hành|
 |  accurate    |/ˈækjərət/ |chính sác đến từng chi tiết|
 |   patient     |/ˈpeɪʃnt/ |bệnh nhân|
-|   intersection     |/ɪntərˈsekʃn/ |ngã tư|
+|   intersection     |/ɪntərˈsekʃn/ |giao nhau|
 |   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
 |    assembly      |/əˈsembli/ |hội đồng|
 |     tenant      |/ˈtenənt/ |người thuê nhà|
@@ -244,16 +244,16 @@
 |handout |/ˈhændaʊt/ |tờ thông tin|
 |reserve |/rɪˈzɜːrv/ |đặt trước|
 |persuade |/pəˈsweid/ |thuyết phục|
-|proper |/ˈpropə/ |đúng|
+|proper |/ˈprɑːpər/ |đúng|
 |hesitate |/ˈheziteit/ |do dự|
 |recommendation |/ˌrekəmenˈdeɪʃn/ |sự giới thiệu|
 |recommend |/rekəˈmend/ |lời khuyên|
 |loud |/laud/ |to, ầm ĩ|
 |stake |/steik/ |cọc|
 |brake |/breɪk/ |phanh|
-|promote |/prəˈməut/ |thăng chức|
+|promote |/prəˈmoʊt/ |thăng chức|
 |secret |/ˈsiːkrit/ |thầm kín, bí mật|
-|heat |/hiːt/ |bếp, lò|
+|heat |/hiːt/ |sức nóng|
 |bust |/bast/ |bắt giữ, thu|
 |straight |/streit/ |thẳng|
 |decaf |/ˈdiːˌkæf/ |khử hết cafein|
@@ -263,12 +263,12 @@
 |grab |/ɡrab/ |chiếm|
 |bite |/bait/ |cắn, châm đốt|
 |warrant|/ˈworənt/ |biện hộ, bảo đảm|
-|beneficial|/benəˈfiʃəl/ |hưởng quyền lợi|
+|beneficial|/ˌbenɪˈfɪʃl/ |hưởng quyền lợi|
 |humid|/ˈhjuːmid/ |ẩm thấp|
 |doubt|/daut/ |nghi ngờ|
-|economic|/iːkəˈnomik/ |thuộc về kinh tế|
+|economic|/ˌiːkəˈnɑːmɪk/ |thuộc về kinh tế|
 |degree|/diˈɡriː/ |bằng cấp, độ C|
-|dish|/diʃ/ |món ăn|
+|dish|/diʃ/ |đĩa, món ăn|
 |immediate|/iˈmiːdiət/ |ngay lập tức|
 
 ## Part 7
