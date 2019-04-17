@@ -71,7 +71,7 @@
 | pave   |/peɪv/|phủ đường đi bằng đá or vật liệu khác|
 |carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
 |dismantle|/dɪsˈmæntl/|tháo dỡ|
-|variety |/vəˈraɪəti/|đa dạng|
+|variety = diverse|/vəˈraɪəti = daiˈvəːs/|đa dạng|
 |  safety 	    	   | /ˈseɪfti/ 			| an toàn|
 | reflect   |/rɪˈflekt/|phản chiếu trong gương|
 |curve |/kɜːrv/| uốn cong|
@@ -86,6 +86,7 @@
 |neat|/ˈniːt/| gọn gàng, ngăn lắp|
 | roll   |/roʊl|cuộn|
 |curb |/kɜːrb/| lề đường, kiềm chế|
+|tow |/təu/| kéo|
 
 ## Part 3
 
@@ -178,6 +179,8 @@
 | weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
 |  soul     |/soʊl/ |tâm hồn|
 |consultant|/kənˈsʌltənt/ |ngưới tư vấn|
+|apparel|/əˈpærəl/ |y phục|
+|exhibit|/iɡˈzibit/ |triển lãm|
 
 ## Part 5
 
@@ -235,7 +238,7 @@
 |   patient     |/ˈpeɪʃnt/ |bệnh nhân|
 |   intersection     |/ɪntərˈsekʃn/ |giao nhau|
 |   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
-|    assembly      |/əˈsembli/ |hội đồng|
+|    assembly      |/əˈsembli/ |tụ tập, tập hợp|
 |     tenant      |/ˈtenənt/ |người thuê nhà|
 |     terrible      |/ˈterəbl/ |tồi tệ khủng khiếp|
 |     speech      |/spiːtʃ/ |bài diễn thuyết|
@@ -244,32 +247,33 @@
 |handout |/ˈhændaʊt/ |tờ thông tin|
 |reserve |/rɪˈzɜːrv/ |đặt trước|
 |persuade |/pəˈsweid/ |thuyết phục|
-|proper |/ˈprɑːpər/ |đúng|
+|proper |/ˈprɑːpər/ |đúng cách, trọn vẹn|
 |hesitate |/ˈheziteit/ |do dự|
 |recommendation |/ˌrekəmenˈdeɪʃn/ |sự giới thiệu|
 |recommend |/rekəˈmend/ |lời khuyên|
-|loud |/laud/ |to, ầm ĩ|
+|loud |/laʊd/ |to, ầm ĩ|
 |stake |/steik/ |cọc|
 |brake |/breɪk/ |phanh|
 |promote |/prəˈmoʊt/ |thăng chức|
 |secret |/ˈsiːkrit/ |thầm kín, bí mật|
 |heat |/hiːt/ |sức nóng|
-|bust |/bast/ |bắt giữ, thu|
+|bust |/bast/ |bắt giữ, thu, tượng bán thân|
 |straight |/streit/ |thẳng|
 |decaf |/ˈdiːˌkæf/ |khử hết cafein|
 |fault |/fɔːlt/ |khuyết điểm|
 |presentation |/ˌpriːzenˈteɪʃn/ |sự trình diễn, trưng bày|
-|bother |/ˈboðə/ |làm phiền|
+|bother |/ˈbɑːðər/ |làm phiền|
 |grab |/ɡrab/ |chiếm|
 |bite |/bait/ |cắn, châm đốt|
-|warrant|/ˈworənt/ |biện hộ, bảo đảm|
+|warrant|/ˈwɔːrənt/ |biện hộ, bảo đảm|
 |beneficial|/ˌbenɪˈfɪʃl/ |hưởng quyền lợi|
 |humid|/ˈhjuːmid/ |ẩm thấp|
-|doubt|/daut/ |nghi ngờ|
+|doubt|/daʊt/ |nghi ngờ|
 |economic|/ˌiːkəˈnɑːmɪk/ |thuộc về kinh tế|
 |degree|/diˈɡriː/ |bằng cấp, độ C|
 |dish|/diʃ/ |đĩa, món ăn|
 |immediate|/iˈmiːdiət/ |ngay lập tức|
+|overall|/ˈəuvəroːl/ |tổng thể, tổng quát|
 
 ## Part 7
 
@@ -298,5 +302,73 @@
 |official|/əˈfiʃəl/ |thuộc chính quyền|
 |alternative|/oːlˈtəːnətiv/ |có thể lựa chọn|
 |citizen|/ˈsitizn/ |công dân|
-|spoil|/spoil/ |làm hỏngt|
+|spoil|/spoil/ |làm hỏng|
 |outage|/ˈautidʒ/ |sự mất điện|
+|worse|/ˈwɜːrsn/ |tệ hơn|
+|definitely|/ˈdefɪnətli/ |một cách rõ ràng|
+|prospective|/prəˈspek.tɪv/ |thuộc về sau này|
+|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh|
+|profit|/ˈprofit/ |lợi nhuận|
+|facility|/fəˈsiləti/ |kỹ năng; sự khéo léo|
+|blowout|/ˈbloʊaʊt/ |biến cố lớn, sự nổ lốp xe|
+|strategy|/ˈstrӕtədʒi/ |chiến lược|
+|energy|/ˈenədʒi/ |năng lượng|
+|energetic |/ˌenərˈdʒetɪk/ |đầy nghị lực, mạnh mẽ|
+|participant |/pɑːrˈtɪsɪpənt/ |người tham dự|
+|encourage |/inˈkaridʒ/ |khuyến khích|
+|enthusiasm |/inˈθjuːziӕzəm/ |sự nhiệt tình|
+|candidate |/ˈkӕndidət/ |thí sinh, ứng cử viên|
+|relevant |/ˈreləvənt/ |liên quan|
+|aware |/əˈweə/ |nhận thức|
+|attract |/əˈtrӕkt/ |thu hút|
+|consume |/kənˈsjuːm/ |tiêu thụ|
+|counterpart |/ˈkauntəpaːt/ |bên đối tác|
+|entrepreneur | /ˌɑːntrəprəˈnɜːr/ | nhà doanh nghiệp|
+|editorial | /ˌedɪˈtɔːriəl/ | biên tập viên|
+|fluid | /ˈfluid/ |chất lỏng|
+|van | /van/ |xe tải|
+|cousin | /ˈkazn/ |anh em họ|
+|pardon | /ˈpaːdn/ |xin lỗi|
+|enjoyable | /ˈpaːdn/ |thú vị|
+|excellent | /ˈeksələnt/ |xuất sắc|
+|injure | /ˈindʒə/ |gây thương tích|
+|apparently | /əˈpӕrəntli/ |hình như|
+|recover | /rəˈkavə/ |hồi phục|
+|occupation | /ˌɑːkjuˈpeɪʃn// |sự chiếm giữ, nghề nghiệp|
+|sort | /soːt// |loại, thứ, hạng|
+|involved | /ɪnˈvɑːlvd/ |phức tạp|
+|capability | /ˌkeɪpəˈbɪləti/ |năng lực|
+|comfortable | /ˈkʌmftəbl/ |dễ chịu|
+|rough | /raf/ |nhám; ráp, gồ ghề|
+|powerful | /ˈpaʊərfl/ |hùng mạnh|
+|apologize | /əˈpolədʒaiz/ |xin lỗi|
+|executive | /iɡˈzekjutiv/ |điều hành|
+|allot | /əˈlot/ |phân chia|
+|prompt | /prompt/ |nhanh chóng|
+|dairy | /ˈderi/ |phô mai|
+|unveil | /anˈveil/ |tuyên bố, tiết lộ|
+|inquire | /inˈkwaiə/ |hỏi thăm|
+|flyer | /ˈflaɪər/ |phi công; nhà phi hành, tờ quảng cáo|
+|intermediate | /intəˈmiːdiət/ |trung gian; trung cấp|
+|scratch | /skrӕtʃ/ |cào|
+|damage | /ˈdӕmidʒ/ |sự hư hại|
+|annual | /ˈӕnjuəl/ |hàng năm|
+|engaged  | /ɪnˈɡeɪdʒd/ |bận, đính hôn|
+|incentive  | /inˈsentiv/ |sự khuyến khích|
+|compete  | /kəmˈpiːt/ |cạnh tranh, đua tranh|
+|qualify  | /ˈkwolifai/ |đủ tiêu chuẩn|
+|competitive  | /kəmˈpetətiv/ |có sức cạnh tranh|
+|premiere  | /ˈpremieə/ |ra mắt, công chiếu|
+|fully  | /ˈfʊli/ |đầy đủ; hoàn toàn|
+|hall  | /hoːl/ |phòng đợi, phòng hội trường|
+|effective  | /ɪˈfektɪv/ |có hiệu quả, hiệu lực|
+
+## Part 8
+
+| Phase verb   | VN 			|
+|--------------|----------------|
+|be supposed to|bổn phận, có nhiệm vụ làm gì| 
+|be about to| sắp làm gì|
+|make up mind| quyết định|
+|engaged in/on something|bận làm cái gì|
+|by any chance|có thể|
