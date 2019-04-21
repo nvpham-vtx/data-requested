@@ -362,6 +362,26 @@
 |fully  | /ˈfʊli/ |đầy đủ; hoàn toàn|
 |hall  | /hoːl/ |phòng đợi, phòng hội trường|
 |effective  | /ɪˈfektɪv/ |có hiệu quả, hiệu lực|
+|fare  | /feə/ |tiền xe; tiền vé|
+|peak  | /piːk/ |đỉnh|
+|profession   | /prəˈfeʃn/ |nghề nghiệp|
+|thrill   | /θril/ |hồi hộp, xúc động|
+|affordable| /əˈfɔːrdəbl/ |chấp nhận được|
+|popular| /ˈpopjulə/ |nổi tiếng, phổ biến|
+|delight| /diˈlait/ |thích thú|
+|stomachache| /ˈstamək/ |đau bụng, dạ dày|
+|sprain| /sprein/ |làm bong gân|
+|ankle| /ˈӕŋkl/ |mắt cá chân|	
+|launderette| /ˌlɔːndəˈret/ |giặt là|	
+|trade| /treid/ |thương mại, sự buôn bán|	
+|staple| /ˈsteipl/ |ghim dập, đinh kẹp|	
+|magazine| /mӕɡəˈziːn/ |tạp chí|	
+|award| /əˈwoːd/ |thưởng|	
+|entitle| /inˈtaitl/ |đặt tiêu đề|	
+|interest| /ˈintrəst/ |sự chú ý|	
+|ceremony| /ˈserəmouni/ |nghi lễ|	
+|dock| /dok/ |bến tàu|	
+
 
 ## Part 8
 
