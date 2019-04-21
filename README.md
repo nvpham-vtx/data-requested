@@ -320,6 +320,11 @@
 |candidate |/ˈkӕndidət/ |thí sinh, ứng cử viên|
 |relevant |/ˈreləvənt/ |liên quan|
 |aware |/əˈweə/ |nhận thức|
+
+## Part 8
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |attract |/əˈtrӕkt/ |thu hút|
 |consume |/kənˈsjuːm/ |tiêu thụ|
 |counterpart |/ˈkauntəpaːt/ |bên đối tác|
@@ -361,6 +366,11 @@
 |premiere  | /ˈpremieə/ |ra mắt, công chiếu|
 |fully  | /ˈfʊli/ |đầy đủ; hoàn toàn|
 |hall  | /hoːl/ |phòng đợi, phòng hội trường|
+
+## Part 9
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |effective  | /ɪˈfektɪv/ |có hiệu quả, hiệu lực|
 |fare  | /feə/ |tiền xe; tiền vé|
 |peak  | /piːk/ |đỉnh|
@@ -381,9 +391,29 @@
 |interest| /ˈintrəst/ |sự chú ý|	
 |ceremony| /ˈserəmouni/ |nghi lễ|	
 |dock| /dok/ |bến tàu|	
+|parcel| /ˈpaːsl/ |bưu kiện|	
+|crosswalk| /ˈkrɔːswɔːk/ |lối đi qua đường|	
+|caterer| /ˈkeɪtərər/ |lngười cung cấp lương thực, thực phẩm|	
+|realtor| /riːəltər/ |người môi giới bất động sản|	
+|tourism| /ˈtʊrɪzəm/ |du lịch|	
+|short-handed | /ˌʃɔːrt ˈhændɪd / |thiếu nhân công|	
+|respond| /rəˈspond/ |trả lời|	
+|applicant| /ˈæplɪkənt/ |người xin việc|	
+|narrow| /ˈnӕrəu/ |eo hẹp|	
+|deny| /diˈnai/ |phủ nhận, từ chối|	
+|elevate| /ˈeliveit/ |thăng chức|	
+|admission| /ədˈmɪʃn/ |sự cho phép vào|	
+|tempting | /ˈtemptɪŋ/ |hấp dẫn, khêu gợi|	
+|guess | /ɡes/ |phỏng đoán|	
+|survey | /səˈvei/ |quan sát, nhìn chung|	
+|indicate | /ˈindikeit/ |chỉ ra|	
+|conduct | /kənˈdakt/ |hướng dẫn|	
+|diet | /ˈdaiət/ |chế độ ăn kiêng|	
+|vegetarian | /ˌvedʒəˈteriən/ |người ăn chay|	
+|organic | /ɔːrˈɡænɪk/ |hữu cơ|	
+|dessert | /diˈzəːt/ |món tráng miệng|	
 
-
-## Part 8
+## Part 10
 
 | Phase verb   | VN 			|
 |--------------|----------------|
@@ -392,3 +422,4 @@
 |make up mind| quyết định|
 |engaged in/on something|bận làm cái gì|
 |by any chance|có thể|
+|find out|khám phá|
