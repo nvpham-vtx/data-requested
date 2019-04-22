@@ -250,7 +250,7 @@
 |proper |/ˈprɑːpər/ |đúng cách, trọn vẹn|
 |hesitate |/ˈheziteit/ |do dự|
 |recommendation |/ˌrekəmenˈdeɪʃn/ |sự giới thiệu|
-|recommend |/rekəˈmend/ |lời khuyên|
+|recommend |/rekəˈmend/ |lời khuyên, giới thiệu|
 |loud |/laʊd/ |to, ầm ĩ|
 |stake |/steik/ |cọc|
 |brake |/breɪk/ |phanh|
@@ -320,6 +320,7 @@
 |candidate |/ˈkӕndidət/ |thí sinh, ứng cử viên|
 |relevant |/ˈreləvənt/ |liên quan|
 |aware |/əˈweə/ |nhận thức|
+|symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
 
 ## Part 8
 
@@ -415,6 +416,41 @@
 
 ## Part 10
 
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|tenant | /ˈtenənt/ |người thuê, người mướn|	
+|landlord | /ˈlændlɔːrd/ |chủ nhà|	
+|ongoing | /ˈɑːnɡoʊɪŋ/ |sắp sửa|	
+|elevator | /ˈelɪveɪtər/ |thang máy|	
+|appeal | /ˈelɪveɪtər/ |    |	
+|apologize | /ˈelɪveɪtər/ |    |	
+|time-consuming|/ˈtaɪm kənsuːmɪŋ/|tốn nhiều thời gian|
+|expense|/ɪkˈspens/|phí tổn|
+|reimbursement|/ˌriːɪmˈbɜːrsmənt/|hoàn trả|
+|abroad|/əˈbroːd/|ở nước ngoài|
+|reimburse|/ˌriːɪmˈbɜːrs/|trả lại|
+|complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
+|drum|/dram/|cái trống|
+|anticipate|/ӕnˈtisəpeit/|lường trước|
+|nature|/ˈneitʃə/|thiên nhiên|
+|dedicate|/ˈdedikeit/|hiến dâng|
+|attitude|/ˈӕtitjuːd/|quan điểm|
+|various|/ˈveəriəs/|khác nhau|
+|disappoint|/disəˈpoint/|thất vọng|
+|awful|/ˈoːful/|khủng khiếp|
+|cavity|/ˈkӕvəti/|hốc|
+|painful|/ˈpeɪnfl/|đau đớn|
+|flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
+|minor|/ˈmainə/|nhỏ; thứ yếu,phụ|
+|stable|/ˈsteibl/|vững chắc|
+|originally|/əˈrɪdʒənəli/|xét về nguồn gốc|
+|laundry|/ˈlɔːndri/|cửa hàng giặt lả|
+|laundry|/ˈfeɪvər/|giúp đỡ|
+|brief|/briːf/|ngắn gọn|
+| inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
+
+## Part 11
+
 | Phase verb   | VN 			|
 |--------------|----------------|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
@@ -423,3 +459,4 @@
 |engaged in/on something|bận làm cái gì|
 |by any chance|có thể|
 |find out|khám phá|
+|be sold out| đã hết|
