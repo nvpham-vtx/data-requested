@@ -447,9 +447,51 @@
 |laundry|/ˈlɔːndri/|cửa hàng giặt lả|
 |laundry|/ˈfeɪvər/|giúp đỡ|
 |brief|/briːf/|ngắn gọn|
-| inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
+|inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
+|Frankly|/ˈfræŋkli/|thành thực mà nói|
+|clerk|/kləːk/|thư ký|
+|potential|/pəˈtenʃəl/|tiềm năng|
+|complaint|/kəmˈplein/|sự than phiền|
+|guardian|/ˈɡaːdiən/|người giám hộ|
+|clinic|/ˈklinik/|phòng khám|
+|commemorate|/kəˈmeməreit/|kỷ niệm; tưởng niệm|
+|anniversary|/ӕnəˈvəːsəri/|lễ kỷ niệm|
+|brand|/brӕnd/|nhãn mác|
+|patron|/ˈpeitrən/|khách hàng quen|
+|rectify|/ˈrektifai/|chỉnh cho bằng|
 
 ## Part 11
+
+| Phase verb   | VN 			|
+|--------------|----------------|
+|expedite|/ˈekspidait/|xúc tiến|
+|attorney|/əˈtəːni/|người được uỷ quyền|
+|residence|/ˈrezɪdəns/|nhà; dinh thự|
+|harbor|/ˈhɑːrbər/|hải cảng|
+|appliance|/əˈplaɪəns/|thiết bị|
+|resident|/ˈrezidənt/|cư dân|
+|earn|/əːn/|kiếm được|
+|keynote|/ˈkiːnoʊt/|ý chủ đạo|
+|hazard|/ˈhӕzəd/|mối nguy hiểm; sự độc hại|
+|agenda|/əˈdʒendə/|chương trình hội nghị|
+|manufacturing|/ˌmænjuˈfæktʃərɪŋ/|việc sản xuất|
+|inspection|/ɪnˈspekʃn/|sự kiểm tra|
+|inspector|/ɪnˈspektər/|thanh tra viên|
+|essential|/iˈsenʃəl/|thiết yếu|
+|reunion|/riːjuːnjən/|cuộc hội ngộ|
+|authentic|/oːˈθentik/|đích thực|
+|elegant|/ˈeliɡənt/|thanh lịch|
+|steady|/ˈstedi/|vững vàng, vững chắc|
+|venue|/ˈvenjuː/|nơi tổ chức sự kiện|
+|orphanage|/ˈɔːrfənɪdʒ/|trại mồ côi|
+|headlines|/ˈhedlaɪn/|tin chính|
+|celebrity|/səˈlebrəti/|người nổi tiếng|
+|creativity|/ˌkriːeɪˈtɪvəti/|tính sáng tạo|
+|debut|/ˈdeibjuː/|lần trình diễn đầu tiên|
+|durable|/ˈdjuərəbl/|kéo dài trong một thời gian bao lâu, bền|
+|soar|/soː/|đạt ở mức cao|
+
+## Part 12
 
 | Phase verb   | VN 			|
 |--------------|----------------|
@@ -460,3 +502,4 @@
 |by any chance|có thể|
 |find out|khám phá|
 |be sold out| đã hết|
+|in honor of|dư danh nghĩa của|
