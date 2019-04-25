@@ -490,6 +490,23 @@
 |debut|/ˈdeibjuː/|lần trình diễn đầu tiên|
 |durable|/ˈdjuərəbl/|kéo dài trong một thời gian bao lâu, bền|
 |soar|/soː/|đạt ở mức cao|
+|feed|/fiːd/|nuôi|
+|bottle|/ˈbotl/|chai lọ|
+|pile|/pail/|đống: chồng|
+|ledge|/ledʒ/|gờ; rìa|
+|conduct|/kənˈdakt/|hướng dẫn, thực hiện|
+|hygiene|/ˈhaidʒiːn/|vệ sinh|
+|oral|/ˈoːrəl/|bằng lời nói|
+|prevent|/priˈvent/|ngăn chặn|
+|deteriorate|/diˈtiəriəreit/|xấu đi|
+|assurance|/əˈʃʊrəns/|sự bảo đảm|
+|cosmetic|/kozˈmetik/|trang điểm|
+|perfume|/ˈpəːfjuːm/|hương thơm|
+|handicap|/ˈhӕndikӕp/|điều bất lợi|
+|stipulate|/ˈstipjuleit/|quy định, ước định|
+|shredder|/ˈʃredər/|thiết bị cắt vụn|
+|shredder|/rɪˈliːv/|làm giảm; làm dịu|
+|commercial|/ˈkoməːs/|thuộc thương mại|
 
 ## Part 12
 
