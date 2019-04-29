@@ -254,7 +254,7 @@
 |loud |/laʊd/ |to, ầm ĩ|
 |stake |/steik/ |cọc|
 |brake |/breɪk/ |phanh|
-|promote |/prəˈmoʊt/ |thăng chức|
+|promote |/prəˈmoʊt/ |thăng chức, quảng cáo|
 |secret |/ˈsiːkrit/ |thầm kín, bí mật|
 |heat |/hiːt/ |sức nóng|
 |bust |/bast/ |bắt giữ, thu, tượng bán thân|
@@ -505,10 +505,34 @@
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
 |stipulate|/ˈstipjuleit/|quy định, ước định|
 |shredder|/ˈʃredər/|thiết bị cắt vụn|
-|shredder|/rɪˈliːv/|làm giảm; làm dịu|
+|relieve|/rɪˈliːv/|làm giảm; làm dịu|
 |commercial|/ˈkoməːs/|thuộc thương mại|
+|talkative|/ˈtoːkətiv/|lắm lời|
+|sudden|/ˈsadn/|thình lình|
+|political|/pəˈlɪtɪkl/|thuộc chính trị|
+|debate|/diˈbeit/|cuộc tranh luận|
+|fog|/foɡ/|sương mù|
+|further|/ˈfəːðə/|xa hơn nữa|
+|notice|/ˈnəutis/|thông báo|
+|coupon|/ˈkuːpon/|phiếu|
 
 ## Part 12
+
+| Phase verb   | VN 			|
+|--------------|----------------|
+|luggage|/ˈlaɡidʒ/|hành lý|
+|timetable|/ˈtaɪmteɪbl/|thời gian biểu|
+|patience|/ˈpeiʃənt/|kiên nhẫn|
+|worth|/wəːθ/|gía trị|
+|reliable|/ˈkuːpon/|có thể tin tưởng được|
+|unveil|/anˈveil/|tuyên bố công khai, tiết lộ|
+|fuel|/ˈfjuəl/|chất đốt; nhiên liệu|
+|predecessor|/ˈpreːdisesə/|người tiền nhiệm|
+|nationwide|/ˌneɪʃnˈwaɪd/|toàn quốc|
+|hybrid|/ˈhaibrid/|xe kết hợp nhiều nguồn nhiên liệu|
+|columnist|/ˈkoləmnist/|người chuyên giữ một mục báo|
+
+## Part 13
 
 | Phase verb   | VN 			|
 |--------------|----------------|
@@ -520,3 +544,4 @@
 |find out|khám phá|
 |be sold out| đã hết|
 |in honor of|dư danh nghĩa của|
+|round off|thành công|
