@@ -385,7 +385,6 @@
 |ankle| /ˈӕŋkl/ |mắt cá chân|	
 |launderette| /ˌlɔːndəˈret/ |giặt là|	
 |trade| /treid/ |thương mại, sự buôn bán|	
-|staple| /ˈsteipl/ |ghim dập, đinh kẹp|	
 |magazine| /mӕɡəˈziːn/ |tạp chí|	
 |award| /əˈwoːd/ |thưởng|	
 |entitle| /inˈtaitl/ |đặt tiêu đề|	
@@ -531,6 +530,29 @@
 |nationwide|/ˌneɪʃnˈwaɪd/|toàn quốc|
 |hybrid|/ˈhaibrid/|xe kết hợp nhiều nguồn nhiên liệu|
 |columnist|/ˈkoləmnist/|người chuyên giữ một mục báo|
+|prize|/praiz/|giải thưởng|
+|prestige|/preˈstiːʒ/|uy tín|
+|nominate|/ˈnomineit/|đề cử|
+|prohibit|/prəˈhibit/|cấm|
+|sculpture|/ˈskʌlptʃər/|nghệ thuật điêu khắc|
+|innovative|/ˈɪnəveɪtɪv/|sáng tạo|
+|bold|/bəuld/|táo bạo|
+|emerge|/iˈmɜːrdʒ/|nổi lên|
+|opportunity|/opəˈtjuːnəti/|cơ hội|
+|permit|/pəˈmit/|cho phép|
+|curator|/kjuəˈreitə/|người phụ trách bảo tàng|
+|architect|/ˈaːkitekt/|kiến trúc sư|
+|settle|/ˈsetl/|giải quyết, thanh toán|
+|statement|/ˈsteɪtmənt/|bản kê in sẵn, sự phát biểu, tuyên bố|
+|outline|/ˈautlain/|phác thảo|
+|wage|/weidʒ/|tiến hành|
+|vacant|/ˈveikənt/|bỏ không, khuyết|
+|clerical|/ˈklerikəl/|thuộc tăng lữ|
+|cater|/ˈkeɪtər/|người cung cấp thực phẩm|
+|corporation|/ˌkɔːrpəˈreɪʃn/|tập đoàn|
+|patron|/ˈpeitrən/|khách hàng quen|
+|willing|/ˈwɪlɪŋ/|sẵn sàng|
+|occasion|/əˈkeiʒən/|dịp đặc biệt|
 
 ## Part 13
 
@@ -545,3 +567,4 @@
 |be sold out| đã hết|
 |in honor of|dư danh nghĩa của|
 |round off|thành công|
+|feel free|đừng ngại|
