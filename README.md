@@ -556,8 +556,8 @@
 
 ## Part 13
 
-| Word         | NAmE 			| VN				|
-|--------------|----------------|-------------------|
+| Word         | NAmE 			|
+|--------------|----------------|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
 |make up mind| quyết định|
