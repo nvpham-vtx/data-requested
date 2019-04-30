@@ -553,6 +553,11 @@
 |patron|/ˈpeitrən/|khách hàng quen|
 |willing|/ˈwɪlɪŋ/|sẵn sàng|
 |occasion|/əˈkeiʒən/|dịp đặc biệt|
+|situation|/sitjuˈeiʃən/|tình hình, trạng thái, hoàn cảnh|
+|revenue|/ˈrevinjuː/|thu nhập|
+|definitive|/diˈfinitiv/|cuối cùng, hay nhất|
+|relocate|/riːˈloukeit/|chuyển chỗ|
+|opposite|/ˈopəzit/|đối lập|
 
 ## Part 13
 
@@ -568,3 +573,4 @@
 |in honor of|dư danh nghĩa của|
 |round off|thành công|
 |feel free|đừng ngại|
+|come up with|nảy ra|
