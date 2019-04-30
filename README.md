@@ -461,8 +461,8 @@
 
 ## Part 11
 
-| Phase verb   | VN 			|
-|--------------|----------------|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |expedite|/ˈekspidait/|xúc tiến|
 |attorney|/əˈtəːni/|người được uỷ quyền|
 |residence|/ˈrezɪdəns/|nhà; dinh thự|
@@ -517,8 +517,8 @@
 
 ## Part 12
 
-| Phase verb   | VN 			|
-|--------------|----------------|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |luggage|/ˈlaɡidʒ/|hành lý|
 |timetable|/ˈtaɪmteɪbl/|thời gian biểu|
 |patience|/ˈpeiʃənt/|kiên nhẫn|
@@ -556,8 +556,8 @@
 
 ## Part 13
 
-| Phase verb   | VN 			|
-|--------------|----------------|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
 |make up mind| quyết định|
