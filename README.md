@@ -5,13 +5,14 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |  sip 	    	   | /sɪp/ 			| nhấm nháp (uống một lượng rất nhỏ)|
-| reel    	   | /riːl/ 			| cuộn, quấn| 
-|  crew 	    	   | /kruː/ 			| Tất cả người trên tàu or máy bay| 
+| reel    	   | /riːl/ 			| cuộn, quấn, ống chỉ| 
+|  crew 	    	   | /kruː/ 			|thủy thủ đoàn; phi đội, bọn; đám| 
+|  airstrip 	    	   | /airstrip/ 			|đường băng| 
 |     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
 | saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
 |  helmet 	    	   | /ˈhelmɪt/ 			| mũ bảo hiểm|
 |deck |/dek/|tầng trên cùng của một con tàu|
-|   Candlestick 	    	   | /ˈkændlstɪk/ 			| chân nến|
+|   Candlestick 	    	   | /ˈkændlstɪk/ 			| giá đỡ nến|
 |    balcony  	    	   | /ˈbælkəni/ 			| ban công |
 |gesture|/ˈdʒestʃər/|cử chỉ|
 |  cloth 	    	   | /klɔːθ/ 			| vải (vật liệu được dệt bằng lụa)|
@@ -78,7 +79,7 @@
 |carriage  |/ˈkærɪdʒ/ |toa xe lửa|
 |unfold|/ʌnˈfoʊld/| mở những cái đã gập|
 |grass |/ ɡræs/|cây cỏ|
-| tray   |/treɪ/|cái khay|
+| tray   |/treɪ/|cái khay, cái mâm|
 |lit|/lɪt/| thắp sáng|
 |serve|/sɜːrv/| phục vụ|
 |conductor|/kənˈdʌktər/| người điều khiển|
@@ -152,7 +153,7 @@
 |article |/ˈɑːrtɪkl/|bài báo|
 |postpone    |/poʊˈspoʊn/|hoãn lại|
 |compact |/ˈkɑːmpækt/|chật ních|
-|cord |/kɔːrd/|dây|
+|cord |/kɔːrd/|dây thừng nhỏ|
 |  dental    |/ˈdentl/|nha khoa|
 |inclement    |/ɪnˈklemənt/ |xấu|
 | domestic |/dəˈmestɪk/ |thuộc về trong nước|
@@ -186,20 +187,20 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|spread|/spred/|giăng, bày ra|
 |consult|/kənˈsʌlt/ |tư vấn|
 |decade |/ˈdekeɪd/|thập kỷ|
 | subway    |/ˈsʌbweɪ/ |tàu điện ngầm|
-|  handy |/ˈhændi/ |tiện dụng|
+|  handy |/ˈhændi/ |sẵn có; thuận tiện|
 |gate   |/ɡeɪt/ |cổng|
 |represent  |/ˌreprɪˈzent/|đại diện|
 |revise   |/rɪˈvaɪz/|sửa lại, xem lại|
 |  furniture  |/ˈfɜːrnɪtʃər/ |đồ nội thất|
 |representative |/ˌreprɪˈzentətɪv/|đại diện, tiêu biểu|
 |concern |/kənˈsɜːrn/|lo lắng, liên quan|
-|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |committee  |/kəˈmɪti/|ủy ban|
 |  convenience  |/kənˈviːniəns/ |tiện lợi|
-|    steak  |/steɪk/ |miếng bò hầm bít tết|
+|    steak  |/steɪk/ |miếng cá, thịt để nướng|
 | bake |/beɪk/ |nướng|
 |payroll|/ˈpeɪroʊl/|bảng lương|
 | disappear|/ˌdɪsəˈpɪr/ |biến mất|
@@ -215,17 +216,17 @@
 |delicious|/dɪˈlɪʃəs/ |thơm ngon|
 |  pocket |/ˈpɑːkɪt/ |túi quần|
 |    appealing |/əˈpiːlɪŋ/ |hấp dẫn, thú vị|
-|bid|/bɪd/ |đấu thầu|
+|bid|/bɪd/ |đấu thầu, đấu giá|
 |   escort |/ˈeskɔːrt/ |hộ tống|
 |jam|/dʒæm/|tắc đường, mứt|
 |lecture|/ˈlektʃər/|bài diễn thuyết, bài giảng|
 | understaffed |/ˌʌndərˈstæft/ |thiếu nhân sự|
-| unpack |/ˌʌnˈpæk/ |giải nén|
+| unpack |/ˌʌnˈpæk/ |tháo, dỡ, mở, cởi|
 | glad  |/ɡlæd/ |hài lòng, vui mừng|
 |  attentive  |/əˈtentɪv/ |chăm chú|
 |  reception   |/rɪˈsepʃn/ |nơi tiếp nhận, tiệc chiêu đãi|
 |  ballroom   |/ˈbɔːlruːm/ |phòng khiêu vũ|
-|  cartridge   |/ˈkɑːrtrɪdʒ/ |ống chứa mực|
+|  cartridge   |/ˈkɑːrtrɪdʒ/ |ống chứa mực, đạn; vỏ đạn|
 |  overseas   |/ˌoʊvərˈsiːz/ |hải ngoại|
 
 ## Part 6
@@ -234,7 +235,7 @@
 |--------------|----------------|-------------------|
 |  suburb    |/ˈsʌbɜːrb/ |ngoại ô|
 |  depart    |/dɪˈpɑːrt/ |khởi hành|
-|  accurate    |/ˈækjərət/ |chính sác đến từng chi tiết|
+|  accurate    |/ˈækjərət/ |chính sác đến từng chi tiết, đúng đắn|
 |   patient     |/ˈpeɪʃnt/ |bệnh nhân|
 |   intersection     |/ɪntərˈsekʃn/ |giao nhau|
 |   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
@@ -340,7 +341,7 @@
 |injure | /ˈindʒə/ |gây thương tích|
 |apparently | /əˈpӕrəntli/ |hình như|
 |recover | /rəˈkavə/ |hồi phục|
-|occupation | /ˌɑːkjuˈpeɪʃn// |sự chiếm giữ, nghề nghiệp|
+|occupation | /ˌɑːkjuˈpeɪʃn/ |sự chiếm giữ, nghề nghiệp|
 |sort | /soːt// |loại, thứ, hạng|
 |involved | /ɪnˈvɑːlvd/ |phức tạp|
 |capability | /ˌkeɪpəˈbɪləti/ |năng lực|
@@ -350,7 +351,7 @@
 |apologize | /əˈpolədʒaiz/ |xin lỗi|
 |executive | /iɡˈzekjutiv/ |điều hành|
 |allot | /əˈlot/ |phân chia|
-|prompt | /prompt/ |nhanh chóng|
+|prompt | /prɑːmpt/ |nhanh chóng|
 |dairy | /ˈderi/ |phô mai|
 |unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |inquire | /inˈkwaiə/ |hỏi thăm|
@@ -558,11 +559,16 @@
 |definitive|/diˈfinitiv/|cuối cùng, hay nhất|
 |relocate|/riːˈloukeit/|chuyển chỗ|
 |opposite|/ˈopəzit/|đối lập|
+|ladder|/ˈlӕdə/|cái thang|
+|sink|/siŋk/|bồn rửa|
+|dirty|/ˈdɜːrti/|bẩn|
+|drawer|/droː/|ngăn kéo|
 
 ## Part 13
 
 | Word         | NAmE 			|
 |--------------|----------------|
+|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
 |make up mind| quyết định|
