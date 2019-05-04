@@ -563,6 +563,14 @@
 |sink|/siŋk/|bồn rửa|
 |dirty|/ˈdɜːrti/|bẩn|
 |drawer|/droː/|ngăn kéo|
+|suffice|/səˈfais/|đủ để đáp ứng|
+|inadequate|/inˈӕdikwət/|không đủ|
+|conclude|/kənˈkluːd/|kết thúc, kết luận|
+|slight|/slait/|nhẹ, không đáng kể|
+|argue|/ˈaːɡjuː/|cãi nhau|
+|crucial|/ˈkruːʃəl/|rất quan trọng|
+|scare|/skeə/|làm kinh hãi|
+|thrill|/θril/|hồi hộp, xúc động|
 
 ## Part 13
 
@@ -580,3 +588,4 @@
 |round off|thành công|
 |feel free|đừng ngại|
 |come up with|nảy ra|
+|take advantage of|tận dụng cơ hội|
