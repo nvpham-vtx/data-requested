@@ -579,6 +579,7 @@
 
 | Word         | NAmE 			|
 |--------------|----------------|
+|run out|cạn kiệt|
 |engaged in/on something|bận làm cái gì|
 |  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
@@ -592,4 +593,4 @@
 |feel free|đừng ngại|
 |come up with|nảy ra|
 |take advantage of|tận dụng cơ hội|
-|run out|cạn kiệt|
+
