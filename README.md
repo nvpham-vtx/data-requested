@@ -125,7 +125,7 @@
 |  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
 | weld |/weld/|hàn, gắn, liên kết|
 |unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
-|  crop   |/krɑːp/|vụ mùa|
+| crop |/krɑːp/|vụ mùa|
 |  harvest   |/ˈhɑːrvɪst/|thu hoạch|
 |  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
 |  lend   |/lend/|cho mượn|
@@ -215,7 +215,7 @@
 | bilingual |/ˌbaɪˈlɪŋɡwəl/ |nói được 2 thứ tiếng|
 |delicious|/dɪˈlɪʃəs/ |thơm ngon|
 |  pocket |/ˈpɑːkɪt/ |túi quần|
-|    appealing |/əˈpiːlɪŋ/ |hấp dẫn, thú vị|
+|    appealing |/əˈpiːlɪŋ/ |hấp dẫn, thú vị, quyến rũ|
 |bid|/bɪd/ |đấu thầu, đấu giá|
 |   escort |/ˈeskɔːrt/ |hộ tống|
 |jam|/dʒæm/|tắc đường, mứt|
@@ -243,7 +243,7 @@
 |     tenant      |/ˈtenənt/ |người thuê nhà|
 |     terrible      |/ˈterəbl/ |tồi tệ khủng khiếp|
 |     speech      |/spiːtʃ/ |bài diễn thuyết|
-|      fantastic      |/fænˈtæstɪk/ |rất tốt, xuất sắc|
+|      fantastic      |/fænˈtæstɪk/ |tuyệt vời; rất tốt|
 |unfortunately|/ʌnˈfɔːrtʃənətli/ |không may thay|
 |handout |/ˈhændaʊt/ |tờ thông tin|
 |reserve |/rɪˈzɜːrv/ |đặt trước|
@@ -308,7 +308,7 @@
 |worse|/ˈwɜːrsn/ |tệ hơn|
 |definitely|/ˈdefɪnətli/ |một cách rõ ràng|
 |prospective|/prəˈspek.tɪv/ |thuộc về sau này|
-|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh|
+|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
 |profit|/ˈprofit/ |lợi nhuận|
 |facility|/fəˈsiləti/ |kỹ năng; sự khéo léo|
 |blowout|/ˈbloʊaʊt/ |biến cố lớn, sự nổ lốp xe|
@@ -352,7 +352,8 @@
 |executive | /iɡˈzekjutiv/ |điều hành|
 |allot | /əˈlot/ |phân chia|
 |prompt | /prɑːmpt/ |nhanh chóng|
-|dairy | /ˈderi/ |phô mai|
+|dairy | /ˈderi/ |cửa hàng bán bơ sữa|
+|cheese = cheddar| /tʃiːz = tʃedə/ |phô mai|
 |unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |inquire | /inˈkwaiə/ |hỏi thăm|
 |flyer | /ˈflaɪər/ |phi công; nhà phi hành, tờ quảng cáo|
@@ -365,7 +366,7 @@
 |compete  | /kəmˈpiːt/ |cạnh tranh, đua tranh|
 |qualify  | /ˈkwolifai/ |đủ tiêu chuẩn|
 |competitive  | /kəmˈpetətiv/ |có sức cạnh tranh|
-|premiere  | /ˈpremieə/ |ra mắt, công chiếu|
+|premiere  | /prɪˈmɪr/ |ra mắt, công chiếu|
 |fully  | /ˈfʊli/ |đầy đủ; hoàn toàn|
 |hall  | /hoːl/ |phòng đợi, phòng hội trường|
 
@@ -391,24 +392,24 @@
 |entitle| /inˈtaitl/ |đặt tiêu đề|	
 |interest| /ˈintrəst/ |sự chú ý|	
 |ceremony| /ˈserəmouni/ |nghi lễ|	
-|dock| /dok/ |bến tàu|	
+|dock| /dɑːk/ |bến tàu|	
 |parcel| /ˈpaːsl/ |bưu kiện|	
 |crosswalk| /ˈkrɔːswɔːk/ |lối đi qua đường|	
-|caterer| /ˈkeɪtərər/ |lngười cung cấp lương thực, thực phẩm|	
+|caterer| /ˈkeɪtərər/ |người cung cấp lương thực, thực phẩm|	
 |realtor| /riːəltər/ |người môi giới bất động sản|	
 |tourism| /ˈtʊrɪzəm/ |du lịch|	
 |short-handed | /ˌʃɔːrt ˈhændɪd / |thiếu nhân công|	
-|respond| /rəˈspond/ |trả lời|	
+|respond| /rɪˈspɑːnd/ |trả lời|	
 |applicant| /ˈæplɪkənt/ |người xin việc|	
 |narrow| /ˈnӕrəu/ |eo hẹp|	
 |deny| /diˈnai/ |phủ nhận, từ chối|	
-|elevate| /ˈeliveit/ |thăng chức|	
+|elevate| /ˈeliveit/ |thăng chức, nâng cao|	
 |admission| /ədˈmɪʃn/ |sự cho phép vào|	
 |tempting | /ˈtemptɪŋ/ |hấp dẫn, khêu gợi|	
 |guess | /ɡes/ |phỏng đoán|	
 |survey | /səˈvei/ |quan sát, nhìn chung|	
 |indicate | /ˈindikeit/ |chỉ ra|	
-|conduct | /kənˈdakt/ |hướng dẫn|	
+|conduct | /kənˈdakt/ |hướng dẫn, điều khiển|	
 |diet | /ˈdaiət/ |chế độ ăn kiêng|	
 |vegetarian | /ˌvedʒəˈteriən/ |người ăn chay|	
 |organic | /ɔːrˈɡænɪk/ |hữu cơ|	
@@ -570,17 +571,19 @@
 |argue|/ˈaːɡjuː/|cãi nhau|
 |crucial|/ˈkruːʃəl/|rất quan trọng|
 |scare|/skeə/|làm kinh hãi|
-|thrill|/θril/|hồi hộp, xúc động|
+|interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
+|projector|/prəˈdʒektər/|máy chiếu|
+|relative|/ˈrelətɪv/|họ hàng|
 
 ## Part 13
 
 | Word         | NAmE 			|
 |--------------|----------------|
+|engaged in/on something|bận làm cái gì|
 |  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
 |make up mind| quyết định|
-|engaged in/on something|bận làm cái gì|
 |by any chance|có thể|
 |find out|khám phá|
 |be sold out| đã hết|
@@ -589,3 +592,4 @@
 |feel free|đừng ngại|
 |come up with|nảy ra|
 |take advantage of|tận dụng cơ hội|
+|run out|cạn kiệt|
