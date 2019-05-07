@@ -560,6 +560,11 @@
 |opposite|/ˈopəzit/|đối lập|
 |ladder|/ˈlӕdə/|cái thang|
 |sink|/siŋk/|bồn rửa|
+
+## Part 13
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |dirty|/ˈdɜːrti/|bẩn|
 |drawer|/droː/|ngăn kéo|
 |suffice|/səˈfais/|đủ để đáp ứng|
@@ -581,7 +586,7 @@
 |suitable|/ˈsuːtəbl/|phù hợp|
 |trouble|/ˈtrabl/|điều rắc rối|
 
-## Part 13
+## Part 14
 
 | Word         | NAmE 			|
 |--------------|----------------|
