@@ -422,9 +422,7 @@
 |tenant | /ˈtenənt/ |người thuê, người mướn|	
 |landlord | /ˈlændlɔːrd/ |chủ nhà|	
 |ongoing | /ˈɑːnɡoʊɪŋ/ |sắp sửa|	
-|elevator | /ˈelɪveɪtər/ |thang máy|	
-|appeal | /ˈelɪveɪtər/ |    |	
-|apologize | /ˈelɪveɪtər/ |    |	
+|elevator | /ˈelɪveɪtər/ |thang máy|		
 |time-consuming|/ˈtaɪm kənsuːmɪŋ/|tốn nhiều thời gian|
 |expense|/ɪkˈspens/|phí tổn|
 |reimbursement|/ˌriːɪmˈbɜːrsmənt/|hoàn trả|
@@ -458,7 +456,7 @@
 |commemorate|/kəˈmeməreit/|kỷ niệm; tưởng niệm|
 |anniversary|/ӕnəˈvəːsəri/|lễ kỷ niệm|
 |brand|/brӕnd/|nhãn mác|
-|patron|/ˈpeitrən/|khách hàng quen|
+|patron|/ˈpeitrən/|khách hàng quen, người bảo trợ|
 |rectify|/ˈrektifai/|chỉnh cho bằng|
 
 ## Part 11
@@ -574,6 +572,14 @@
 |interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
 |projector|/prəˈdʒektər/|máy chiếu|
 |relative|/ˈrelətɪv/|họ hàng|
+|accessory|/əkˈsesəri/|đồ phụ tùng|
+|cooperate|/kəuˈopəreit/|cộng tác|
+|accompany|/əˈkampəni/|đi cùng|
+|cellist|/ˈtʃelɪst/|người chơi đàn violon|
+|infer|/ɪnˈfɜːr/|suy ra, kết luận|
+|politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
+|suitable|/ˈsuːtəbl/|phù hợp|
+|trouble|/ˈtrabl/|điều rắc rối|
 
 ## Part 13
 
@@ -593,4 +599,7 @@
 |feel free|đừng ngại|
 |come up with|nảy ra|
 |take advantage of|tận dụng cơ hội|
+|take on |đồng ý, đảm nhiệm|
+|all set|sẵn sàng|
+
 
