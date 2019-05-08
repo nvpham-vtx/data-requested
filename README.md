@@ -261,7 +261,7 @@
 |bust |/bast/ |bắt giữ, thu, tượng bán thân|
 |straight |/streit/ |thẳng|
 |decaf |/ˈdiːˌkæf/ |khử hết cafein|
-|fault |/fɔːlt/ |khuyết điểm|
+|fault = defects |/fɔːlt = ˈdiːfekt/ |khuyết điểm|
 |presentation |/ˌpriːzenˈteɪʃn/ |sự trình diễn, trưng bày|
 |bother |/ˈbɑːðər/ |làm phiền|
 |grab |/ɡrab/ |chiếm|
@@ -592,6 +592,20 @@
 |deliberate|/diˈlibərət/|cố ý|
 |capable|/ˈkeipəbl/|có năng lực|
 |abide|/əˈbaid/|chịu đựng|
+|athlete|/ˈӕθliːt/|vận động viên điền kinh|
+|dumbbell|/ˈdʌm bel/|quả tạ đôi|
+|barbell|/ˈbɑːrbel/|tạ dài|
+|treadmill|/ˈtredmɪl/|máy tập chạy bộ|
+|eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
+|eligible|/rɪˈspektɪv/|tương ứng|
+|coach|/kəutʃ/|toa, huấn luyện viên|
+|divert|/daiˈvəːt/|làm chệch hướng,giải trí|
+|transcript|/ˈtranskript/|bản sao,lý lịch học tập|
+|victim|/ˈviktim/|nạn nhân|
+|flood|/flad/|cơn lũ lụt|
+|trustee|/trʌˈstiː/|người được ủy thác|
+|ability|/əˈbiləti/|khả năng|
+|vacant|/ˈveikənt/|bỏ không, khuyết|
 
 ## Part 14
 
@@ -613,6 +627,6 @@
 |take advantage of|tận dụng cơ hội|
 |take on |đồng ý, đảm nhiệm|
 |all set|sẵn sàng|
-|carried out |tiến hành|
+|carry out|tiến hành|
 
 
