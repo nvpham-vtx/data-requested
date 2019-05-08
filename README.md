@@ -407,7 +407,7 @@
 |admission| /ədˈmɪʃn/ |sự cho phép vào|	
 |tempting | /ˈtemptɪŋ/ |hấp dẫn, khêu gợi|	
 |guess | /ɡes/ |phỏng đoán|	
-|survey | /səˈvei/ |quan sát, nhìn chung|	
+|survey | /səˈvei/ |quan sát, khảo sát|	
 |indicate | /ˈindikeit/ |chỉ ra|	
 |conduct | /kənˈdakt/ |hướng dẫn, điều khiển|	
 |diet | /ˈdaiət/ |chế độ ăn kiêng|	
@@ -487,7 +487,7 @@
 |celebrity|/səˈlebrəti/|người nổi tiếng|
 |creativity|/ˌkriːeɪˈtɪvəti/|tính sáng tạo|
 |debut|/ˈdeibjuː/|lần trình diễn đầu tiên|
-|durable|/ˈdjuərəbl/|kéo dài trong một thời gian bao lâu, bền|
+|durable|/ˈdjuərəbl/|kéo dài trong một thời gian bao lâu, bền bỉ|
 |soar|/soː/|đạt ở mức cao|
 |feed|/fiːd/|nuôi|
 |bottle|/ˈbotl/|chai lọ|
@@ -585,6 +585,13 @@
 |politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
 |suitable|/ˈsuːtəbl/|phù hợp|
 |trouble|/ˈtrabl/|điều rắc rối|
+|remittance|/rɪˈmɪtns/|sự chuyển tiền|
+|strive|/straiv/|phấn đấu, đấu tranh|
+|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
+|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
+|deliberate|/diˈlibərət/|cố ý|
+|capable|/ˈkeipəbl/|có năng lực|
+|abide|/əˈbaid/|chịu đựng|
 
 ## Part 14
 
@@ -606,5 +613,6 @@
 |take advantage of|tận dụng cơ hội|
 |take on |đồng ý, đảm nhiệm|
 |all set|sẵn sàng|
+|carried out |tiến hành|
 
 
