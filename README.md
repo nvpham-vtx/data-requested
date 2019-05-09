@@ -606,6 +606,25 @@
 |trustee|/trʌˈstiː/|người được ủy thác|
 |ability|/əˈbiləti/|khả năng|
 |vacant|/ˈveikənt/|bỏ không, khuyết|
+|intranet|/ˈintrənet/|nội mạng|
+|coordinate|/kəuˈoːdineit/|phối hợp|
+|poet|/ˈpouit/|nhà thơ|
+|honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
+|imagine|/iˈmӕdʒin	/|tưởng tượng|
+|power|/ˈpauə	/|khả năng|
+|visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
+|inspire|/inˈspaiə/|truyền cảm hứng|
+|imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
+|beverage|/ˈbevəridʒ/|đồ uống|
+|recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
+|remittance|/rɪˈmɪtns/|sự chuyển tiền|
+|thesis|/ˈθiːsis/|luận văn, luận án|
+|outbreak|/ˈautbreik/|bùng nổ|
+|disease|/diˈziːz/|bệnh|
+|hygiene|/ˈhaidʒiːn/|vệ sinh|
+|civil|/ˈsivl/|thuộc công dân|
+|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
+|absent|/absent/|vắng mặt|
 
 ## Part 14
 
@@ -628,5 +647,7 @@
 |take on |đồng ý, đảm nhiệm|
 |all set|sẵn sàng|
 |carry out|tiến hành|
+|in order to = in oder (that) = so (that)|để|
+|all time|từ trước đến nay|
 
 
