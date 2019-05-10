@@ -430,7 +430,7 @@
 |reimburse|/ˌriːɪmˈbɜːrs/|trả lại|
 |complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
 |drum|/dram/|cái trống|
-|anticipate|/ӕnˈtisəpeit/|lường trước|
+|anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
 |nature|/ˈneitʃə/|thiên nhiên|
 |dedicate|/ˈdedikeit/|hiến dâng|
 |attitude|/ˈӕtitjuːd/|quan điểm|
@@ -625,6 +625,24 @@
 |civil|/ˈsivl/|thuộc công dân|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |absent|/absent/|vắng mặt|
+|abandon|/əˈbӕndən/|hủy|
+|argue|/ˈaːɡjuː/|phản đối, tranh luận; biện luận|
+|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
+|pollute|/pəˈluːt/|ô nhiễm|
+|pollute|/pəˈluːt/|ô nhiễm|
+|picturesque|/piktʃəˈresk/|sinh động|
+|praise|/preiz/|khen ngợi|
+|punctual|/ˈpaŋktʃuəl/|đúng giờ|
+|rhetoric|/ˈretərik/|hùng biện|
+|contented|/kənˈtentɪd/|thỏa mãn|
+|surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
+|pragmatic|/præɡˈmætik/|thực dụng|
+|reassure|/riəˈʃuə/|khẳng định lại|
+|owe|/əu/|nợ|
+|mascot|/ˈmӕskət/|linh vật|
+|inevitable|/inˈevitəbl/|không thể tránh khỏi|
+|balance|/ˈbӕləns/|sự thăng bằng|
+|sincere|/sinˈsiə/|thành thật, chân thật|
 
 ## Part 14
 
@@ -649,5 +667,7 @@
 |carry out|tiến hành|
 |in order to = in oder (that) = so (that)|để|
 |all time|từ trước đến nay|
+|press conference |cuộc họp báo|
+|civil servant |công chức|
 
 
