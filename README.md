@@ -643,6 +643,11 @@
 |inevitable|/inˈevitəbl/|không thể tránh khỏi|
 |balance|/ˈbӕləns/|sự thăng bằng|
 |sincere|/sinˈsiə/|thành thật, chân thật|
+|regret|/rɪˈɡret/|tiếc|
+|thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
+|badge|/bӕdʒ/|huy hiệu|
+|temporary|/ˈtempərəri/|tạm thời|
+|cooperate|/kəuˈopəreit/|cộng tác|
 
 ## Part 14
 
