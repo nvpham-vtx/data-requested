@@ -492,8 +492,7 @@
 |feed|/fiːd/|nuôi|
 |bottle|/ˈbotl/|chai lọ|
 |pile|/pail/|đống: chồng|
-|ledge|/ledʒ/|gờ; rìa|
-|conduct|/kənˈdakt/|hướng dẫn, thực hiện|
+|drawer|/droː/|ngăn kéo|
 |hygiene|/ˈhaidʒiːn/|vệ sinh|
 |oral|/ˈoːrəl/|bằng lời nói|
 |prevent|/priˈvent/|ngăn chặn|
@@ -505,15 +504,16 @@
 |stipulate|/ˈstipjuleit/|quy định, ước định|
 |shredder|/ˈʃredər/|thiết bị cắt vụn|
 |relieve|/rɪˈliːv/|làm giảm; làm dịu|
-|commercial|/ˈkoməːs/|thuộc thương mại|
+|commercial|/kəˈmɜːrʃl/|thuộc thương mại|
 |talkative|/ˈtoːkətiv/|lắm lời|
 |sudden|/ˈsadn/|thình lình|
 |political|/pəˈlɪtɪkl/|thuộc chính trị|
 |debate|/diˈbeit/|cuộc tranh luận|
-|fog|/foɡ/|sương mù|
+|fog|/fa:g/|sương mù|
 |further|/ˈfəːðə/|xa hơn nữa|
 |notice|/ˈnəutis/|thông báo|
-|coupon|/ˈkuːpon/|phiếu|
+|coupon|/ˈkuːpɑːn/|phiếu|
+|dirty|/ˈdɜːrti/|bẩn|
 
 ## Part 12
 
@@ -565,8 +565,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|dirty|/ˈdɜːrti/|bẩn|
-|drawer|/droː/|ngăn kéo|
 |suffice|/səˈfais/|đủ để đáp ứng|
 |inadequate|/inˈӕdikwət/|không đủ|
 |conclude|/kənˈkluːd/|kết thúc, kết luận|
@@ -625,7 +623,7 @@
 |civil|/ˈsivl/|thuộc công dân|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |absent|/absent/|vắng mặt|
-|abandon|/əˈbӕndən/|hủy|
+|abandon|/əˈbӕndən/|hủy, từ bỏ|
 |argue|/ˈaːɡjuː/|phản đối, tranh luận; biện luận|
 |revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |pollute|/pəˈluːt/|ô nhiễm|
@@ -648,13 +646,31 @@
 |badge|/bӕdʒ/|huy hiệu|
 |temporary|/ˈtempərəri/|tạm thời|
 |cooperate|/kəuˈopəreit/|cộng tác|
+|spite|/spait/|mối hận thù, sự giận|
+|hectic|/ˈhektik/|bận rộn|
+|eminent|/ˈeminənt/|xuất chúng|
+|admire|/ədˈmaiə/|ngắm nhìn|
+|leisure|/ˈliːʒər/|thời gian rỗi|
+|estate|/ɪˈsteɪt/|khu xây dựng|
+|fund|/fand/|quĩ|
+|rescue|/ˈreskjuː/|cứu nguy|
+|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
+|abuse|/əˈbjuːz/|lạm dụng|
+|invest|/inˈvest/|đầu tư|
+|attempt|/əˈtempt/|cố gắng|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|expose|/ikˈspəuz/|phơi bày|
+|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
+|theory|/ˈθiəri/|lý luận, nguyên lý|
+|jealous|/ˈdʒeləs/|ghen tị|
+|temper|/ˈtempə/|tính tình, tính khí|
 
 ## Part 14
 
 | Word         | NAmE 			|
 |--------------|----------------|
 |run out|cạn kiệt|
-|engaged in/on something|bận làm cái gì|
+|engaged in/on something|bận làm cái gì, tham gia vào cái gì đó|
 |  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
@@ -674,5 +690,4 @@
 |all time|từ trước đến nay|
 |press conference |cuộc họp báo|
 |civil servant |công chức|
-
-
+| spite of|mặc dù, bất chấp|
