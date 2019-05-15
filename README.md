@@ -490,9 +490,9 @@
 |durable|/ˈdjuərəbl/|kéo dài trong một thời gian bao lâu, bền bỉ|
 |soar|/soː/|đạt ở mức cao|
 |feed|/fiːd/|nuôi|
-|bottle|/ˈbotl/|chai lọ|
+|bottle|/ˈbɑːtl/|chai lọ|
 |pile|/pail/|đống: chồng|
-|drawer|/droː/|ngăn kéo|
+|drawer|/droːr/|ngăn kéo|
 |hygiene|/ˈhaidʒiːn/|vệ sinh|
 |oral|/ˈoːrəl/|bằng lời nói|
 |prevent|/priˈvent/|ngăn chặn|
@@ -664,6 +664,22 @@
 |theory|/ˈθiəri/|lý luận, nguyên lý|
 |jealous|/ˈdʒeləs/|ghen tị|
 |temper|/ˈtempə/|tính tình, tính khí|
+|obsess|/əbˈses/|ám ảnh|
+|dramatically|/drəˈmætɪkli/|một cách đột ngột|
+|immense|/iˈmens/|rộng lớn|
+|claim|/kleim/|quả quyết|
+|impolite|/impəˈlait/|bất lịch sự, khẳng định|
+|acclaim|/əˈkleim/|hoan nghênh|
+|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|discard|/diˈskaːd/|loại bỏ|
+|eliminate|/iˈlimineit/|loại ra|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|tentative|/ˈtentətiv/|chưa hoàn thiện|
+|tight|/tait/|chặt chẽ, nghiêm khắc|
+|mere|/miə/|chỉ là|
+|entire|/inˈtaiə/|toàn bộ|
+|cheer|/tʃiə/|tiếng reo mừng|
 
 ## Part 14
 
