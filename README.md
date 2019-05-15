@@ -116,7 +116,7 @@
 |splash |/splæʃ/|văng, bắn tung tóe|
 | renovation |/ˌrenəˈveɪʃn/|cải tạo|
 | wire |/waɪər/|dây điện|
-|  supply    |/səˈplaɪ/|vật tư|
+|  supply    |/səˈplaɪ/|vật tư, tiếp tế|
 |   candle  	    	   | /ˈkændl/ 			| cây nến|
 | calm  |/waɪər/|tĩnh, không có gợn sóng, không có gió|
 | curtain  |/ˈkɜːrtn/|rèm cửa|
@@ -606,6 +606,11 @@
 |vacant|/ˈveikənt/|bỏ không, khuyết|
 |intranet|/ˈintrənet/|nội mạng|
 |coordinate|/kəuˈoːdineit/|phối hợp|
+
+## Part 14
+
+| Word         | NAmE 			|
+|--------------|----------------|
 |poet|/ˈpouit/|nhà thơ|
 |honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
 |imagine|/iˈmӕdʒin	/|tưởng tượng|
@@ -647,6 +652,11 @@
 |temporary|/ˈtempərəri/|tạm thời|
 |cooperate|/kəuˈopəreit/|cộng tác|
 |spite|/spait/|mối hận thù, sự giận|
+
+## Part 15
+
+| Word         | NAmE 			|
+|--------------|----------------|
 |hectic|/ˈhektik/|bận rộn|
 |eminent|/ˈeminənt/|xuất chúng|
 |admire|/ədˈmaiə/|ngắm nhìn|
@@ -680,8 +690,18 @@
 |mere|/miə/|chỉ là|
 |entire|/inˈtaiə/|toàn bộ|
 |cheer|/tʃiə/|tiếng reo mừng|
+|bowl|/boʊl/|cái bát|
+|rail|/reil/|tay vịn, lan can|
+|desire|/diˈzaiə/|sự khao khát|
+|collapse|/kəˈlӕps/|sụp đổ|
+|crucial|/ˈkruːʃəl/|rất quan trọng|
+|enhance|/inˈhaːns/|nâng cao|
+|adult|/ˈӕdalt/|trưởng thành|
+|internship|/ˈɪntɜːrnʃɪp/|thực tập|
+|forced|/fɔːrst/|bắt buộc; ép buộc|
+|resign|/rəˈzain/|từ chức|
 
-## Part 14
+## Part 16
 
 | Word         | NAmE 			|
 |--------------|----------------|
