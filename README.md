@@ -524,7 +524,6 @@
 |patience|/ˈpeiʃənt/|kiên nhẫn|
 |worth|/wəːθ/|gía trị|
 |reliable|/ˈkuːpon/|có thể tin tưởng được|
-|unveil|/anˈveil/|tuyên bố công khai, tiết lộ|
 |fuel|/ˈfjuəl/|chất đốt; nhiên liệu|
 |predecessor|/ˈpreːdisesə/|người tiền nhiệm|
 |nationwide|/ˌneɪʃnˈwaɪd/|toàn quốc|
@@ -560,12 +559,12 @@
 |opposite|/ˈopəzit/|đối lập|
 |ladder|/ˈlӕdə/|cái thang|
 |sink|/siŋk/|bồn rửa|
+|suffice|/səˈfais/|đủ để đáp ứng|
 
 ## Part 13
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|suffice|/səˈfais/|đủ để đáp ứng|
 |inadequate|/inˈӕdikwət/|không đủ|
 |conclude|/kənˈkluːd/|kết thúc, kết luận|
 |slight|/slait/|nhẹ, không đáng kể|
@@ -606,12 +605,12 @@
 |vacant|/ˈveikənt/|bỏ không, khuyết|
 |intranet|/ˈintrənet/|nội mạng|
 |coordinate|/kəuˈoːdineit/|phối hợp|
+|poet|/ˈpouit/|nhà thơ|
 
 ## Part 14
 
 | Word         | NAmE 			|
 |--------------|----------------|
-|poet|/ˈpouit/|nhà thơ|
 |honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
 |imagine|/iˈmӕdʒin	/|tưởng tượng|
 |power|/ˈpauə	/|khả năng|
@@ -652,12 +651,12 @@
 |temporary|/ˈtempərəri/|tạm thời|
 |cooperate|/kəuˈopəreit/|cộng tác|
 |spite|/spait/|mối hận thù, sự giận|
+|hectic|/ˈhektik/|bận rộn|
 
 ## Part 15
 
 | Word         | NAmE 			|
 |--------------|----------------|
-|hectic|/ˈhektik/|bận rộn|
 |eminent|/ˈeminənt/|xuất chúng|
 |admire|/ədˈmaiə/|ngắm nhìn|
 |leisure|/ˈliːʒər/|thời gian rỗi|
