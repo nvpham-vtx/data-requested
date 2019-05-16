@@ -239,7 +239,7 @@
 |   patient     |/ˈpeɪʃnt/ |bệnh nhân|
 |   intersection     |/ɪntərˈsekʃn/ |giao nhau|
 |   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
-|    assembly      |/əˈsembli/ |tụ tập, tập hợp|
+|    assembly      |/əˈsembli/ |tụ tập, tập hợp, hội nghị|
 |     tenant      |/ˈtenənt/ |người thuê nhà|
 |     terrible      |/ˈterəbl/ |tồi tệ khủng khiếp|
 |     speech      |/spiːtʃ/ |bài diễn thuyết|
@@ -700,6 +700,20 @@
 |internship|/ˈɪntɜːrnʃɪp/|thực tập|
 |forced|/fɔːrst/|bắt buộc; ép buộc|
 |resign|/rəˈzain/|từ chức|
+|brick|/brik/|gạch|
+|lay|/lei/|đặt; để|
+|filing cabinet |/ /|tủ đựng hồ sơ|
+|stuck|/ stʌk/|tắc, bí bách|
+|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
+|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi|
+|oppose|/əˈpəuz/|phản đối, chống lại|
+|reluctant|/rəˈlaktənt/|miễn cưỡng|
+|sketch|/sketʃ/|bức phác họa|
+|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
+|precaution|/priˈkoːʃən/|sự đề phòng|
+|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
+|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
+|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
 
 ## Part 16
 
@@ -727,3 +741,5 @@
 |press conference |cuộc họp báo|
 |civil servant |công chức|
 | spite of|mặc dù, bất chấp|
+|owing to = because of|bởi vì|
+|find sb + adj|bởi vì|
