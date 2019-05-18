@@ -649,9 +649,9 @@
 |thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
 |badge|/bӕdʒ/|huy hiệu|
 |temporary|/ˈtempərəri/|tạm thời|
-|cooperate|/kəuˈopəreit/|cộng tác|
 |spite|/spait/|mối hận thù, sự giận|
 |hectic|/ˈhektik/|bận rộn|
+|bankrupt|/ˈbӕŋkrapt/|phá sản|
 
 ## Part 15
 
@@ -698,6 +698,11 @@
 |adult|/ˈӕdalt/|trưởng thành|
 |internship|/ˈɪntɜːrnʃɪp/|thực tập|
 |forced|/fɔːrst/|bắt buộc; ép buộc|
+
+## Part 16
+
+| Word         | NAmE 			|
+|--------------|----------------|
 |resign|/rəˈzain/|từ chức|
 |brick|/brik/|gạch|
 |lay|/lei/|đặt; để|
@@ -713,8 +718,18 @@
 |characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
 |competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
 |surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
+|ambience|/ˈæmbiəns/|không khí|
+|corridor|/ˈkɔːrɪdɔːr/|hành lang|
+|jewelry|/ˈdʒuːəlri/|trang sức|
+|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
+|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
+|farewell|/feəˈwel/|lời chào tạm biệt|
+|hobby|/ˈhobi/|sở thích|
+|pastime|/ˈpaːstaim/|sự giải trí|
+|botany|/ˈbotəni/|thực vật học|
+|rare|/ˈreə/|hiếm, chín tái|
 
-## Part 16
+## Part 17
 
 | Word         | NAmE 			|
 |--------------|----------------|
