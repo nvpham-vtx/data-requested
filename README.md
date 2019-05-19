@@ -57,7 +57,7 @@
 |hurry == rush|/ˈhɜːri/ == /rʌʃ/ |vội vàng|
 |pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
 |trail|/treɪl/|đường mòn|
-| pot|  /pɑːt/ | cái nồi (đồ đựng để nấu chín thức ăn) |
+| pot|  /pɑːt/ | ấm; bình|
 |    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
 |banquet|/ˈbæŋkwɪt/|bữa tiệc|
 |wrist|/rɪst/|cổ tay|
@@ -118,7 +118,7 @@
 | wire |/waɪər/|dây điện|
 |  supply    |/səˈplaɪ/|vật tư, tiếp tế|
 |   candle  	    	   | /ˈkændl/ 			| cây nến|
-| calm  |/waɪər/|tĩnh, không có gợn sóng, không có gió|
+| calm  |/waɪər/|êm đềm, yên tĩnh, bình tĩnh|
 | curtain  |/ˈkɜːrtn/|rèm cửa|
 |sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
 |  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
@@ -463,7 +463,7 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|expedite|/ˈekspidait/|xúc tiến|
+|expedite|/ˈekspidait/|xúc tiến, tiến hành|
 |attorney|/əˈtəːni/|người được uỷ quyền|
 |residence|/ˈrezɪdəns/|nhà; dinh thự|
 |harbor|/ˈhɑːrbər/|hải cảng|
@@ -594,7 +594,7 @@
 |barbell|/ˈbɑːrbel/|tạ dài|
 |treadmill|/ˈtredmɪl/|máy tập chạy bộ|
 |eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
-|eligible|/rɪˈspektɪv/|tương ứng|
+|respective|/rɪˈspektɪv/|tương ứng|
 |coach|/kəutʃ/|toa, huấn luyện viên|
 |divert|/daiˈvəːt/|làm chệch hướng,giải trí|
 |transcript|/ˈtranskript/|bản sao,lý lịch học tập|
@@ -602,15 +602,15 @@
 |flood|/flad/|cơn lũ lụt|
 |trustee|/trʌˈstiː/|người được ủy thác|
 |ability|/əˈbiləti/|khả năng|
-|vacant|/ˈveikənt/|bỏ không, khuyết|
 |intranet|/ˈintrənet/|nội mạng|
-|coordinate|/kəuˈoːdineit/|phối hợp|
+|coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
 |poet|/ˈpouit/|nhà thơ|
+|resign|/rəˈzain/|từ chức|
 
 ## Part 14
 
-| Word         | NAmE 			|
-|--------------|----------------|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
 |imagine|/iˈmӕdʒin	/|tưởng tượng|
 |power|/ˈpauə	/|khả năng|
@@ -655,8 +655,8 @@
 
 ## Part 15
 
-| Word         | NAmE 			|
-|--------------|----------------|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |eminent|/ˈeminənt/|xuất chúng|
 |admire|/ədˈmaiə/|ngắm nhìn|
 |leisure|/ˈliːʒər/|thời gian rỗi|
@@ -701,9 +701,8 @@
 
 ## Part 16
 
-| Word         | NAmE 			|
-|--------------|----------------|
-|resign|/rəˈzain/|từ chức|
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |brick|/brik/|gạch|
 |lay|/lei/|đặt; để|
 |filing cabinet |/ /|tủ đựng hồ sơ|
@@ -728,6 +727,17 @@
 |pastime|/ˈpaːstaim/|sự giải trí|
 |botany|/ˈbotəni/|thực vật học|
 |rare|/ˈreə/|hiếm, chín tái|
+|auction|/ˈoːkʃən/|cuộc bán đấu giá|
+|disrupt|/disˈrapt/|làm rối loạn|
+|tremendous|/trəˈmendəs/|ghê gớm, bao la|
+|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
+|pamphlet|/ˈpӕmflit/|sách mỏng|
+|proceeds|/ˈprəusiːdz/|tiền từ thiện|
+|theory|/ˈθiəri/|lý thuyết, lý luận, nguyên lý|
+|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|rival|/ˈraivəl/|đối thủ|
+|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
 
 ## Part 17
 
@@ -757,3 +767,7 @@
 | spite of|mặc dù, bất chấp|
 |owing to = because of|bởi vì|
 |find sb + adj|bởi vì|
+|state-of-the-art|công nghệ tiên tiến|
+|be about to|sắp làm gì|
+|make the most of|tận dụng cái gì|
+|deem = consider +adj|xem xét|
