@@ -97,7 +97,7 @@
 |stroll |/stroʊl/|đi bộ thư giãn|
 |fence|/fens/|hàng rào|
 |rope|/roʊp/|dây thừng|
-| match|/ mætʃ/|que diêm|
+| match|/ mætʃ/|que diêm, trận đấu|
 |tearing |/tering/|xé làm nhiều mảnh|
 |facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
 | instrument|/ 'ɪnstrəmənt/|nhạc cụ,dụng cụ|
@@ -448,7 +448,7 @@
 |brief|/briːf/|ngắn gọn|
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
 |Frankly|/ˈfræŋkli/|thành thực mà nói|
-|clerk|/kləːk/|thư ký|
+|clerk|/kləːk/|người bán hàng|
 |potential|/pəˈtenʃəl/|tiềm năng|
 |complaint|/kəmˈplein/|sự than phiền|
 |guardian|/ˈɡaːdiən/|người giám hộ|
@@ -531,11 +531,11 @@
 |columnist|/ˈkoləmnist/|người chuyên giữ một mục báo|
 |prize|/praiz/|giải thưởng|
 |prestige|/preˈstiːʒ/|uy tín|
-|nominate|/ˈnomineit/|đề cử|
+|nominate|/ˈnɑːmɪneɪt/|đề cử|
 |prohibit|/prəˈhibit/|cấm|
 |sculpture|/ˈskʌlptʃər/|nghệ thuật điêu khắc|
 |innovative|/ˈɪnəveɪtɪv/|sáng tạo|
-|bold|/bəuld/|táo bạo|
+|bold|/bəuld/|táo bạo,nổi bật, rõ nét|
 |emerge|/iˈmɜːrdʒ/|nổi lên|
 |opportunity|/opəˈtjuːnəti/|cơ hội|
 |permit|/pəˈmit/|cho phép|
@@ -547,9 +547,8 @@
 |wage|/weidʒ/|tiến hành|
 |vacant|/ˈveikənt/|bỏ không, khuyết|
 |clerical|/ˈklerikəl/|thuộc tăng lữ|
-|cater|/ˈkeɪtər/|người cung cấp thực phẩm|
+|cater|/ˈkeɪtər/|cung cấp thực phẩm|
 |corporation|/ˌkɔːrpəˈreɪʃn/|tập đoàn|
-|patron|/ˈpeitrən/|khách hàng quen|
 |willing|/ˈwɪlɪŋ/|sẵn sàng|
 |occasion|/əˈkeiʒən/|dịp đặc biệt|
 |situation|/sitjuˈeiʃən/|tình hình, trạng thái, hoàn cảnh|
@@ -560,6 +559,7 @@
 |ladder|/ˈlӕdə/|cái thang|
 |sink|/siŋk/|bồn rửa|
 |suffice|/səˈfais/|đủ để đáp ứng|
+|brick|/brik/|gạch|
 
 ## Part 13
 
@@ -605,7 +605,7 @@
 |intranet|/ˈintrənet/|nội mạng|
 |coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
 |poet|/ˈpouit/|nhà thơ|
-|resign|/rəˈzain/|từ chức|
+|resign|/rəˈzain/|từ chức, cam chịu|
 
 ## Part 14
 
@@ -703,7 +703,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|brick|/brik/|gạch|
 |lay|/lei/|đặt; để|
 |filing cabinet |/ /|tủ đựng hồ sơ|
 |stuck|/ stʌk/|tắc, bí bách|
@@ -738,8 +737,22 @@
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
 |rival|/ˈraivəl/|đối thủ|
 |insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
+|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
+|smooth|/smuːð/|nhẵn, trơn, mượt|
+|underground|/andəˈɡraund/|ở dưới mặt đất|
+|adjacent|/əˈdʒeisənt/|liền kề|
+|attendant|/əˈtendənt/|người phục vụ|
+|recession|/rəˈseʃən/|tình trạng suy thoái|
+|pace|/peis/|tốc độ đi, bước chân|
 
 ## Part 17
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|assume|/əˈsjuːm/|giả thiết rằng|
+|blame|/bleim/|đổ lỗi, khiển trách|
+
+## Part 18
 
 | Word         | NAmE 			|
 |--------------|----------------|
@@ -771,3 +784,4 @@
 |be about to|sắp làm gì|
 |make the most of|tận dụng cái gì|
 |deem = consider +adj|xem xét|
+|mess up|làm lộn xộn|
