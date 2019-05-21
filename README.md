@@ -627,7 +627,6 @@
 |abandon|/əˈbӕndən/|hủy, từ bỏ|
 |revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |pollute|/pəˈluːt/|ô nhiễm|
-|pollute|/pəˈluːt/|ô nhiễm|
 |picturesque|/piktʃəˈresk/|sinh động|
 |praise|/preiz/|khen ngợi|
 |punctual|/ˈpaŋktʃuəl/|đúng giờ|
@@ -652,6 +651,7 @@
 |spite|/spait/|mối hận thù, sự giận|
 |hectic|/ˈhektik/|bận rộn|
 |bankrupt|/ˈbӕŋkrapt/|phá sản|
+|feasible|/ˈfiːzəbl/|khả thi|
 
 ## Part 15
 
@@ -751,7 +751,6 @@
 |--------------|----------------|-------------------|
 |blame|/bleim/|đổ lỗi, khiển trách|
 |passion|/ˈpӕʃən/|sự say mê|
-|feasible|/ˈfiːzəbl/|khả thi|
 
 ## Part 18
 
