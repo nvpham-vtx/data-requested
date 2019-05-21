@@ -19,7 +19,7 @@
 | runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
 |  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
 |  lean 	    	   | /liːn 			| dựa vào|
-|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			| Rời khỏi tàu bay => Lên bờ, máy bay| 
+|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			|lên bờ| 
 | wool   	   | /wʊl/ 			| vải len, cuộn len			|
 |  measure 	    	   | /ˈmeʒər/ 			| đo lường|
 |fountain |/ˈfaʊntn/|đài phun nước|
@@ -69,7 +69,7 @@
 |cupboard   |/ˈkʌbərd/ |tủ để cốc, chén|
 |stroller |/ˈstroʊlər/|xe đẩy|
 |assortment   |/əˈsɔːrtmənt/|hỗn hợp|
-| pave   |/peɪv/|phủ đường đi bằng đá or vật liệu khác|
+| pave   |/peɪv/|lát đường|
 |carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
 |dismantle|/dɪsˈmæntl/|tháo dỡ|
 |variety = diverse|/vəˈraɪəti = daiˈvəːs/|đa dạng|
@@ -118,7 +118,7 @@
 | wire |/waɪər/|dây điện|
 |  supply    |/səˈplaɪ/|vật tư, tiếp tế|
 |   candle  	    	   | /ˈkændl/ 			| cây nến|
-| calm  |/waɪər/|êm đềm, yên tĩnh, bình tĩnh|
+| calm  |/kaːm/|êm đềm, yên tĩnh, bình tĩnh|
 | curtain  |/ˈkɜːrtn/|rèm cửa|
 |sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
 |  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
@@ -385,7 +385,7 @@
 |stomachache| /ˈstamək/ |đau bụng, dạ dày|
 |sprain| /sprein/ |làm bong gân|
 |ankle| /ˈӕŋkl/ |mắt cá chân|	
-|launderette| /ˌlɔːndəˈret/ |giặt là|	
+|launderette| /ˌlɔːndəˈret/ |cửa hàng giặt là|	
 |trade| /treid/ |thương mại, sự buôn bán|	
 |magazine| /mӕɡəˈziːn/ |tạp chí|	
 |award| /əˈwoːd/ |thưởng|	
@@ -419,9 +419,9 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|tenant | /ˈtenənt/ |người thuê, người mướn|	
 |landlord | /ˈlændlɔːrd/ |chủ nhà|	
 |ongoing | /ˈɑːnɡoʊɪŋ/ |sắp sửa|	
+|blame|/bleim/|đổ lỗi, khiển trách|
 |elevator | /ˈelɪveɪtər/ |thang máy|		
 |time-consuming|/ˈtaɪm kənsuːmɪŋ/|tốn nhiều thời gian|
 |expense|/ɪkˈspens/|phí tổn|
@@ -749,7 +749,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|blame|/bleim/|đổ lỗi, khiển trách|
 |passion|/ˈpӕʃən/|sự say mê|
 
 ## Part 18
