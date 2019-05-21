@@ -636,7 +636,7 @@
 |pragmatic|/præɡˈmætik/|thực dụng|
 |reassure|/riəˈʃuə/|khẳng định lại|
 |owe|/əu/|nợ|
-|military|/military/|quân sự|
+|military|/ˈmɪləteri/|quân sự|
 |mascot|/ˈmӕskət/|linh vật|
 |funding|/ˈfʌndɪŋ/|quỹ|
 |assume|/əˈsjuːm/|giả thiết rằng|
