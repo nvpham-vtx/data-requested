@@ -568,7 +568,7 @@
 |inadequate|/inˈӕdikwət/|không đủ|
 |conclude|/kənˈkluːd/|kết thúc, kết luận|
 |slight|/slait/|nhẹ, không đáng kể|
-|argue|/ˈaːɡjuː/|cãi nhau|
+|argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
 |crucial|/ˈkruːʃəl/|rất quan trọng|
 |scare|/skeə/|làm kinh hãi|
 |interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
@@ -625,7 +625,6 @@
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |absent|/absent/|vắng mặt|
 |abandon|/əˈbӕndən/|hủy, từ bỏ|
-|argue|/ˈaːɡjuː/|phản đối, tranh luận; biện luận|
 |revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |pollute|/pəˈluːt/|ô nhiễm|
 |pollute|/pəˈluːt/|ô nhiễm|
@@ -640,6 +639,7 @@
 |owe|/əu/|nợ|
 |military|/ˈmilitəri/|quân sự|
 |mascot|/ˈmӕskət/|linh vật|
+|funding|/ˈfʌndɪŋ/|quỹ|
 |assume|/əˈsjuːm/|giả thiết rằng|
 |inevitable|/inˈevitəbl/|không thể tránh khỏi|
 |restrict|/rəˈstrikt/|hạn chế|
@@ -752,7 +752,6 @@
 |blame|/bleim/|đổ lỗi, khiển trách|
 |passion|/ˈpӕʃən/|sự say mê|
 |feasible|/ˈfiːzəbl/|khả thi|
-|funding|/ˈfʌndɪŋ/|quỹ|
 
 ## Part 18
 
