@@ -613,13 +613,11 @@
 |--------------|----------------|-------------------|
 |honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
 |imagine|/iˈmӕdʒin	/|tưởng tượng|
-|power|/ˈpauə	/|khả năng|
 |visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
 |inspire|/inˈspaiə/|truyền cảm hứng|
 |imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
 |beverage|/ˈbevəridʒ/|đồ uống|
 |recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
-|remittance|/rɪˈmɪtns/|sự chuyển tiền|
 |thesis|/ˈθiːsis/|luận văn, luận án|
 |outbreak|/ˈautbreik/|bùng nổ|
 |disease|/diˈziːz/|bệnh|
@@ -641,7 +639,9 @@
 |pragmatic|/præɡˈmætik/|thực dụng|
 |reassure|/riəˈʃuə/|khẳng định lại|
 |owe|/əu/|nợ|
+|military|/ˈmilitəri/|quân sự|
 |mascot|/ˈmӕskət/|linh vật|
+|assume|/əˈsjuːm/|giả thiết rằng|
 |inevitable|/inˈevitəbl/|không thể tránh khỏi|
 |balance|/ˈbӕləns/|sự thăng bằng|
 |sincere|/sinˈsiə/|thành thật, chân thật|
@@ -749,8 +749,11 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|assume|/əˈsjuːm/|giả thiết rằng|
 |blame|/bleim/|đổ lỗi, khiển trách|
+|passion|/ˈpӕʃən/|sự say mê|
+|feasible|/ˈfiːzəbl/|khả thi|
+|funding|/ˈfʌndɪŋ/|quỹ|
+|restrict|/rəˈstrikt/|hạn chế|
 
 ## Part 18
 
