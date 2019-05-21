@@ -621,7 +621,6 @@
 |thesis|/ˈθiːsis/|luận văn, luận án|
 |outbreak|/ˈautbreik/|bùng nổ|
 |disease|/diˈziːz/|bệnh|
-|hygiene|/ˈhaidʒiːn/|vệ sinh|
 |civil|/ˈsivl/|thuộc công dân|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |absent|/absent/|vắng mặt|
@@ -643,6 +642,7 @@
 |mascot|/ˈmӕskət/|linh vật|
 |assume|/əˈsjuːm/|giả thiết rằng|
 |inevitable|/inˈevitəbl/|không thể tránh khỏi|
+|restrict|/rəˈstrikt/|hạn chế|
 |balance|/ˈbӕləns/|sự thăng bằng|
 |sincere|/sinˈsiə/|thành thật, chân thật|
 |regret|/rɪˈɡret/|tiếc|
@@ -753,7 +753,6 @@
 |passion|/ˈpӕʃən/|sự say mê|
 |feasible|/ˈfiːzəbl/|khả thi|
 |funding|/ˈfʌndɪŋ/|quỹ|
-|restrict|/rəˈstrikt/|hạn chế|
 
 ## Part 18
 
