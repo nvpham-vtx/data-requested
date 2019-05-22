@@ -676,7 +676,7 @@
 |obsess|/əbˈses/|ám ảnh|
 |dramatically|/drəˈmætɪkli/|một cách đột ngột|
 |immense|/iˈmens/|rộng lớn|
-|claim|/kleim/|quả quyết|
+|claim|/kleim/|quả quyết, đòi hỏi|
 |impolite|/impəˈlait/|bất lịch sự, khẳng định|
 |acclaim|/əˈkleim/|hoan nghênh|
 |misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
@@ -693,7 +693,7 @@
 |rail|/reil/|tay vịn, lan can|
 |desire|/diˈzaiə/|sự khao khát|
 |collapse|/kəˈlӕps/|sụp đổ|
-|crucial|/ˈkruːʃəl/|rất quan trọng|
+|altogether|/oːltəˈɡeðə/|hoàn toàn|
 |enhance|/inˈhaːns/|nâng cao|
 |adult|/ˈӕdalt/|trưởng thành|
 |internship|/ˈɪntɜːrnʃɪp/|thực tập|
@@ -750,6 +750,7 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |passion|/ˈpӕʃən/|sự say mê|
+|debt|/det/|nợ|
 
 ## Part 18
 
