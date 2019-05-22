@@ -443,8 +443,8 @@
 |minor|/ˈmainə/|nhỏ; thứ yếu,phụ|
 |stable|/ˈsteibl/|vững chắc|
 |originally|/əˈrɪdʒənəli/|xét về nguồn gốc|
+|debt|/det/|nợ|
 |laundry|/ˈlɔːndri/|cửa hàng giặt lả|
-|laundry|/ˈfeɪvər/|giúp đỡ|
 |brief|/briːf/|ngắn gọn|
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
 |Frankly|/ˈfræŋkli/|thành thực mà nói|
@@ -630,7 +630,7 @@
 |picturesque|/piktʃəˈresk/|sinh động|
 |praise|/preiz/|khen ngợi|
 |punctual|/ˈpaŋktʃuəl/|đúng giờ|
-|rhetoric|/ˈretərik/|hùng biện|
+|rhetoric|/ˈretərik/|thuật hùng biện|
 |contented|/kənˈtentɪd/|thỏa mãn|
 |surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
 |pragmatic|/præɡˈmætik/|thực dụng|
@@ -750,7 +750,6 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |passion|/ˈpӕʃən/|sự say mê|
-|debt|/det/|nợ|
 
 ## Part 18
 
