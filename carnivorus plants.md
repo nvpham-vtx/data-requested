@@ -32,3 +32,12 @@
 |spike| /spaik/|que nhọn, chấn song sắt đầu nhọn|
 |tissue| /ˈtiʃuː/|mô|
 |beetle| /ˈbiːtl/|bọ cánh cứng|
+|dry| /drai/|khô ráo|
+|husk| /hask/|vỏ khô; trấu|
+|mayfly| /ˈmeɪflaɪ/|con phù du|
+|approach| /əˈprəutʃ/|đến gần|
+|adhesion| /ədˈhiːʒən/|sự dính|
+|alight| /əˈlait/|đậu xuống|
+|petal| /ˈpetl/|cánh hoa|
+|nectar| /ˈnektə/|mật hoa|
+|stalk| /stoːk/|thân, cuống|
