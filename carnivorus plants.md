@@ -31,3 +31,4 @@
 |fate| /feit/|số phận hoặc tương lai|
 |spike| /spaik/|que nhọn, chấn song sắt đầu nhọn|
 |tissue| /ˈtiʃuː/|mô|
+|beetle| /ˈbiːtl/|bọ cánh cứng|
