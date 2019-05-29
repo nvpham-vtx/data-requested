@@ -690,7 +690,6 @@
 |entire|/inˈtaiə/|toàn bộ|
 |cheer|/tʃiə/|tiếng reo mừng|
 |bowl|/boʊl/|cái bát|
-|rail|/reil/|tay vịn, lan can|
 |desire|/diˈzaiə/|sự khao khát|
 |collapse|/kəˈlӕps/|sụp đổ|
 |altogether|/oːltəˈɡeðə/|hoàn toàn|
@@ -725,6 +724,7 @@
 |hobby|/ˈhobi/|sở thích|
 |pastime|/ˈpaːstaim/|sự giải trí|
 |botany|/ˈbotəni/|thực vật học|
+|passion|/ˈpӕʃən/|sự say mê|
 |rare|/ˈreə/|hiếm, chín tái|
 |auction|/ˈoːkʃən/|cuộc bán đấu giá|
 |disrupt|/disˈrapt/|làm rối loạn|
@@ -746,12 +746,6 @@
 |pace|/peis/|tốc độ đi, bước chân|
 
 ## Part 17
-
-| Word         | NAmE 			| VN				|
-|--------------|----------------|-------------------|
-|passion|/ˈpӕʃən/|sự say mê|
-
-## Part 18
 
 | Word         | NAmE 			|
 |--------------|----------------|
