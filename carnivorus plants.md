@@ -41,3 +41,8 @@
 |petal| /ˈpetl/|cánh hoa|
 |nectar| /ˈnektə/|mật hoa|
 |stalk| /stoːk/|thân, cuống|
+|fruitful| /ˈfruːtfl/|thành công|
+|pitcher| /ˈpɪtʃər/|nắp ấm, cầu thủ ném bóng|
+|reign| /rein/|triều đại|
+|supreme| /suˈpriːm/|tối cao, cao nhất|
+|bog| /boɡ/|bãi lầy|
