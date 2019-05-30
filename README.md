@@ -4,184 +4,183 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|  sip 	    	   | /sɪp/ 			| nhấm nháp (uống một lượng rất nhỏ)|
-| reel    	   | /riːl/ 			| cuộn, quấn, ống chỉ| 
-|  crew 	    	   | /kruː/ 			|thủy thủ đoàn; phi đội, bọn; đám| 
-|  airstrip 	    	   | /airstrip/ 			|đường băng| 
-|     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
-| saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
-|  helmet 	    	   | /ˈhelmɪt/ 			| mũ bảo hiểm|
-|deck |/dek/|tầng trên cùng của một con tàu|
-|   Candlestick 	    	   | /ˈkændlstɪk/ 			| giá đỡ nến|
-|    balcony  	    	   | /ˈbælkəni/ 			| ban công |
-|gesture|/ˈdʒestʃər/|cử chỉ|
-|  cloth 	    	   | /klɔːθ/ 			| vải (vật liệu được dệt bằng lụa)|
-| runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
-|  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
-|  lean 	    	   | /liːn 			| dựa vào|
-|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			|lên bờ| 
-| wool   	   | /wʊl/ 			| vải len, cuộn len			|
-|  measure 	    	   | /ˈmeʒər/ 			| đo lường|
-|fountain |/ˈfaʊntn/|đài phun nước|
-|  leash 	    	   | /liːʃ/ 			| dây xích|
-|   Chandelier  	    	   | /ˌʃændəˈlɪr/ 			| đèn trùm |
-|  passenger	    	   | /ˈpæsɪndʒər/ 			| hành khách|  
-| oven|  /ˈʌvn/ | lò nướng |
-|     sail  	    	   | /seɪl/ 			| cánh buồm |
-| applaud|  /əˈplɔːd/ | vỗ tay |
-|    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
-|stir|/ˈstɜːr/| khuấy|
-|     utensil  	    	   | /juːˈtensl/ 			| Vật dụng gia đình |
-|     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
-| shore   	   | /ʃɔːr/ 			| bờ biển			|
-|blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
-|     couch  	    	   | /kaʊtʃ/ 			| sofa |
-| rod   	   | /rɑːd/ 			| cái que, cái gậy|
-|     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
-|     coast  	    	   | /koʊst/ 			| bờ biển |
-| stove|  /stoʊv/ | bếp |
-|wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
+|lay|/lei/|đặt; để|
+|filing cabinet |/ /|tủ đựng hồ sơ|
+|stuck|/ stʌk/|tắc, bí bách|
+|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
+|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi|
+|oppose|/əˈpəuz/|phản đối, chống lại|
+|reluctant|/rəˈlaktənt/|miễn cưỡng|
+|sketch|/sketʃ/|bức phác họa|
+|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
+|precaution|/priˈkoːʃən/|sự đề phòng|
+|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
+|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
+|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
+|ambience|/ˈæmbiəns/|không khí|
+|corridor|/ˈkɔːrɪdɔːr/|hành lang|
+|jewelry|/ˈdʒuːəlri/|trang sức|
+|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
+|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
+|farewell|/feəˈwel/|lời chào tạm biệt|
+|hobby|/ˈhobi/|sở thích|
+|pastime|/ˈpaːstaim/|sự giải trí|
+|botany|/ˈbotəni/|thực vật học|
+|passion|/ˈpӕʃən/|sự say mê|
+|rare|/ˈreə/|hiếm, chín tái|
+|auction|/ˈoːkʃən/|cuộc bán đấu giá|
+|disrupt|/disˈrapt/|làm rối loạn|
+|tremendous|/trəˈmendəs/|ghê gớm, bao la|
+|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
+|pamphlet|/ˈpӕmflit/|sách mỏng|
+|proceeds|/ˈprəusiːdz/|tiền từ thiện|
+|theory|/ˈθiəri/|lý thuyết, lý luận, nguyên lý|
+|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|rival|/ˈraivəl/|đối thủ|
+|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
+|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
+|smooth|/smuːð/|nhẵn, trơn, mượt|
+|underground|/andəˈɡraund/|ở dưới mặt đất|
+|adjacent|/əˈdʒeisənt/|liền kề|
+|attendant|/əˈtendənt/|người phục vụ|
 
 ## Part 2
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|exceed |/ɪkˈsiːd/|vượt quá|
-|lap |/læp/|đùi|
-|distance|/ˈdɪstəns/| khoảng cách|
-|     parasol  	    	   | /ˈpærəsɔːl/ 			| Ô che nắng |
-|shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
-|pedestal|/ˈpedɪstl/| bệ đỡ|
-|floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
-|centrepiece|/ˈsentərpiːs/| trung tâm của một khối|
-|hurry == rush|/ˈhɜːri/ == /rʌʃ/ |vội vàng|
-|pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
-|trail|/treɪl/|đường mòn|
-| pot|  /pɑːt/ | ấm; bình|
-|    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
-|banquet|/ˈbæŋkwɪt/|bữa tiệc|
-|wrist|/rɪst/|cổ tay|
-|pan|  /pæn/ | cái chảo |
-|barefoot |/ˈberfʊt/ |chân đất|
-| mirror   |/ˈmɪrər/|gương|
-|edge |/edʒ/ |mép, biên|
-|pedestrian  |/pəˈdestriən/ |người đi bộ|
-|cupboard   |/ˈkʌbərd/ |tủ để cốc, chén|
-|stroller |/ˈstroʊlər/|xe đẩy|
-|assortment   |/əˈsɔːrtmənt/|hỗn hợp|
-| pave   |/peɪv/|lát đường|
-|carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
-|dismantle|/dɪsˈmæntl/|tháo dỡ|
-|variety = diverse|/vəˈraɪəti = daiˈvəːs/|đa dạng|
-|  safety 	    	   | /ˈseɪfti/ 			| an toàn|
-| reflect   |/rɪˈflekt/|phản chiếu trong gương|
-|curve |/kɜːrv/| uốn cong|
-|carriage  |/ˈkærɪdʒ/ |toa xe lửa|
-|unfold|/ʌnˈfoʊld/| mở những cái đã gập|
-|grass |/ ɡræs/|cây cỏ|
-| tray   |/treɪ/|cái khay, cái mâm|
-|lit|/lɪt/| thắp sáng|
-|serve|/sɜːrv/| phục vụ|
-|conductor|/kənˈdʌktər/| người điều khiển|
-|weave   |/wiːv/|dệt|
-|neat|/ˈniːt/| gọn gàng, ngăn lắp|
-| roll   |/roʊl|cuộn|
-|curb |/kɜːrb/| lề đường, kiềm chế|
-|tow |/təu/| kéo|
+|eminent|/ˈeminənt/|xuất chúng|
+|admire|/ədˈmaiə/|ngắm nhìn|
+|leisure|/ˈliːʒər/|thời gian rỗi|
+|estate|/ɪˈsteɪt/|khu xây dựng|
+|fund|/fand/|quĩ|
+|rescue|/ˈreskjuː/|cứu nguy|
+|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
+|abuse|/əˈbjuːz/|lạm dụng|
+|invest|/inˈvest/|đầu tư|
+|attempt|/əˈtempt/|cố gắng|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|expose|/ikˈspəuz/|phơi bày|
+|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
+|theory|/ˈθiəri/|lý luận, nguyên lý|
+|jealous|/ˈdʒeləs/|ghen tị|
+|temper|/ˈtempə/|tính tình, tính khí|
+|obsess|/əbˈses/|ám ảnh|
+|dramatically|/drəˈmætɪkli/|một cách đột ngột|
+|immense|/iˈmens/|rộng lớn|
+|claim|/kleim/|quả quyết, đòi hỏi|
+|impolite|/impəˈlait/|bất lịch sự, khẳng định|
+|acclaim|/əˈkleim/|hoan nghênh|
+|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|discard|/diˈskaːd/|loại bỏ|
+|eliminate|/iˈlimineit/|loại ra|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|tentative|/ˈtentətiv/|chưa hoàn thiện|
+|tight|/tait/|chặt chẽ, nghiêm khắc|
+|mere|/miə/|chỉ là|
+|entire|/inˈtaiə/|toàn bộ|
+|cheer|/tʃiə/|tiếng reo mừng|
+|bowl|/boʊl/|cái bát|
+|desire|/diˈzaiə/|sự khao khát|
+|collapse|/kəˈlӕps/|sụp đổ|
+|altogether|/oːltəˈɡeðə/|hoàn toàn|
+|enhance|/inˈhaːns/|nâng cao|
+|adult|/ˈӕdalt/|trưởng thành|
+|internship|/ˈɪntɜːrnʃɪp/|thực tập|
+|forced|/fɔːrst/|bắt buộc; ép buộc|
 
 ## Part 3
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-| grill|/ ɡrɪl/|vỉ nướng|
-|stroll |/stroʊl/|đi bộ thư giãn|
-|fence|/fens/|hàng rào|
-|rope|/roʊp/|dây thừng|
-| match|/ mætʃ/|que diêm, trận đấu|
-|tearing |/tering/|xé làm nhiều mảnh|
-|facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
-| instrument|/ 'ɪnstrəmənt/|nhạc cụ,dụng cụ|
-|rack|/ 'ræk/|giá đỡ|
-| demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
-| spray |/ spreɪ/|xịt, phun|
-|stare = gaze|  /ster/ = /ɡeɪz/ | nhìn vào cái gì đó một thời gian dài |
-|hood|/hʊd/| mui xe|
-|mow |/moʊ/|cắt,gặt hái|
-|lawn |/lɔːn/|bãi cỏ|
-|bargain |/ˈbɑːrɡən/|mặc cả|
-|fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
-|  dig  |/dɪɡ/|đào|
-| ditch  |/dɪtʃ/|kênh, mương|
-|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
-|splash |/splæʃ/|văng, bắn tung tóe|
-| renovation |/ˌrenəˈveɪʃn/|cải tạo|
-| wire |/waɪər/|dây điện|
-|  supply    |/səˈplaɪ/|vật tư, tiếp tế|
-|   candle  	    	   | /ˈkændl/ 			| cây nến|
-| calm  |/kaːm/|êm đềm, yên tĩnh, bình tĩnh|
-| curtain  |/ˈkɜːrtn/|rèm cửa|
-|sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
-|  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
-|  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
-| weld |/weld/|hàn, gắn, liên kết|
-|unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
-| crop |/krɑːp/|vụ mùa|
-|  harvest   |/ˈhɑːrvɪst/|thu hoạch|
-|  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
-|  lend   |/lend/|cho mượn|
-|pants    |/pænts/|quần dài|
-|instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
-|  atmosphere   |/ˈætməsfɪr/|bầu khí quyển|
-|  warehouse    |/ˈwerhaʊs/|kho|
-|retire |/rɪˈtaɪər/|về hưu|
+|honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
+|imagine|/iˈmӕdʒin	/|tưởng tượng|
+|visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
+|inspire|/inˈspaiə/|truyền cảm hứng|
+|imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
+|beverage|/ˈbevəridʒ/|đồ uống|
+|recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
+|thesis|/ˈθiːsis/|luận văn, luận án|
+|outbreak|/ˈautbreik/|bùng nổ|
+|disease|/diˈziːz/|bệnh|
+|civil|/ˈsivl/|thuộc công dân|
+|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
+|absent|/absent/|vắng mặt|
+|abandon|/əˈbӕndən/|hủy, từ bỏ|
+|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
+|pollute|/pəˈluːt/|ô nhiễm|
+|picturesque|/piktʃəˈresk/|sinh động|
+|praise|/preiz/|khen ngợi|
+|punctual|/ˈpaŋktʃuəl/|đúng giờ|
+|rhetoric|/ˈretərik/|thuật hùng biện|
+|contented|/kənˈtentɪd/|thỏa mãn|
+|surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
+|pragmatic|/præɡˈmætik/|thực dụng|
+|reassure|/riəˈʃuə/|khẳng định lại|
+|owe|/əu/|nợ|
+|military|/ˈmɪləteri/|quân sự|
+|mascot|/ˈmӕskət/|linh vật|
+|funding|/ˈfʌndɪŋ/|quỹ|
+|assume|/əˈsjuːm/|giả thiết rằng|
+|inevitable|/inˈevitəbl/|không thể tránh khỏi|
+|restrict|/rəˈstrikt/|hạn chế|
+|balance|/ˈbӕləns/|sự thăng bằng|
+|sincere|/sinˈsiə/|thành thật, chân thật|
+|regret|/rɪˈɡret/|tiếc|
+|thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
+|badge|/bӕdʒ/|huy hiệu|
+|temporary|/ˈtempərəri/|tạm thời|
+|spite|/spait/|mối hận thù, sự giận|
+|hectic|/ˈhektik/|bận rộn|
+|bankrupt|/ˈbӕŋkrapt/|phá sản|
+|feasible|/ˈfiːzəbl/|khả thi|
 
 ## Part 4
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
-|get in touch|// |liên lạc|
-|  promotional |/prəˈmoʊʃənl/ |quảng cáo|
-|  secretary    |/ˈsekrəteri/|thư ký|
-|  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
-|cabinet |/ˈkæbɪnət/|buồng tắm|
-|appreciate |/əˈpriːʃieɪt/|đánh giá cao|
-|tile  |/taɪl/|ngói, đá lát|
-|confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết|
-|semester |/sɪˈmestər/|học kỳ|
-|mind |/maɪnd/|lí trí, trí nhớ|
-|article |/ˈɑːrtɪkl/|bài báo|
-|postpone    |/poʊˈspoʊn/|hoãn lại|
-|compact |/ˈkɑːmpækt/|chật ních|
-|cord |/kɔːrd/|dây thừng nhỏ|
-|  dental    |/ˈdentl/|nha khoa|
-|inclement    |/ɪnˈklemənt/ |xấu|
-| domestic |/dəˈmestɪk/ |thuộc về trong nước|
-|charity   |/ˈtʃærəti/|từ thiện|
-|firm |/fɜːrm/|doanh nghiệp, công ty|
-|preside  |/prɪˈzaɪd/|chủ trì|
-|professor  |/prəˈfesər/|giáo sư|
-|pharmacy  |/ˈfɑːrməsi/|tiệm thuốc|
-| portfolio |/pɔːrtˈfoʊlioʊ/ |túi đựng tài liệu|
-|lawyer|/ˈlɔːjər/ |luật sư|
-|catalogue  |/ˈkætəlɔːɡ/|mục lục|
-|cab  |/kæb/|taxi|
-|invoice  |/ˈɪnvɔɪs/|hóa đơn|
-|  impressive |/ɪmˈpresɪv/ |ấn tượng|
-|itinerary   |/aɪˈtɪnəreri/|hành trình|
-| exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
-|colleague =  coworker |/ˈkɑːliːɡ/ = /ˈkoʊ wɜːrkər/|đồng nghiệp|
-| vend|/vend/ |bán|
-|finance   |/faɪˈnænʃl/ |tài chính|
-|proposal    |/prəˈpoʊzl/ |đề xuất|
-|  errand |/ˈerənd/ |việc vặt|
-| thorough    |/ˈθɜːroʊ/ |cẩn thận, tỉ mỉ|
-|agency|/ˈeɪdʒənsi/|hãng,đại lý|
-| weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
-|  soul     |/soʊl/ |tâm hồn|
-|consultant|/kənˈsʌltənt/ |ngưới tư vấn|
-|apparel|/əˈpærəl/ |y phục|
-|exhibit|/iɡˈzibit/ |triển lãm|
+|inadequate|/inˈӕdikwət/|không đủ|
+|conclude|/kənˈkluːd/|kết thúc, kết luận|
+|slight|/slait/|nhẹ, không đáng kể|
+|argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
+|crucial|/ˈkruːʃəl/|rất quan trọng|
+|scare|/skeə/|làm kinh hãi|
+|interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
+|projector|/prəˈdʒektər/|máy chiếu|
+|relative|/ˈrelətɪv/|họ hàng|
+|accessory|/əkˈsesəri/|đồ phụ tùng|
+|cooperate|/kəuˈopəreit/|cộng tác|
+|accompany|/əˈkampəni/|đi cùng|
+|cellist|/ˈtʃelɪst/|người chơi đàn violon|
+|infer|/ɪnˈfɜːr/|suy ra, kết luận|
+|politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
+|suitable|/ˈsuːtəbl/|phù hợp|
+|trouble|/ˈtrabl/|điều rắc rối|
+|remittance|/rɪˈmɪtns/|sự chuyển tiền|
+|strive|/straiv/|phấn đấu, đấu tranh|
+|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
+|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
+|deliberate|/diˈlibərət/|cố ý|
+|capable|/ˈkeipəbl/|có năng lực|
+|abide|/əˈbaid/|chịu đựng|
+|athlete|/ˈӕθliːt/|vận động viên điền kinh|
+|dumbbell|/ˈdʌm bel/|quả tạ đôi|
+|barbell|/ˈbɑːrbel/|tạ dài|
+|treadmill|/ˈtredmɪl/|máy tập chạy bộ|
+|eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
+|respective|/rɪˈspektɪv/|tương ứng|
+|coach|/kəutʃ/|toa, huấn luyện viên|
+|divert|/daiˈvəːt/|làm chệch hướng,giải trí|
+|transcript|/ˈtranskript/|bản sao,lý lịch học tập|
+|victim|/ˈviktim/|nạn nhân|
+|flood|/flad/|cơn lũ lụt|
+|trustee|/trʌˈstiː/|người được ủy thác|
+|ability|/əˈbiləti/|khả năng|
+|intranet|/ˈintrənet/|nội mạng|
+|coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
+|poet|/ˈpouit/|nhà thơ|
+|resign|/rəˈzain/|từ chức, cam chịu|
 
 ## Part 5
 
@@ -565,187 +564,209 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|inadequate|/inˈӕdikwət/|không đủ|
-|conclude|/kənˈkluːd/|kết thúc, kết luận|
-|slight|/slait/|nhẹ, không đáng kể|
-|argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
-|crucial|/ˈkruːʃəl/|rất quan trọng|
-|scare|/skeə/|làm kinh hãi|
-|interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
-|projector|/prəˈdʒektər/|máy chiếu|
-|relative|/ˈrelətɪv/|họ hàng|
-|accessory|/əkˈsesəri/|đồ phụ tùng|
-|cooperate|/kəuˈopəreit/|cộng tác|
-|accompany|/əˈkampəni/|đi cùng|
-|cellist|/ˈtʃelɪst/|người chơi đàn violon|
-|infer|/ɪnˈfɜːr/|suy ra, kết luận|
-|politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
-|suitable|/ˈsuːtəbl/|phù hợp|
-|trouble|/ˈtrabl/|điều rắc rối|
-|remittance|/rɪˈmɪtns/|sự chuyển tiền|
-|strive|/straiv/|phấn đấu, đấu tranh|
-|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
-|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
-|deliberate|/diˈlibərət/|cố ý|
-|capable|/ˈkeipəbl/|có năng lực|
-|abide|/əˈbaid/|chịu đựng|
-|athlete|/ˈӕθliːt/|vận động viên điền kinh|
-|dumbbell|/ˈdʌm bel/|quả tạ đôi|
-|barbell|/ˈbɑːrbel/|tạ dài|
-|treadmill|/ˈtredmɪl/|máy tập chạy bộ|
-|eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
-|respective|/rɪˈspektɪv/|tương ứng|
-|coach|/kəutʃ/|toa, huấn luyện viên|
-|divert|/daiˈvəːt/|làm chệch hướng,giải trí|
-|transcript|/ˈtranskript/|bản sao,lý lịch học tập|
-|victim|/ˈviktim/|nạn nhân|
-|flood|/flad/|cơn lũ lụt|
-|trustee|/trʌˈstiː/|người được ủy thác|
-|ability|/əˈbiləti/|khả năng|
-|intranet|/ˈintrənet/|nội mạng|
-|coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
-|poet|/ˈpouit/|nhà thơ|
-|resign|/rəˈzain/|từ chức, cam chịu|
+|emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
+|get in touch|// |liên lạc|
+|  promotional |/prəˈmoʊʃənl/ |quảng cáo|
+|  secretary    |/ˈsekrəteri/|thư ký|
+|  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
+|cabinet |/ˈkæbɪnət/|buồng tắm|
+|appreciate |/əˈpriːʃieɪt/|đánh giá cao|
+|tile  |/taɪl/|ngói, đá lát|
+|confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết|
+|semester |/sɪˈmestər/|học kỳ|
+|mind |/maɪnd/|lí trí, trí nhớ|
+|article |/ˈɑːrtɪkl/|bài báo|
+|postpone    |/poʊˈspoʊn/|hoãn lại|
+|compact |/ˈkɑːmpækt/|chật ních|
+|cord |/kɔːrd/|dây thừng nhỏ|
+|  dental    |/ˈdentl/|nha khoa|
+|inclement    |/ɪnˈklemənt/ |xấu|
+| domestic |/dəˈmestɪk/ |thuộc về trong nước|
+|charity   |/ˈtʃærəti/|từ thiện|
+|firm |/fɜːrm/|doanh nghiệp, công ty|
+|preside  |/prɪˈzaɪd/|chủ trì|
+|professor  |/prəˈfesər/|giáo sư|
+|pharmacy  |/ˈfɑːrməsi/|tiệm thuốc|
+| portfolio |/pɔːrtˈfoʊlioʊ/ |túi đựng tài liệu|
+|lawyer|/ˈlɔːjər/ |luật sư|
+|catalogue  |/ˈkætəlɔːɡ/|mục lục|
+|cab  |/kæb/|taxi|
+|invoice  |/ˈɪnvɔɪs/|hóa đơn|
+|  impressive |/ɪmˈpresɪv/ |ấn tượng|
+|itinerary   |/aɪˈtɪnəreri/|hành trình|
+| exchange |/ɪksˈtʃeɪndʒ/ |giao dịch, trao đổi|
+|colleague =  coworker |/ˈkɑːliːɡ/ = /ˈkoʊ wɜːrkər/|đồng nghiệp|
+| vend|/vend/ |bán|
+|finance   |/faɪˈnænʃl/ |tài chính|
+|proposal    |/prəˈpoʊzl/ |đề xuất|
+|  errand |/ˈerənd/ |việc vặt|
+| thorough    |/ˈθɜːroʊ/ |cẩn thận, tỉ mỉ|
+|agency|/ˈeɪdʒənsi/|hãng,đại lý|
+| weird    |/wɪrd/ |rất lạ và khó giải thích == kì dị, kì lạ|
+|  soul     |/soʊl/ |tâm hồn|
+|consultant|/kənˈsʌltənt/ |ngưới tư vấn|
+|apparel|/əˈpærəl/ |y phục|
+|exhibit|/iɡˈzibit/ |triển lãm|
 
 ## Part 14
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
-|imagine|/iˈmӕdʒin	/|tưởng tượng|
-|visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
-|inspire|/inˈspaiə/|truyền cảm hứng|
-|imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
-|beverage|/ˈbevəridʒ/|đồ uống|
-|recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
-|thesis|/ˈθiːsis/|luận văn, luận án|
-|outbreak|/ˈautbreik/|bùng nổ|
-|disease|/diˈziːz/|bệnh|
-|civil|/ˈsivl/|thuộc công dân|
-|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
-|absent|/absent/|vắng mặt|
-|abandon|/əˈbӕndən/|hủy, từ bỏ|
-|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
-|pollute|/pəˈluːt/|ô nhiễm|
-|picturesque|/piktʃəˈresk/|sinh động|
-|praise|/preiz/|khen ngợi|
-|punctual|/ˈpaŋktʃuəl/|đúng giờ|
-|rhetoric|/ˈretərik/|thuật hùng biện|
-|contented|/kənˈtentɪd/|thỏa mãn|
-|surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
-|pragmatic|/præɡˈmætik/|thực dụng|
-|reassure|/riəˈʃuə/|khẳng định lại|
-|owe|/əu/|nợ|
-|military|/ˈmɪləteri/|quân sự|
-|mascot|/ˈmӕskət/|linh vật|
-|funding|/ˈfʌndɪŋ/|quỹ|
-|assume|/əˈsjuːm/|giả thiết rằng|
-|inevitable|/inˈevitəbl/|không thể tránh khỏi|
-|restrict|/rəˈstrikt/|hạn chế|
-|balance|/ˈbӕləns/|sự thăng bằng|
-|sincere|/sinˈsiə/|thành thật, chân thật|
-|regret|/rɪˈɡret/|tiếc|
-|thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
-|badge|/bӕdʒ/|huy hiệu|
-|temporary|/ˈtempərəri/|tạm thời|
-|spite|/spait/|mối hận thù, sự giận|
-|hectic|/ˈhektik/|bận rộn|
-|bankrupt|/ˈbӕŋkrapt/|phá sản|
-|feasible|/ˈfiːzəbl/|khả thi|
+| grill|/ ɡrɪl/|vỉ nướng|
+|stroll |/stroʊl/|đi bộ thư giãn|
+|fence|/fens/|hàng rào|
+|rope|/roʊp/|dây thừng|
+| match|/ mætʃ/|que diêm, trận đấu|
+|tearing |/tering/|xé làm nhiều mảnh|
+|facing each other| /feɪsɪŋ iːtʃ ˈʌðər/|đối mặt với nhau|
+| instrument|/ 'ɪnstrəmənt/|nhạc cụ,dụng cụ|
+|rack|/ 'ræk/|giá đỡ|
+| demolish  |/dɪˈmɑːlɪʃ/|phá hủy, đánh sập|
+| spray |/ spreɪ/|xịt, phun|
+|stare = gaze|  /ster/ = /ɡeɪz/ | nhìn vào cái gì đó một thời gian dài |
+|hood|/hʊd/| mui xe|
+|mow |/moʊ/|cắt,gặt hái|
+|lawn |/lɔːn/|bãi cỏ|
+|bargain |/ˈbɑːrɡən/|mặc cả|
+|fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
+|  dig  |/dɪɡ/|đào|
+| ditch  |/dɪtʃ/|kênh, mương|
+|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
+|splash |/splæʃ/|văng, bắn tung tóe|
+| renovation |/ˌrenəˈveɪʃn/|cải tạo|
+| wire |/waɪər/|dây điện|
+|  supply    |/səˈplaɪ/|vật tư, tiếp tế|
+|   candle  	    	   | /ˈkændl/ 			| cây nến|
+| calm  |/kaːm/|êm đềm, yên tĩnh, bình tĩnh|
+| curtain  |/ˈkɜːrtn/|rèm cửa|
+|sprinkler|/ ˈsprɪŋklər/|vòi phun nước|
+|  rock  |/rɑːk/|khối đá, rung chuyển, đua đưa|
+|  ruin   |/ˈruːɪn /|sự đổ nát, tàn tích|
+| weld |/weld/|hàn, gắn, liên kết|
+|unload |/ˌʌnˈloʊd/|tháo gỡ hàng hóa từ trên tàu or trên xe|
+| crop |/krɑːp/|vụ mùa|
+|  harvest   |/ˈhɑːrvɪst/|thu hoạch|
+|  telescope   |/ˈtelɪskoʊp/|kính viễn vọng|
+|  lend   |/lend/|cho mượn|
+|pants    |/pænts/|quần dài|
+|instructor    |/ɪnˈstrʌktər/|người hướng dẫn|
+|  atmosphere   |/ˈætməsfɪr/|bầu khí quyển|
+|  warehouse    |/ˈwerhaʊs/|kho|
+|retire |/rɪˈtaɪər/|về hưu|
 
 ## Part 15
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|eminent|/ˈeminənt/|xuất chúng|
-|admire|/ədˈmaiə/|ngắm nhìn|
-|leisure|/ˈliːʒər/|thời gian rỗi|
-|estate|/ɪˈsteɪt/|khu xây dựng|
-|fund|/fand/|quĩ|
-|rescue|/ˈreskjuː/|cứu nguy|
-|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
-|abuse|/əˈbjuːz/|lạm dụng|
-|invest|/inˈvest/|đầu tư|
-|attempt|/əˈtempt/|cố gắng|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
-|expose|/ikˈspəuz/|phơi bày|
-|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
-|theory|/ˈθiəri/|lý luận, nguyên lý|
-|jealous|/ˈdʒeləs/|ghen tị|
-|temper|/ˈtempə/|tính tình, tính khí|
-|obsess|/əbˈses/|ám ảnh|
-|dramatically|/drəˈmætɪkli/|một cách đột ngột|
-|immense|/iˈmens/|rộng lớn|
-|claim|/kleim/|quả quyết, đòi hỏi|
-|impolite|/impəˈlait/|bất lịch sự, khẳng định|
-|acclaim|/əˈkleim/|hoan nghênh|
-|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
-|sensitive|/ˈsensitiv/|nhạy cảm|
-|discard|/diˈskaːd/|loại bỏ|
-|eliminate|/iˈlimineit/|loại ra|
-|disguise|/disˈɡaiz/|cải trang, che đậy|
-|tentative|/ˈtentətiv/|chưa hoàn thiện|
-|tight|/tait/|chặt chẽ, nghiêm khắc|
-|mere|/miə/|chỉ là|
-|entire|/inˈtaiə/|toàn bộ|
-|cheer|/tʃiə/|tiếng reo mừng|
-|bowl|/boʊl/|cái bát|
-|desire|/diˈzaiə/|sự khao khát|
-|collapse|/kəˈlӕps/|sụp đổ|
-|altogether|/oːltəˈɡeðə/|hoàn toàn|
-|enhance|/inˈhaːns/|nâng cao|
-|adult|/ˈӕdalt/|trưởng thành|
-|internship|/ˈɪntɜːrnʃɪp/|thực tập|
-|forced|/fɔːrst/|bắt buộc; ép buộc|
+|exceed |/ɪkˈsiːd/|vượt quá|
+|lap |/læp/|đùi|
+|distance|/ˈdɪstəns/| khoảng cách|
+|     parasol  	    	   | /ˈpærəsɔːl/ 			| Ô che nắng |
+|shrubbery|/ˈʃrʌbəri/| khu vực trồng cây|
+|pedestal|/ˈpedɪstl/| bệ đỡ|
+|floral| /ˈflɔːrəl/ |đồ trang tri được làm từ hoa|
+|centrepiece|/ˈsentərpiːs/| trung tâm của một khối|
+|hurry == rush|/ˈhɜːri/ == /rʌʃ/ |vội vàng|
+|pour|  /pɔːr/| đổ chất lỏng sang thùng chứa |
+|trail|/treɪl/|đường mòn|
+| pot|  /pɑːt/ | ấm; bình|
+|    entrance  	    	   | /ˈentrəns/ 			| lối đi vào |
+|banquet|/ˈbæŋkwɪt/|bữa tiệc|
+|wrist|/rɪst/|cổ tay|
+|pan|  /pæn/ | cái chảo |
+|barefoot |/ˈberfʊt/ |chân đất|
+| mirror   |/ˈmɪrər/|gương|
+|edge |/edʒ/ |mép, biên|
+|pedestrian  |/pəˈdestriən/ |người đi bộ|
+|cupboard   |/ˈkʌbərd/ |tủ để cốc, chén|
+|stroller |/ˈstroʊlər/|xe đẩy|
+|assortment   |/əˈsɔːrtmənt/|hỗn hợp|
+| pave   |/peɪv/|lát đường|
+|carpet   |/ˈkɑːrpɪt/|thảm trải nhà|
+|dismantle|/dɪsˈmæntl/|tháo dỡ|
+|variety = diverse|/vəˈraɪəti = daiˈvəːs/|đa dạng|
+|  safety 	    	   | /ˈseɪfti/ 			| an toàn|
+| reflect   |/rɪˈflekt/|phản chiếu trong gương|
+|curve |/kɜːrv/| uốn cong|
+|carriage  |/ˈkærɪdʒ/ |toa xe lửa|
+|unfold|/ʌnˈfoʊld/| mở những cái đã gập|
+|grass |/ ɡræs/|cây cỏ|
+| tray   |/treɪ/|cái khay, cái mâm|
+|lit|/lɪt/| thắp sáng|
+|serve|/sɜːrv/| phục vụ|
+|conductor|/kənˈdʌktər/| người điều khiển|
+|weave   |/wiːv/|dệt|
+|neat|/ˈniːt/| gọn gàng, ngăn lắp|
+| roll   |/roʊl|cuộn|
+|curb |/kɜːrb/| lề đường, kiềm chế|
+|tow |/təu/| kéo|
 
 ## Part 16
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|lay|/lei/|đặt; để|
-|filing cabinet |/ /|tủ đựng hồ sơ|
-|stuck|/ stʌk/|tắc, bí bách|
-|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
-|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi|
-|oppose|/əˈpəuz/|phản đối, chống lại|
-|reluctant|/rəˈlaktənt/|miễn cưỡng|
-|sketch|/sketʃ/|bức phác họa|
-|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
-|precaution|/priˈkoːʃən/|sự đề phòng|
-|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
-|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
-|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
-|ambience|/ˈæmbiəns/|không khí|
-|corridor|/ˈkɔːrɪdɔːr/|hành lang|
-|jewelry|/ˈdʒuːəlri/|trang sức|
-|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
-|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
-|farewell|/feəˈwel/|lời chào tạm biệt|
-|hobby|/ˈhobi/|sở thích|
-|pastime|/ˈpaːstaim/|sự giải trí|
-|botany|/ˈbotəni/|thực vật học|
-|passion|/ˈpӕʃən/|sự say mê|
-|rare|/ˈreə/|hiếm, chín tái|
-|auction|/ˈoːkʃən/|cuộc bán đấu giá|
-|disrupt|/disˈrapt/|làm rối loạn|
-|tremendous|/trəˈmendəs/|ghê gớm, bao la|
-|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
-|pamphlet|/ˈpӕmflit/|sách mỏng|
-|proceeds|/ˈprəusiːdz/|tiền từ thiện|
-|theory|/ˈθiəri/|lý thuyết, lý luận, nguyên lý|
-|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|rival|/ˈraivəl/|đối thủ|
-|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
-|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
-|smooth|/smuːð/|nhẵn, trơn, mượt|
-|underground|/andəˈɡraund/|ở dưới mặt đất|
-|adjacent|/əˈdʒeisənt/|liền kề|
-|attendant|/əˈtendənt/|người phục vụ|
-|recession|/rəˈseʃən/|tình trạng suy thoái|
-|pace|/peis/|tốc độ đi, bước chân|
+
+|  sip 	    	   | /sɪp/ 			| nhấm nháp (uống một lượng rất nhỏ)|
+| reel    	   | /riːl/ 			| cuộn, quấn, ống chỉ| 
+|  crew 	    	   | /kruː/ 			|thủy thủ đoàn; phi đội, bọn; đám| 
+|  airstrip 	    	   | /airstrip/ 			|đường băng| 
+|     paddle  	    	   | /ˈpædl/ 			| chèo thuyền |
+| saucer|  /ˈsɔːsər/ | đĩa đặt dưới chén |
+|  helmet 	    	   | /ˈhelmɪt/ 			| mũ bảo hiểm|
+|deck |/dek/|tầng trên cùng của một con tàu|
+|   Candlestick 	    	   | /ˈkændlstɪk/ 			| giá đỡ nến|
+|    balcony  	    	   | /ˈbælkəni/ 			| ban công |
+|gesture|/ˈdʒestʃər/|cử chỉ|
+|  cloth 	    	   | /klɔːθ/ 			| vải (vật liệu được dệt bằng lụa)|
+| runway	    	   | /ˈrʌnweɪ/ 			| đường băng|
+|  aircraft 	    	   | /ˈerkræft/ 			| phương tiện bay (phi cơ)| 
+|  lean 	    	   | /liːn 			| dựa vào|
+|  disembark	    	   | /ˌdɪsɪmˈbɑːrk/ 			|lên bờ| 
+| wool   	   | /wʊl/ 			| vải len, cuộn len			|
+|  measure 	    	   | /ˈmeʒər/ 			| đo lường|
+|fountain |/ˈfaʊntn/|đài phun nước|
+|  leash 	    	   | /liːʃ/ 			| dây xích|
+|   Chandelier  	    	   | /ˌʃændəˈlɪr/ 			| đèn trùm |
+|  passenger	    	   | /ˈpæsɪndʒər/ 			| hành khách|  
+| oven|  /ˈʌvn/ | lò nướng |
+|     sail  	    	   | /seɪl/ 			| cánh buồm |
+| applaud|  /əˈplɔːd/ | vỗ tay |
+|    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
+|stir|/ˈstɜːr/| khuấy|
+|     utensil  	    	   | /juːˈtensl/ 			| Vật dụng gia đình |
+|     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
+| shore   	   | /ʃɔːr/ 			| bờ biển			|
+|blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
+|     couch  	    	   | /kaʊtʃ/ 			| sofa |
+| rod   	   | /rɑːd/ 			| cái que, cái gậy|
+|     life vest =  life jacket 	    	   |  /ˈlaɪf vest/ = /ˈlaɪf dʒækɪt/| áo phao |
+|     coast  	    	   | /koʊst/ 			| bờ biển |
+| stove|  /stoʊv/ | bếp |
+|wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
 
 ## Part 17
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|recession|/rəˈseʃən/|tình trạng suy thoái|
+|pace|/peis/|tốc độ đi, bước chân|
+|sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
+|sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
+|rug|/raɡ/|thảm dày trải sàn|
+|basket|/ˈbaːskit/|cái rổ|
+|roadway|/ˈroʊdweɪ/|đường dành cho ô tô|
+|rooftop|/ˈruːftɑːp/|mái nhà|
+|merchandise|/ˈməːtʃəndaiz/|hàng hóa|
+|cashier|/kӕˈʃiə/|nhân viên thu ngân|
+|archway|/ˈɑːrtʃweɪ/|cổng vòm|
+|arch|/aːtʃ/|mái vòm|
+|bridge|/bridʒ/|cái cầu|
+|medical|/ˈmedikəl/|thuộc y học|
+|lobby|/ˈlobi/|hành lang|
+|lease|/liːs/|sự cho thuê nhà đất|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng|
+
+## Part 18
 
 | Word         | NAmE 			|
 |--------------|----------------|
