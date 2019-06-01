@@ -572,7 +572,7 @@
 |cabinet |/ˈkæbɪnət/|buồng tắm|
 |appreciate |/əˈpriːʃieɪt/|đánh giá cao|
 |tile  |/taɪl/|ngói, đá lát|
-|confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết|
+|confident |/ˈkɑːnfɪdənt/|tự tin, quả quyết, bí mật|
 |semester |/sɪˈmestər/|học kỳ|
 |mind |/maɪnd/|lí trí, trí nhớ|
 |article |/ˈɑːrtɪkl/|bài báo|
@@ -765,6 +765,37 @@
 |lobby|/ˈlobi/|hành lang|
 |lease|/liːs/|sự cho thuê nhà đất|
 |deposit|/diˈpozit/|gửi tiền vào ngân hàng|
+|brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
+|scarf|/skaːf/|khăn quàng cổ|
+|grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
+|informal|/inˈfoːml/|thân mật|
+|casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
+|elect|/iˈlekt/|bầu cử|
+|vary|/ˈveəri/|thay đổi, biến đổi|
+|routine|/ruːˈtiːn/|thói quen|
+|negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
+|comfort|/ˈkamfət/|sự an ủi,tiện nghi|
+|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
+|compensate|/ˈkompənseit/|đền bù|
+|superb|/suˈpəːb/|tuyệt vời|
+|amenity|/əˈmiːnəti/|tiện nghi|
+|brain|/brein/|bộ não|
+|brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
+|ingredient|/inˈɡriːdiənt/|thành phần|
+|recruit|/rəˈkruːt/|thành viên mới|
+|tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
+|scrub|/skrab/|lau chùi; cọ rửa|
+|overwhelm|/əuvəˈwelm/|áp đảo|
+|interior|/inˈtiəriə/|bên trong, nội thất|
+|independent|/indiˈpendənt/|độc lập|
+|encounter|/encounter/|bắt gặp|
+|extraordinary|/ikˈstroːdənəri/|phi thường|
+|officiate|/əˈfiʃieit/|làm nhiệm vụ|
+|adverse|/ˈӕdvəːs/|bất lợi|
+|fluctuate|/ˈflaktʃuːˌeit/|biến động|
+|perceptions|/pəˈsepʃən/|sự nhận thức|
+|narrate|/nəˈreit/|kể lại|
+|oblige|/əˈblaidʒ/|bắt buộc|
 
 ## Part 18
 
@@ -799,3 +830,6 @@
 |make the most of|tận dụng cái gì|
 |deem = consider +adj|xem xét|
 |mess up|làm lộn xộn|
+|ahead of| trước|
+|referred to| giới superb|
+|figure out|hiểu|
