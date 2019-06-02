@@ -8,7 +8,7 @@
 |filing cabinet |/ /|tủ đựng hồ sơ|
 |stuck|/ stʌk/|tắc, bí bách|
 |unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
-|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi|
+|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
 |oppose|/əˈpəuz/|phản đối, chống lại|
 |reluctant|/rəˈlaktənt/|miễn cưỡng|
 |sketch|/sketʃ/|bức phác họa|
@@ -796,6 +796,13 @@
 |perceptions|/pəˈsepʃən/|sự nhận thức|
 |narrate|/nəˈreit/|kể lại|
 |oblige|/əˈblaidʒ/|bắt buộc|
+|generous|/ˈdʒenərəs/|hào phóng|
+|steam|/stiːm/|hơi nước|
+|spare|/speə/|không cần đến|
+|fan|/fӕn/|cái quạt|
+|withdraw|/wiðˈdroː/|rút quân|
+|bark|/baːk/|tiếng sủa|
+|rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
 
 ## Part 18
 
