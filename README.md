@@ -706,7 +706,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-
 |  sip 	    	   | /sɪp/ 			| nhấm nháp (uống một lượng rất nhỏ)|
 | reel    	   | /riːl/ 			| cuộn, quấn, ống chỉ| 
 |  crew 	    	   | /kruː/ 			|thủy thủ đoàn; phi đội, bọn; đám| 
@@ -749,7 +748,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-
 |honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
 |imagine|/iˈmӕdʒin	/|tưởng tượng|
 |visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
