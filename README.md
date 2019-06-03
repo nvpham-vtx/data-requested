@@ -4,46 +4,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|lay|/lei/|đặt; để|
-|filing cabinet |/ /|tủ đựng hồ sơ|
-|stuck|/ stʌk/|tắc, bí bách|
-|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
-|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
-|oppose|/əˈpəuz/|phản đối, chống lại|
-|reluctant|/rəˈlaktənt/|miễn cưỡng|
-|sketch|/sketʃ/|bức phác họa|
-|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
-|precaution|/priˈkoːʃən/|sự đề phòng|
-|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
-|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
-|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
-|ambience|/ˈæmbiəns/|không khí|
-|corridor|/ˈkɔːrɪdɔːr/|hành lang|
-|jewelry|/ˈdʒuːəlri/|trang sức|
-|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
-|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
-|farewell|/feəˈwel/|lời chào tạm biệt|
-|hobby|/ˈhɑːbi/|sở thích|
-|pastime|/ˈpaːstaim/|sự giải trí|
-|botany|/ˈbotəni/|thực vật học|
-|passion|/ˈpӕʃən/|sự say mê|
-|rare|/ˈreə/|hiếm, chín tái|
-|auction|/ˈoːkʃən/|cuộc bán đấu giá|
-|disrupt|/disˈrapt/|làm rối loạn|
-|tremendous|/trəˈmendəs/|ghê gớm, bao la|
-|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
-|pamphlet|/ˈpӕmflit/|sách mỏng|
-|proceeds|/ˈprəusiːdz/|tiền từ thiện|
-|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
-|garment|/ˈɡaːmənt/|quần áo|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|rival|/ˈraivəl/|đối thủ|
-|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
-|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
-|smooth|/smuːð/|nhẵn, trơn, mượt|
-|underground|/andəˈɡraund/|ở dưới mặt đất|
-|adjacent|/əˈdʒeisənt/|liền kề|
-|attendant|/əˈtendənt/|người phục vụ|
+|recession|/rəˈseʃən/|tình trạng suy thoái|
+|pace|/peis/|tốc độ đi, bước chân|
+|sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
+|sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
+|rug|/raɡ/|thảm dày trải sàn|
+|basket|/ˈbaːskit/|cái rổ|
+|roadway|/ˈroʊdweɪ/|đường dành cho ô tô|
+|rooftop|/ˈruːftɑːp/|mái nhà|
+|merchandise|/ˈməːtʃəndaiz/|hàng hóa|
+|cashier|/kӕˈʃiə/|nhân viên thu ngân|
+|archway|/ˈɑːrtʃweɪ/|cổng vòm|
+|arch|/aːtʃ/|mái vòm|
+|bridge|/bridʒ/|cái cầu|
+|medical|/ˈmedikəl/|thuộc y học|
+|lobby|/ˈlobi/|hành lang|
+|lease|/liːs/|sự cho thuê nhà đất|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng|
+|brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
+|scarf|/skaːf/|khăn quàng cổ|
+|grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
+|informal|/inˈfoːml/|thân mật|
+|casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
+|elect|/iˈlekt/|bầu cử|
+|vary|/ˈveəri/|thay đổi, biến đổi|
+|routine|/ruːˈtiːn/|thói quen|
+|negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
+|comfort|/ˈkamfət/|sự an ủi,tiện nghi|
+|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
+|compensate|/ˈkompənseit/|đền bù|
+|superb|/suˈpəːb/|tuyệt vời|
+|amenity|/əˈmiːnəti/|tiện nghi|
+|brain|/brein/|bộ não|
+|brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
+|ingredient|/inˈɡriːdiənt/|thành phần|
+|recruit|/rəˈkruːt/|thành viên mới|
+|tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
+|scrub|/skrab/|lau chùi; cọ rửa|
+|overwhelm|/əuvəˈwelm/|áp đảo|
+|interior|/inˈtiəriə/|bên trong, nội thất|
+|independent|/indiˈpendənt/|độc lập|
+|encounter|/encounter/|bắt gặp|
 
 ## Part 2
 
@@ -94,47 +95,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
-|imagine|/iˈmӕdʒin	/|tưởng tượng|
-|visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
-|inspire|/inˈspaiə/|truyền cảm hứng|
-|imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
-|beverage|/ˈbevəridʒ/|đồ uống|
-|recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
-|thesis|/ˈθiːsis/|luận văn, luận án|
-|outbreak|/ˈautbreik/|bùng nổ|
-|disease|/diˈziːz/|bệnh|
-|civil|/ˈsivl/|thuộc công dân|
-|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
-|absent|/absent/|vắng mặt|
-|abandon|/əˈbӕndən/|hủy, từ bỏ|
-|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
-|pollute|/pəˈluːt/|ô nhiễm|
-|picturesque|/piktʃəˈresk/|sinh động|
-|praise|/preiz/|khen ngợi|
-|punctual|/ˈpaŋktʃuəl/|đúng giờ|
-|rhetoric|/ˈretərik/|thuật hùng biện|
-|contented|/kənˈtentɪd/|thỏa mãn|
-|surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
-|pragmatic|/præɡˈmætik/|thực dụng|
-|reassure|/riəˈʃuə/|khẳng định lại|
-|owe|/əu/|nợ|
-|military|/ˈmɪləteri/|quân sự|
-|mascot|/ˈmӕskət/|linh vật|
-|funding|/ˈfʌndɪŋ/|quỹ|
-|assume|/əˈsjuːm/|giả thiết rằng|
-|inevitable|/inˈevitəbl/|không thể tránh khỏi|
-|restrict|/rəˈstrikt/|hạn chế|
-|balance|/ˈbӕləns/|sự thăng bằng|
-|sincere|/sinˈsiə/|thành thật, chân thật|
-|regret|/rɪˈɡret/|tiếc|
-|thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
-|badge|/bӕdʒ/|huy hiệu|
-|temporary|/ˈtempərəri/|tạm thời|
-|spite|/spait/|mối hận thù, sự giận|
-|hectic|/ˈhektik/|bận rộn|
-|bankrupt|/ˈbӕŋkrapt/|phá sản|
-|feasible|/ˈfiːzəbl/|khả thi|
+
+|lay|/lei/|đặt; để|
+|filing cabinet |/ /|tủ đựng hồ sơ|
+|stuck|/ stʌk/|tắc, bí bách|
+|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
+|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
+|oppose|/əˈpəuz/|phản đối, chống lại|
+|reluctant|/rəˈlaktənt/|miễn cưỡng|
+|sketch|/sketʃ/|bức phác họa|
+|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
+|precaution|/priˈkoːʃən/|sự đề phòng|
+|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
+|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
+|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
+|ambience|/ˈæmbiəns/|không khí|
+|corridor|/ˈkɔːrɪdɔːr/|hành lang|
+|jewelry|/ˈdʒuːəlri/|trang sức|
+|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
+|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
+|farewell|/feəˈwel/|lời chào tạm biệt|
+|hobby|/ˈhɑːbi/|sở thích|
+|pastime|/ˈpaːstaim/|sự giải trí|
+|botany|/ˈbotəni/|thực vật học|
+|passion|/ˈpӕʃən/|sự say mê|
+|rare|/ˈreə/|hiếm, chín tái|
+|auction|/ˈoːkʃən/|cuộc bán đấu giá|
+|disrupt|/disˈrapt/|làm rối loạn|
+|tremendous|/trəˈmendəs/|ghê gớm, bao la|
+|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
+|pamphlet|/ˈpӕmflit/|sách mỏng|
+|proceeds|/ˈprəusiːdz/|tiền từ thiện|
+|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
+|garment|/ˈɡaːmənt/|quần áo|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|rival|/ˈraivəl/|đối thủ|
+|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
+|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
+|smooth|/smuːð/|nhẵn, trơn, mượt|
+|underground|/andəˈɡraund/|ở dưới mặt đất|
+|adjacent|/əˈdʒeisənt/|liền kề|
+|attendant|/əˈtendənt/|người phục vụ|
 
 ## Part 4
 
@@ -748,47 +749,48 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|recession|/rəˈseʃən/|tình trạng suy thoái|
-|pace|/peis/|tốc độ đi, bước chân|
-|sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
-|sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
-|rug|/raɡ/|thảm dày trải sàn|
-|basket|/ˈbaːskit/|cái rổ|
-|roadway|/ˈroʊdweɪ/|đường dành cho ô tô|
-|rooftop|/ˈruːftɑːp/|mái nhà|
-|merchandise|/ˈməːtʃəndaiz/|hàng hóa|
-|cashier|/kӕˈʃiə/|nhân viên thu ngân|
-|archway|/ˈɑːrtʃweɪ/|cổng vòm|
-|arch|/aːtʃ/|mái vòm|
-|bridge|/bridʒ/|cái cầu|
-|medical|/ˈmedikəl/|thuộc y học|
-|lobby|/ˈlobi/|hành lang|
-|lease|/liːs/|sự cho thuê nhà đất|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng|
-|brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
-|scarf|/skaːf/|khăn quàng cổ|
-|grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
-|informal|/inˈfoːml/|thân mật|
-|casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
-|elect|/iˈlekt/|bầu cử|
-|vary|/ˈveəri/|thay đổi, biến đổi|
-|routine|/ruːˈtiːn/|thói quen|
-|negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
-|comfort|/ˈkamfət/|sự an ủi,tiện nghi|
-|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
-|compensate|/ˈkompənseit/|đền bù|
-|superb|/suˈpəːb/|tuyệt vời|
-|amenity|/əˈmiːnəti/|tiện nghi|
-|brain|/brein/|bộ não|
-|brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
-|ingredient|/inˈɡriːdiənt/|thành phần|
-|recruit|/rəˈkruːt/|thành viên mới|
-|tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
-|scrub|/skrab/|lau chùi; cọ rửa|
-|overwhelm|/əuvəˈwelm/|áp đảo|
-|interior|/inˈtiəriə/|bên trong, nội thất|
-|independent|/indiˈpendənt/|độc lập|
-|encounter|/encounter/|bắt gặp|
+
+|honour|/ˈɑːnər/|vinh dự, danh tiếng, danh dự|
+|imagine|/iˈmӕdʒin	/|tưởng tượng|
+|visualization|/ˌvɪʒuələˈzeɪʃn/|sự mường tượng|
+|inspire|/inˈspaiə/|truyền cảm hứng|
+|imagination|/ɪˌmædʒɪˈneɪʃn/|trí tưởng tượng, khả năng sáng tạo|
+|beverage|/ˈbevəridʒ/|đồ uống|
+|recognition|/ˌrekəɡˈnɪʃn/|sự công nhận, sự nhận ra|
+|thesis|/ˈθiːsis/|luận văn, luận án|
+|outbreak|/ˈautbreik/|bùng nổ|
+|disease|/diˈziːz/|bệnh|
+|civil|/ˈsivl/|thuộc công dân|
+|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
+|absent|/absent/|vắng mặt|
+|abandon|/əˈbӕndən/|hủy, từ bỏ|
+|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
+|pollute|/pəˈluːt/|ô nhiễm|
+|picturesque|/piktʃəˈresk/|sinh động|
+|praise|/preiz/|khen ngợi|
+|punctual|/ˈpaŋktʃuəl/|đúng giờ|
+|rhetoric|/ˈretərik/|thuật hùng biện|
+|contented|/kənˈtentɪd/|thỏa mãn|
+|surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
+|pragmatic|/præɡˈmætik/|thực dụng|
+|reassure|/riəˈʃuə/|khẳng định lại|
+|owe|/əu/|nợ|
+|military|/ˈmɪləteri/|quân sự|
+|mascot|/ˈmӕskət/|linh vật|
+|funding|/ˈfʌndɪŋ/|quỹ|
+|assume|/əˈsjuːm/|giả thiết rằng|
+|inevitable|/inˈevitəbl/|không thể tránh khỏi|
+|restrict|/rəˈstrikt/|hạn chế|
+|balance|/ˈbӕləns/|sự thăng bằng|
+|sincere|/sinˈsiə/|thành thật, chân thật|
+|regret|/rɪˈɡret/|tiếc|
+|thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
+|badge|/bӕdʒ/|huy hiệu|
+|temporary|/ˈtempərəri/|tạm thời|
+|spite|/spait/|mối hận thù, sự giận|
+|hectic|/ˈhektik/|bận rộn|
+|bankrupt|/ˈbӕŋkrapt/|phá sản|
+|feasible|/ˈfiːzəbl/|khả thi|
 
 ## Part 18
 
@@ -814,6 +816,7 @@
 |dispute|/diˈspjuːt/|tranh luận|
 |discreet|/diˈskriːt/|kín đáo|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
+|distinguish|/diˈstiŋɡwiʃ/|phân biệt|
 
 ## Part 19
 
