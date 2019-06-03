@@ -23,7 +23,7 @@
 |commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
 |orchard|/ˈoːtʃəd/|vườn cây ăn quả|
 |farewell|/feəˈwel/|lời chào tạm biệt|
-|hobby|/ˈhobi/|sở thích|
+|hobby|/ˈhɑːbi/|sở thích|
 |pastime|/ˈpaːstaim/|sự giải trí|
 |botany|/ˈbotəni/|thực vật học|
 |passion|/ˈpӕʃən/|sự say mê|
@@ -34,8 +34,8 @@
 |demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
 |pamphlet|/ˈpӕmflit/|sách mỏng|
 |proceeds|/ˈprəusiːdz/|tiền từ thiện|
-|theory|/ˈθiəri/|lý thuyết, lý luận, nguyên lý|
 |hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
+|garment|/ˈɡaːmənt/|quần áo|
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
 |rival|/ˈraivəl/|đối thủ|
 |insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
@@ -789,6 +789,11 @@
 |interior|/inˈtiəriə/|bên trong, nội thất|
 |independent|/indiˈpendənt/|độc lập|
 |encounter|/encounter/|bắt gặp|
+
+## Part 18
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |extraordinary|/ikˈstroːdənəri/|phi thường|
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
 |adverse|/ˈӕdvəːs/|bất lợi|
@@ -803,8 +808,14 @@
 |withdraw|/wiðˈdroː/|rút quân|
 |bark|/baːk/|tiếng sủa|
 |rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
+|abundant|/abundant/| nhiều, phong phú|
+|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
+|attire|/əˈtaiə/|quần áo|
+|dispute|/diˈspjuːt/|tranh luận|
+|discreet|/diˈskriːt/|kín đáo|
+|active|/ˈӕktiv/|nhanh nhẹn, tích cực|
 
-## Part 18
+## Part 19
 
 | Word         | NAmE 			|
 |--------------|----------------|
@@ -840,3 +851,5 @@
 |ahead of| trước|
 |referred to| giới superb|
 |figure out|hiểu|
+|Dipose of|loại bỏ|
+| admission to + places|cho phép vào nơi nào đó|
