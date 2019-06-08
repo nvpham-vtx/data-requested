@@ -44,7 +44,7 @@
 |overwhelm|/əuvəˈwelm/|áp đảo|
 |interior|/inˈtiəriə/|bên trong, nội thất|
 |independent|/indiˈpendənt/|độc lập|
-|encounter|/encounter/|bắt gặp|
+|encounter|/ɪnˈkaʊntər/|bắt gặp|
 
 ## Part 2
 
@@ -95,7 +95,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-
 |lay|/lei/|đặt; để|
 |filing cabinet |/ /|tủ đựng hồ sơ|
 |stuck|/ stʌk/|tắc, bí bách|
@@ -815,6 +814,9 @@
 |discreet|/diˈskriːt/|kín đáo|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
 |distinguish|/diˈstiŋɡwiʃ/|phân biệt|
+|lounge|/laundʒ/|lang thang|
+|amuse|/əˈmjuːz/|làm cho ai cười|
+|accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
 
 ## Part 19
 
