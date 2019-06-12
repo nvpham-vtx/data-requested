@@ -20,7 +20,7 @@
 |medical|/ˈmedikəl/|thuộc y học|
 |lobby|/ˈlobi/|hành lang|
 |lease|/liːs/|sự cho thuê nhà đất|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
 |brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
 |scarf|/skaːf/|khăn quàng cổ|
 |grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
@@ -266,7 +266,7 @@
 |grab |/ɡrab/ |chiếm|
 |bite |/bait/ |cắn, châm đốt|
 |warrant|/ˈwɔːrənt/ |biện hộ, bảo đảm|
-|beneficial|/ˌbenɪˈfɪʃl/ |hưởng quyền lợi|
+|beneficial|/ˌbenɪˈfɪʃl/ |hưởng quyền lợi, có ích|
 |humid|/ˈhjuːmid/ |ẩm thấp|
 |doubt|/daʊt/ |nghi ngờ|
 |economic|/ˌiːkəˈnɑːmɪk/ |thuộc về kinh tế|
@@ -380,7 +380,7 @@
 |thrill   | /θril/ |hồi hộp, xúc động|
 |affordable| /əˈfɔːrdəbl/ |chấp nhận được|
 |popular| /ˈpopjulə/ |nổi tiếng, phổ biến|
-|delight| /diˈlait/ |thích thú|
+|delight| /diˈlait/ |thích thú, làm vui thích|
 |stomachache| /ˈstamək/ |đau bụng, dạ dày|
 |sprain| /sprein/ |làm bong gân|
 |ankle| /ˈӕŋkl/ |mắt cá chân|	
@@ -433,7 +433,7 @@
 |nature|/ˈneitʃə/|thiên nhiên|
 |dedicate|/ˈdedikeit/|hiến dâng|
 |attitude|/ˈӕtitjuːd/|quan điểm|
-|various|/ˈveəriəs/|khác nhau|
+|various|/ˈveəriəs/|khác nhau, đa dạng|
 |disappoint|/disəˈpoint/|thất vọng|
 |awful|/ˈoːful/|khủng khiếp|
 |cavity|/ˈkӕvəti/|hốc|
@@ -817,6 +817,22 @@
 |lounge|/laundʒ/|lang thang|
 |amuse|/əˈmjuːz/|làm cho ai cười|
 |accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
+|fire hydrant|/ˈhaidrənt/|vòi rồng|
+|cone|/koun/|vật hình nón, quả thông|
+|ceiling|/ˈsiːliŋ/|trần nhà|
+|thick|/θik/|dày|
+|scattered|/ˈskætərd/|lác đác, lưa thưa|
+|skyscraper|/ˈskaɪskreɪpər/|nhà cao chọc trời|
+|weed|/wiːd/|cỏ dại|
+|rake|/reik/|cái cào|
+|identical|/aiˈdentikəl/|giống hệt|
+|inventory|/ˈinvənˌtoːri/|bản kiểm kê|
+|adopt|/əˈdopt/|nhận con nuôi|
+|resist|/rəˈzist/|chống lại|
+|federal|/ˈfedərəl/|(thuộc) liên bang|
+|tariff|/ˈtӕrif/|bảng giá|
+|grant|/ɡraːnt/|ban cho, chấp nhận|
+|sincerely|/sɪnˈsɪrli/|một cách chân thành|
 
 ## Part 19
 
