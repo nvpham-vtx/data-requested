@@ -4,6 +4,52 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|extraordinary|/ikˈstroːdənəri/|phi thường|
+|officiate|/əˈfiʃieit/|làm nhiệm vụ|
+|adverse|/ˈӕdvəːs/|bất lợi|
+|fluctuate|/ˈflaktʃuːˌeit/|biến động|
+|perceptions|/pəˈsepʃən/|sự nhận thức|
+|narrate|/nəˈreit/|kể lại|
+|oblige|/əˈblaidʒ/|bắt buộc|
+|generous|/ˈdʒenərəs/|hào phóng|
+|steam|/stiːm/|hơi nước|
+|spare|/speə/|không cần đến|
+|fan|/fӕn/|cái quạt|
+|withdraw|/wiðˈdroː/|rút quân|
+|bark|/baːk/|tiếng sủa|
+|rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
+|abundant|/abundant/| nhiều, phong phú|
+|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
+|attire|/əˈtaiə/|quần áo|
+|dispute|/diˈspjuːt/|tranh luận|
+|discreet|/diˈskriːt/|kín đáo|
+|active|/ˈӕktiv/|nhanh nhẹn, tích cực|
+|distinguish|/diˈstiŋɡwiʃ/|phân biệt|
+|lounge|/laundʒ/|lang thang|
+|amuse|/əˈmjuːz/|làm cho ai cười|
+|accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
+|fire hydrant|/ˈhaidrənt/|vòi rồng|
+|cone|/koun/|vật hình nón, quả thông|
+|ceiling|/ˈsiːliŋ/|trần nhà|
+|thick|/θik/|dày|
+|scattered|/ˈskætərd/|lác đác, lưa thưa|
+|skyscraper|/ˈskaɪskreɪpər/|nhà cao chọc trời|
+|weed|/wiːd/|cỏ dại|
+|rake|/reik/|cái cào|
+|identical|/aiˈdentikəl/|giống hệt|
+|inventory|/ˈinvənˌtoːri/|bản kiểm kê|
+|adopt|/əˈdopt/|nhận con nuôi|
+|resist|/rəˈzist/|chống lại|
+|federal|/ˈfedərəl/|(thuộc) liên bang|
+|tariff|/ˈtӕrif/|bảng giá|
+|grant|/ɡraːnt/|ban cho, chấp nhận|
+|sincerely|/sɪnˈsɪrli/|một cách chân thành|
+|hardly|/ˈhaːdli/|khó có thể|
+
+## Part 2
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |recession|/rəˈseʃən/|tình trạng suy thoái|
 |pace|/peis/|tốc độ đi, bước chân|
 |sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
@@ -45,51 +91,6 @@
 |interior|/inˈtiəriə/|bên trong, nội thất|
 |independent|/indiˈpendənt/|độc lập|
 |encounter|/ɪnˈkaʊntər/|bắt gặp|
-
-## Part 2
-
-| Word         | NAmE 			| VN				|
-|--------------|----------------|-------------------|
-|eminent|/ˈeminənt/|xuất chúng|
-|admire|/ədˈmaiə/|ngắm nhìn|
-|leisure|/ˈliːʒər/|thời gian rỗi|
-|estate|/ɪˈsteɪt/|khu xây dựng|
-|fund|/fand/|quĩ|
-|rescue|/ˈreskjuː/|cứu nguy|
-|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
-|abuse|/əˈbjuːz/|lạm dụng|
-|invest|/inˈvest/|đầu tư|
-|attempt|/əˈtempt/|cố gắng|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
-|expose|/ikˈspəuz/|phơi bày|
-|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
-|theory|/ˈθiəri/|lý luận, nguyên lý|
-|jealous|/ˈdʒeləs/|ghen tị|
-|temper|/ˈtempə/|tính tình, tính khí|
-|obsess|/əbˈses/|ám ảnh|
-|dramatically|/drəˈmætɪkli/|một cách đột ngột|
-|immense|/iˈmens/|rộng lớn|
-|claim|/kleim/|quả quyết, đòi hỏi|
-|impolite|/impəˈlait/|bất lịch sự, khẳng định|
-|acclaim|/əˈkleim/|hoan nghênh|
-|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
-|sensitive|/ˈsensitiv/|nhạy cảm|
-|discard|/diˈskaːd/|loại bỏ|
-|eliminate|/iˈlimineit/|loại ra|
-|disguise|/disˈɡaiz/|cải trang, che đậy|
-|tentative|/ˈtentətiv/|chưa hoàn thiện|
-|tight|/tait/|chặt chẽ, nghiêm khắc|
-|mere|/miə/|chỉ là|
-|entire|/inˈtaiə/|toàn bộ|
-|cheer|/tʃiə/|tiếng reo mừng|
-|bowl|/boʊl/|cái bát|
-|desire|/diˈzaiə/|sự khao khát|
-|collapse|/kəˈlӕps/|sụp đổ|
-|altogether|/oːltəˈɡeðə/|hoàn toàn|
-|enhance|/inˈhaːns/|nâng cao|
-|adult|/ˈӕdalt/|trưởng thành|
-|internship|/ˈɪntɜːrnʃɪp/|thực tập|
-|forced|/fɔːrst/|bắt buộc; ép buộc|
 
 ## Part 3
 
@@ -793,48 +794,54 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|extraordinary|/ikˈstroːdənəri/|phi thường|
-|officiate|/əˈfiʃieit/|làm nhiệm vụ|
-|adverse|/ˈӕdvəːs/|bất lợi|
-|fluctuate|/ˈflaktʃuːˌeit/|biến động|
-|perceptions|/pəˈsepʃən/|sự nhận thức|
-|narrate|/nəˈreit/|kể lại|
-|oblige|/əˈblaidʒ/|bắt buộc|
-|generous|/ˈdʒenərəs/|hào phóng|
-|steam|/stiːm/|hơi nước|
-|spare|/speə/|không cần đến|
-|fan|/fӕn/|cái quạt|
-|withdraw|/wiðˈdroː/|rút quân|
-|bark|/baːk/|tiếng sủa|
-|rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
-|abundant|/abundant/| nhiều, phong phú|
-|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
-|attire|/əˈtaiə/|quần áo|
-|dispute|/diˈspjuːt/|tranh luận|
-|discreet|/diˈskriːt/|kín đáo|
-|active|/ˈӕktiv/|nhanh nhẹn, tích cực|
-|distinguish|/diˈstiŋɡwiʃ/|phân biệt|
-|lounge|/laundʒ/|lang thang|
-|amuse|/əˈmjuːz/|làm cho ai cười|
-|accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
-|fire hydrant|/ˈhaidrənt/|vòi rồng|
-|cone|/koun/|vật hình nón, quả thông|
-|ceiling|/ˈsiːliŋ/|trần nhà|
-|thick|/θik/|dày|
-|scattered|/ˈskætərd/|lác đác, lưa thưa|
-|skyscraper|/ˈskaɪskreɪpər/|nhà cao chọc trời|
-|weed|/wiːd/|cỏ dại|
-|rake|/reik/|cái cào|
-|identical|/aiˈdentikəl/|giống hệt|
-|inventory|/ˈinvənˌtoːri/|bản kiểm kê|
-|adopt|/əˈdopt/|nhận con nuôi|
-|resist|/rəˈzist/|chống lại|
-|federal|/ˈfedərəl/|(thuộc) liên bang|
-|tariff|/ˈtӕrif/|bảng giá|
-|grant|/ɡraːnt/|ban cho, chấp nhận|
-|sincerely|/sɪnˈsɪrli/|một cách chân thành|
+|eminent|/ˈeminənt/|xuất chúng|
+|admire|/ədˈmaiə/|ngắm nhìn|
+|leisure|/ˈliːʒər/|thời gian rỗi|
+|estate|/ɪˈsteɪt/|khu xây dựng|
+|fund|/fand/|quĩ|
+|rescue|/ˈreskjuː/|cứu nguy|
+|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
+|abuse|/əˈbjuːz/|lạm dụng|
+|invest|/inˈvest/|đầu tư|
+|attempt|/əˈtempt/|cố gắng|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|expose|/ikˈspəuz/|phơi bày|
+|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
+|theory|/ˈθiəri/|lý luận, nguyên lý|
+|jealous|/ˈdʒeləs/|ghen tị|
+|temper|/ˈtempə/|tính tình, tính khí|
+|obsess|/əbˈses/|ám ảnh|
+|dramatically|/drəˈmætɪkli/|một cách đột ngột|
+|immense|/iˈmens/|rộng lớn|
+|claim|/kleim/|quả quyết, đòi hỏi|
+|impolite|/impəˈlait/|bất lịch sự, khẳng định|
+|acclaim|/əˈkleim/|hoan nghênh|
+|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|discard|/diˈskaːd/|loại bỏ|
+|eliminate|/iˈlimineit/|loại ra|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|tentative|/ˈtentətiv/|chưa hoàn thiện|
+|tight|/tait/|chặt chẽ, nghiêm khắc|
+|mere|/miə/|chỉ là|
+|entire|/inˈtaiə/|toàn bộ|
+|cheer|/tʃiə/|tiếng reo mừng|
+|bowl|/boʊl/|cái bát|
+|desire|/diˈzaiə/|sự khao khát|
+|collapse|/kəˈlӕps/|sụp đổ|
+|altogether|/oːltəˈɡeðə/|hoàn toàn|
+|enhance|/inˈhaːns/|nâng cao|
+|adult|/ˈӕdalt/|trưởng thành|
+|internship|/ˈɪntɜːrnʃɪp/|thực tập|
+|forced|/fɔːrst/|bắt buộc; ép buộc|
 
 ## Part 19
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|hardly|/ˈhaːdli/|khó có thể|
+
+## Part 20
 
 | Word         | NAmE 			|
 |--------------|----------------|
