@@ -839,7 +839,17 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|hardly|/ˈhaːdli/|khó có thể|
+|intrigue|/ˈintriːɡ/|mánh khóe|
+|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
+|deficit|/ˈdefisit/|số tiền thiếu hụt|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|compose|/kəmˈpəuz/|tạo thành|
+|factor|/ˈfӕktə/|nhân tố|
+|pattern|/ˈpӕtən/|hoa văn|
+|bright|/brait/|sáng chói|
+|camcorder|/ˈkamkoːdə/|máy quay video|
+|parade|/pəˈreid/|cuộc diễu hành|
 
 ## Part 20
 
