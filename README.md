@@ -849,7 +849,26 @@
 |pattern|/ˈpӕtən/|hoa văn|
 |bright|/brait/|sáng chói|
 |camcorder|/ˈkamkoːdə/|máy quay video|
+|prescribe|/prəˈskraib/|liệt kê|
 |parade|/pəˈreid/|cuộc diễu hành|
+|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
+|derive|/diˈraiv/|xuất phát từ|
+|permanent|/ˈpəːmənənt/|lâu dài|
+|anxious|/ˈӕŋkʃəs/|lo lắng|
+|appetizer|/ˈæpɪtaɪzər/|món khai vị|
+|convince|/kənˈvins/|thuyết phục|
+|insist|/inˈsist/|khăng khăng|
+|imply|/imˈplai/|ám chỉ|
+|illegal|/iˈliːɡəl/|bất hợp pháp|
+|immigrant|/ˈimiɡrənt/|nhập cư|
+|wealth|/welθ/|sự giàu có|
+|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
+|appoint|/əˈpoint/|bổ nhiệm|
+|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|proud|/praud/|tự hào|
+|delegate|/ˈdeləɡeit/|ủy thác|
+|mission|/ˈmiʃən/|sứ mệnh, mục đích|
 
 ## Part 20
 
@@ -889,3 +908,5 @@
 |figure out|hiểu|
 |Dipose of|loại bỏ|
 | admission to + places|cho phép vào nơi nào đó|
+|now that = because|
+|whether = if|
