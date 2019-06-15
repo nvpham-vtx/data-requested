@@ -280,48 +280,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|defective|/ˈdiːfekt/ |có thiếu sót|
-|fundraiser|/ˈfʌndreɪzər/ |người gây quỹ|
-|proof|/pruːf/ |chứng cứ, bằng chứng|
-|aisle|/ail/ |lối đi giữa hai dãy ghế|
-|staple|/ˈsteipl/ |ghim dập, đinh kẹp|
-|exhibition|/eksiˈbiʃən/ |cuộc triển lãm|
-|secure|/siˈkjuə/ |an tâm, bảo đảm|
-|honest|/ˈonist/ |trung thực|
-|briefcase|// |cặp đựng giấy tờ, tài liệu|
-|envelope|/ˈenvələup,ˈɑːnvəloʊp/ |phong bì|
-|maintenance|/ˈmeɪntənəns/ |sự bảo dưỡng|
-|burden|/ˈbəːdn/ |gánh nặng|
-|leak|/liːk/ |lỗ rò; khe hở|
-|directed by|/daɪˈrekt/ |đạo diễn bởi|
-|adventure|/ədˈventʃə/ |chuyến phiêu lưu|
-|amaze|/əˈmeiz/ |hết sức ngạc nhiên|
-|critic|/ˈkritik/ |nhà phê bình|
-|overpass|/ˈəuvəpaːs/ |vượt qua|
-|alleviate|/əˈliːvieit/ |làm giảm|
-|congested|/kənˈdʒestid/ |đông nghịt; chật ních|
-|official|/əˈfiʃəl/ |thuộc chính quyền|
-|alternative|/oːlˈtəːnətiv/ |có thể lựa chọn|
-|citizen|/ˈsitizn/ |công dân|
-|spoil|/spoil/ |làm hỏng|
-|outage|/ˈautidʒ/ |sự mất điện|
-|worse|/ˈwɜːrsn/ |tệ hơn|
-|definitely|/ˈdefɪnətli/ |một cách rõ ràng|
-|prospective|/prəˈspek.tɪv/ |thuộc về sau này|
-|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
-|profit|/ˈprofit/ |lợi nhuận|
-|facility|/fəˈsiləti/ |kỹ năng; sự khéo léo|
-|blowout|/ˈbloʊaʊt/ |biến cố lớn, sự nổ lốp xe|
-|strategy|/ˈstrӕtədʒi/ |chiến lược|
-|energy|/ˈenədʒi/ |năng lượng|
-|energetic |/ˌenərˈdʒetɪk/ |đầy nghị lực, mạnh mẽ|
-|participant |/pɑːrˈtɪsɪpənt/ |người tham dự|
-|encourage |/inˈkaridʒ/ |khuyến khích|
-|enthusiasm |/inˈθjuːziӕzəm/ |sự nhiệt tình|
-|candidate |/ˈkӕndidət/ |thí sinh, ứng cử viên|
-|relevant |/ˈreləvənt/ |liên quan|
-|aware |/əˈweə/ |nhận thức|
-|symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
+|intrigue|/ˈintriːɡ/|mánh khóe|
+|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
+|deficit|/ˈdefisit/|số tiền thiếu hụt|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|compose|/kəmˈpəuz/|tạo thành|
+|factor|/ˈfӕktə/|nhân tố|
+|pattern|/ˈpӕtən/|hoa văn|
+|bright|/brait/|sáng chói|
+|camcorder|/ˈkamkoːdə/|máy quay video|
+|prescribe|/prəˈskraib/|liệt kê|
+|parade|/pəˈreid/|cuộc diễu hành|
+|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
+|derive|/diˈraiv/|xuất phát từ|
+|permanent|/ˈpəːmənənt/|lâu dài|
+|anxious|/ˈӕŋkʃəs/|lo lắng|
+|appetizer|/ˈæpɪtaɪzər/|món khai vị|
+|convince|/kənˈvins/|thuyết phục|
+|insist|/inˈsist/|khăng khăng|
+|imply|/imˈplai/|ám chỉ|
+|illegal|/iˈliːɡəl/|bất hợp pháp|
+|immigrant|/ˈimiɡrənt/|nhập cư|
+|wealth|/welθ/|sự giàu có|
+|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
+|appoint|/əˈpoint/|bổ nhiệm|
+|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|proud|/praud/|tự hào|
+|delegate|/ˈdeləɡeit/|ủy thác|
+|mission|/ˈmiʃən/|sứ mệnh, mục đích|
+|aggressive|/əˈɡresiv/|hung hăng|
+|climate|/ˈklaimət/|khí hậu|
+|excel|/ikˈsel/|hơn|
+|conversion|/kənˈvəːʃən/|sự chuyển đổi|
+|habitat|/ˈhæbɪtæt/|môi trường sống|
+|wild|/waild/|hoang dã|
+|vast|/vaːst/|rộng lớn, mênh mông|
+|reward|/rəˈwoːd/|phần thưởng|
+|conspicuous|/kənˈspikjuəs/|dễ thấy|
+|marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
+|upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
 
 ## Part 8
 
@@ -839,36 +838,48 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|intrigue|/ˈintriːɡ/|mánh khóe|
-|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
-|deficit|/ˈdefisit/|số tiền thiếu hụt|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
-|compose|/kəmˈpəuz/|tạo thành|
-|factor|/ˈfӕktə/|nhân tố|
-|pattern|/ˈpӕtən/|hoa văn|
-|bright|/brait/|sáng chói|
-|camcorder|/ˈkamkoːdə/|máy quay video|
-|prescribe|/prəˈskraib/|liệt kê|
-|parade|/pəˈreid/|cuộc diễu hành|
-|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
-|derive|/diˈraiv/|xuất phát từ|
-|permanent|/ˈpəːmənənt/|lâu dài|
-|anxious|/ˈӕŋkʃəs/|lo lắng|
-|appetizer|/ˈæpɪtaɪzər/|món khai vị|
-|convince|/kənˈvins/|thuyết phục|
-|insist|/inˈsist/|khăng khăng|
-|imply|/imˈplai/|ám chỉ|
-|illegal|/iˈliːɡəl/|bất hợp pháp|
-|immigrant|/ˈimiɡrənt/|nhập cư|
-|wealth|/welθ/|sự giàu có|
-|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
-|appoint|/əˈpoint/|bổ nhiệm|
-|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|proud|/praud/|tự hào|
-|delegate|/ˈdeləɡeit/|ủy thác|
-|mission|/ˈmiʃən/|sứ mệnh, mục đích|
+|defective|/ˈdiːfekt/ |có thiếu sót|
+|fundraiser|/ˈfʌndreɪzər/ |người gây quỹ|
+|proof|/pruːf/ |chứng cứ, bằng chứng|
+|aisle|/ail/ |lối đi giữa hai dãy ghế|
+|staple|/ˈsteipl/ |ghim dập, đinh kẹp|
+|exhibition|/eksiˈbiʃən/ |cuộc triển lãm|
+|secure|/siˈkjuə/ |an tâm, bảo đảm|
+|honest|/ˈonist/ |trung thực|
+|briefcase|// |cặp đựng giấy tờ, tài liệu|
+|envelope|/ˈenvələup,ˈɑːnvəloʊp/ |phong bì|
+|maintenance|/ˈmeɪntənəns/ |sự bảo dưỡng|
+|burden|/ˈbəːdn/ |gánh nặng|
+|leak|/liːk/ |lỗ rò; khe hở|
+|directed by|/daɪˈrekt/ |đạo diễn bởi|
+|adventure|/ədˈventʃə/ |chuyến phiêu lưu|
+|amaze|/əˈmeiz/ |hết sức ngạc nhiên|
+|critic|/ˈkritik/ |nhà phê bình|
+|overpass|/ˈəuvəpaːs/ |vượt qua|
+|alleviate|/əˈliːvieit/ |làm giảm|
+|congested|/kənˈdʒestid/ |đông nghịt; chật ních|
+|official|/əˈfiʃəl/ |thuộc chính quyền|
+|alternative|/oːlˈtəːnətiv/ |có thể lựa chọn|
+|citizen|/ˈsitizn/ |công dân|
+|spoil|/spoil/ |làm hỏng|
+|outage|/ˈautidʒ/ |sự mất điện|
+|worse|/ˈwɜːrsn/ |tệ hơn|
+|definitely|/ˈdefɪnətli/ |một cách rõ ràng|
+|prospective|/prəˈspek.tɪv/ |thuộc về sau này|
+|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
+|profit|/ˈprofit/ |lợi nhuận|
+|facility|/fəˈsiləti/ |kỹ năng; sự khéo léo|
+|blowout|/ˈbloʊaʊt/ |biến cố lớn, sự nổ lốp xe|
+|strategy|/ˈstrӕtədʒi/ |chiến lược|
+|energy|/ˈenədʒi/ |năng lượng|
+|energetic |/ˌenərˈdʒetɪk/ |đầy nghị lực, mạnh mẽ|
+|participant |/pɑːrˈtɪsɪpənt/ |người tham dự|
+|encourage |/inˈkaridʒ/ |khuyến khích|
+|enthusiasm |/inˈθjuːziӕzəm/ |sự nhiệt tình|
+|candidate |/ˈkӕndidət/ |thí sinh, ứng cử viên|
+|relevant |/ˈreləvənt/ |liên quan|
+|aware |/əˈweə/ |nhận thức|
+|symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
 
 ## Part 20
 
