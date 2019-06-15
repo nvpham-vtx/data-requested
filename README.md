@@ -4,7 +4,7 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|extraordinary|/ikˈstroːdənəri/|phi thường|
+|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
 |adverse|/ˈӕdvəːs/|bất lợi|
 |fluctuate|/ˈflaktʃuːˌeit/|biến động|
@@ -13,12 +13,12 @@
 |oblige|/əˈblaidʒ/|bắt buộc|
 |generous|/ˈdʒenərəs/|hào phóng|
 |steam|/stiːm/|hơi nước|
-|spare|/speə/|không cần đến|
+|spare|/speə/|không cần đến, tiết kiệm|
 |fan|/fӕn/|cái quạt|
 |withdraw|/wiðˈdroː/|rút quân|
 |bark|/baːk/|tiếng sủa|
 |rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
-|abundant|/abundant/| nhiều, phong phú|
+|abundant|/əˈbʌndənt/| nhiều, phong phú|
 |articulate|/aːˈtikjuleit/|phát âm rõ ràng|
 |attire|/əˈtaiə/|quần áo|
 |dispute|/diˈspjuːt/|tranh luận|
