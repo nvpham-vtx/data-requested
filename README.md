@@ -96,46 +96,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|lay|/lei/|đặt; để|
-|filing cabinet |/ /|tủ đựng hồ sơ|
-|stuck|/ stʌk/|tắc, bí bách|
-|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
-|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
-|oppose|/əˈpəuz/|phản đối, chống lại|
-|reluctant|/rəˈlaktənt/|miễn cưỡng|
-|sketch|/sketʃ/|bức phác họa|
-|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
-|precaution|/priˈkoːʃən/|sự đề phòng|
-|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
-|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
-|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
-|ambience|/ˈæmbiəns/|không khí|
-|corridor|/ˈkɔːrɪdɔːr/|hành lang|
-|jewelry|/ˈdʒuːəlri/|trang sức|
-|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
-|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
-|farewell|/feəˈwel/|lời chào tạm biệt|
-|hobby|/ˈhɑːbi/|sở thích|
-|pastime|/ˈpaːstaim/|sự giải trí|
-|botany|/ˈbotəni/|thực vật học|
-|passion|/ˈpӕʃən/|sự say mê|
-|rare|/ˈreə/|hiếm, chín tái|
-|auction|/ˈoːkʃən/|cuộc bán đấu giá|
-|disrupt|/disˈrapt/|làm rối loạn|
-|tremendous|/trəˈmendəs/|ghê gớm, bao la|
-|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
-|pamphlet|/ˈpӕmflit/|sách mỏng|
-|proceeds|/ˈprəusiːdz/|tiền từ thiện|
-|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
-|garment|/ˈɡaːmənt/|quần áo|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|rival|/ˈraivəl/|đối thủ|
-|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
-|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
-|smooth|/smuːð/|nhẵn, trơn, mượt|
-|underground|/andəˈɡraund/|ở dưới mặt đất|
-|adjacent|/əˈdʒeisənt/|liền kề|
-|attendant|/əˈtendənt/|người phục vụ|
+|intrigue|/ˈintriːɡ/|mánh khóe|
+|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
+|deficit|/ˈdefisit/|số tiền thiếu hụt|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|compose|/kəmˈpəuz/|tạo thành|
+|factor|/ˈfӕktə/|nhân tố|
+|pattern|/ˈpӕtən/|hoa văn|
+|bright|/brait/|sáng chói|
+|camcorder|/ˈkamkoːdə/|máy quay video|
+|prescribe|/prəˈskraib/|liệt kê|
+|parade|/pəˈreid/|cuộc diễu hành|
+|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
+|derive|/diˈraiv/|xuất phát từ|
+|permanent|/ˈpəːmənənt/|lâu dài|
+|anxious|/ˈӕŋkʃəs/|lo lắng|
+|appetizer|/ˈæpɪtaɪzər/|món khai vị|
+|convince|/kənˈvins/|thuyết phục|
+|insist|/inˈsist/|khăng khăng|
+|imply|/imˈplai/|ám chỉ|
+|illegal|/iˈliːɡəl/|bất hợp pháp|
+|immigrant|/ˈimiɡrənt/|nhập cư|
+|wealth|/welθ/|sự giàu có|
+|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
+|appoint|/əˈpoint/|bổ nhiệm|
+|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|proud|/praud/|tự hào|
+|delegate|/ˈdeləɡeit/|ủy thác|
+|mission|/ˈmiʃən/|sứ mệnh, mục đích|
+|aggressive|/əˈɡresiv/|hung hăng|
+|climate|/ˈklaimət/|khí hậu|
+|excel|/ikˈsel/|hơn|
+|conversion|/kənˈvəːʃən/|sự chuyển đổi|
+|habitat|/ˈhæbɪtæt/|môi trường sống|
+|wild|/waild/|hoang dã|
+|vast|/vaːst/|rộng lớn, mênh mông|
+|reward|/rəˈwoːd/|phần thưởng|
+|conspicuous|/kənˈspikjuəs/|dễ thấy|
+|marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
+|upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
 
 ## Part 4
 
@@ -280,47 +281,46 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|intrigue|/ˈintriːɡ/|mánh khóe|
-|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
-|deficit|/ˈdefisit/|số tiền thiếu hụt|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
-|compose|/kəmˈpəuz/|tạo thành|
-|factor|/ˈfӕktə/|nhân tố|
-|pattern|/ˈpӕtən/|hoa văn|
-|bright|/brait/|sáng chói|
-|camcorder|/ˈkamkoːdə/|máy quay video|
-|prescribe|/prəˈskraib/|liệt kê|
-|parade|/pəˈreid/|cuộc diễu hành|
-|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
-|derive|/diˈraiv/|xuất phát từ|
-|permanent|/ˈpəːmənənt/|lâu dài|
-|anxious|/ˈӕŋkʃəs/|lo lắng|
-|appetizer|/ˈæpɪtaɪzər/|món khai vị|
-|convince|/kənˈvins/|thuyết phục|
-|insist|/inˈsist/|khăng khăng|
-|imply|/imˈplai/|ám chỉ|
-|illegal|/iˈliːɡəl/|bất hợp pháp|
-|immigrant|/ˈimiɡrənt/|nhập cư|
-|wealth|/welθ/|sự giàu có|
-|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
-|appoint|/əˈpoint/|bổ nhiệm|
-|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|proud|/praud/|tự hào|
-|delegate|/ˈdeləɡeit/|ủy thác|
-|mission|/ˈmiʃən/|sứ mệnh, mục đích|
-|aggressive|/əˈɡresiv/|hung hăng|
-|climate|/ˈklaimət/|khí hậu|
-|excel|/ikˈsel/|hơn|
-|conversion|/kənˈvəːʃən/|sự chuyển đổi|
-|habitat|/ˈhæbɪtæt/|môi trường sống|
-|wild|/waild/|hoang dã|
-|vast|/vaːst/|rộng lớn, mênh mông|
-|reward|/rəˈwoːd/|phần thưởng|
-|conspicuous|/kənˈspikjuəs/|dễ thấy|
-|marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
-|upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
+|lay|/lei/|đặt; để|
+|filing cabinet |/ /|tủ đựng hồ sơ|
+|stuck|/ stʌk/|tắc, bí bách|
+|unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
+|unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
+|oppose|/əˈpəuz/|phản đối, chống lại|
+|reluctant|/rəˈlaktənt/|miễn cưỡng|
+|sketch|/sketʃ/|bức phác họa|
+|ultimate|/ˈaltimət/|cuối cùng, sau cùng|
+|precaution|/priˈkoːʃən/|sự đề phòng|
+|characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
+|competitor|/kəmˈpetɪtər/|đối thủ cạnh tranh|
+|surplus|/ˈsəˈpləs/|số thừa, số thặng dư|
+|ambience|/ˈæmbiəns/|không khí|
+|corridor|/ˈkɔːrɪdɔːr/|hành lang|
+|jewelry|/ˈdʒuːəlri/|trang sức|
+|commission|/kəˈmiʃən/|tiền hoa hồng, nhiệm vụ|
+|orchard|/ˈoːtʃəd/|vườn cây ăn quả|
+|farewell|/feəˈwel/|lời chào tạm biệt|
+|hobby|/ˈhɑːbi/|sở thích|
+|pastime|/ˈpaːstaim/|sự giải trí|
+|botany|/ˈbotəni/|thực vật học|
+|passion|/ˈpӕʃən/|sự say mê|
+|rare|/ˈreə/|hiếm, chín tái|
+|auction|/ˈoːkʃən/|cuộc bán đấu giá|
+|disrupt|/disˈrapt/|làm rối loạn|
+|tremendous|/trəˈmendəs/|ghê gớm, bao la|
+|demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
+|pamphlet|/ˈpӕmflit/|sách mỏng|
+|proceeds|/ˈprəusiːdz/|tiền từ thiện|
+|hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
+|garment|/ˈɡaːmənt/|quần áo|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|rival|/ˈraivəl/|đối thủ|
+|insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
+|commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
+|smooth|/smuːð/|nhẵn, trơn, mượt|
+|underground|/andəˈɡraund/|ở dưới mặt đất|
+|adjacent|/əˈdʒeisənt/|liền kề|
+|attendant|/əˈtendənt/|người phục vụ|
 
 ## Part 8
 
@@ -882,6 +882,12 @@
 |symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
 
 ## Part 20
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
+|fulfilment |/fulfilment/ |sự hoàn thành|
+
+## Part 21
 
 | Word         | NAmE 			|
 |--------------|----------------|
