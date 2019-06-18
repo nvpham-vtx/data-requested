@@ -25,7 +25,7 @@
 |discreet|/diˈskriːt/|kín đáo|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
 |distinguish|/diˈstiŋɡwiʃ/|phân biệt|
-|lounge|/laundʒ/|lang thang|
+|lounge|/laundʒ/|lang thang, phòng khách, phòng đợi|
 |amuse|/əˈmjuːz/|làm cho ai cười|
 |accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
 |fire hydrant|/ˈhaidrənt/|vòi rồng|
@@ -886,6 +886,18 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fulfilment |/fulfilment/ |sự hoàn thành|
+|biweekly |/baiˈwiːkli/ |hai tuần một lần|
+|kit |/kit/ |quân trang|
+|toner |/ˈtoʊnər/ |mực máy in|
+|mop |/mop/ |giẻ lau sàn, lau, chùi|
+|misuse|/misˈjuːs/ |lạm dụng|
+|improper|/imˈpropə/ |không hợp lý|
+|negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
+|expert|/ˈekspəːt/ |về mặt chuyên môn|
+|reluctant|/rəˈlaktənt/ |miễn cưỡng|
+|ancient|/ˈeinʃənt/ |cổ đại|
+|contest|/ˈkontest/ |cuộc thi|
+|scheme|/skiːm/ |kế hoạch|
 
 ## Part 21
 
