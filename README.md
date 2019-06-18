@@ -898,6 +898,9 @@
 |ancient|/ˈeinʃənt/ |cổ đại|
 |contest|/ˈkontest/ |cuộc thi|
 |scheme|/skiːm/ |kế hoạch|
+|franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
+|appropriate|/əˈprəupriət/ |phù hợp|
+|behalf|/biˈhaːf/ |nhân danh|
 
 ## Part 21
 
