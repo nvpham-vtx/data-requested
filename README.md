@@ -4,47 +4,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
-|officiate|/əˈfiʃieit/|làm nhiệm vụ|
-|adverse|/ˈӕdvəːs/|bất lợi|
-|fluctuate|/ˈflaktʃuːˌeit/|biến động|
-|perceptions|/pəˈsepʃən/|sự nhận thức|
-|narrate|/nəˈreit/|kể lại|
-|oblige|/əˈblaidʒ/|bắt buộc|
-|generous|/ˈdʒenərəs/|hào phóng|
-|steam|/stiːm/|hơi nước|
-|spare|/speə/|không cần đến, tiết kiệm|
-|fan|/fӕn/|cái quạt|
-|withdraw|/wiðˈdroː/|rút quân|
-|bark|/baːk/|tiếng sủa|
-|rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
-|abundant|/əˈbʌndənt/| nhiều, phong phú|
-|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
-|attire|/əˈtaiə/|quần áo|
-|dispute|/diˈspjuːt/|tranh luận|
-|discreet|/diˈskriːt/|kín đáo|
-|active|/ˈӕktiv/|nhanh nhẹn, tích cực|
-|distinguish|/diˈstiŋɡwiʃ/|phân biệt|
-|lounge|/laundʒ/|lang thang, phòng khách, phòng đợi|
-|amuse|/əˈmjuːz/|làm cho ai cười|
-|accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
-|fire hydrant|/ˈhaidrənt/|vòi rồng|
-|cone|/koun/|vật hình nón, quả thông|
-|ceiling|/ˈsiːliŋ/|trần nhà|
-|thick|/θik/|dày|
-|scattered|/ˈskætərd/|lác đác, lưa thưa|
-|skyscraper|/ˈskaɪskreɪpər/|nhà cao chọc trời|
-|weed|/wiːd/|cỏ dại|
-|rake|/reik/|cái cào|
-|identical|/aiˈdentikəl/|giống hệt|
-|inventory|/ˈinvənˌtoːri/|bản kiểm kê|
-|adopt|/əˈdopt/|nhận con nuôi|
-|resist|/rəˈzist/|chống lại|
-|federal|/ˈfedərəl/|(thuộc) liên bang|
-|tariff|/ˈtӕrif/|bảng giá|
-|grant|/ɡraːnt/|ban cho, chấp nhận|
-|sincerely|/sɪnˈsɪrli/|một cách chân thành|
-|hardly|/ˈhaːdli/|khó có thể|
+|intrigue|/ˈintriːɡ/|mánh khóe|
+|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
+|deficit|/ˈdefisit/|số tiền thiếu hụt|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|compose|/kəmˈpəuz/|tạo thành|
+|factor|/ˈfӕktə/|nhân tố|
+|pattern|/ˈpӕtən/|hoa văn|
+|bright|/brait/|sáng chói|
+|camcorder|/ˈkamkoːdə/|máy quay video|
+|prescribe|/prəˈskraib/|liệt kê|
+|parade|/pəˈreid/|cuộc diễu hành|
+|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
+|derive|/diˈraiv/|xuất phát từ|
+|permanent|/ˈpəːmənənt/|lâu dài|
+|anxious|/ˈӕŋkʃəs/|lo lắng|
+|appetizer|/ˈæpɪtaɪzər/|món khai vị|
+|convince|/kənˈvins/|thuyết phục|
+|insist|/inˈsist/|khăng khăng|
+|imply|/imˈplai/|ám chỉ|
+|illegal|/iˈliːɡəl/|bất hợp pháp|
+|immigrant|/ˈimiɡrənt/|nhập cư|
+|wealth|/welθ/|sự giàu có|
+|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
+|appoint|/əˈpoint/|bổ nhiệm|
+|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
+|consecutive|/kənˈsekjutiv/|liên tiếp|
+|proud|/praud/|tự hào|
+|delegate|/ˈdeləɡeit/|ủy thác|
+|mission|/ˈmiʃən/|sứ mệnh, mục đích|
+|aggressive|/əˈɡresiv/|hung hăng|
+|climate|/ˈklaimət/|khí hậu|
+|excel|/ikˈsel/|hơn|
+|conversion|/kənˈvəːʃən/|sự chuyển đổi|
+|habitat|/ˈhæbɪtæt/|môi trường sống|
+|wild|/waild/|hoang dã|
+|vast|/vaːst/|rộng lớn, mênh mông|
+|reward|/rəˈwoːd/|phần thưởng|
+|conspicuous|/kənˈspikjuəs/|dễ thấy|
+|marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
+|upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
 
 ## Part 2
 
@@ -96,47 +96,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|intrigue|/ˈintriːɡ/|mánh khóe|
-|intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
-|deficit|/ˈdefisit/|số tiền thiếu hụt|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
-|compose|/kəmˈpəuz/|tạo thành|
-|factor|/ˈfӕktə/|nhân tố|
-|pattern|/ˈpӕtən/|hoa văn|
-|bright|/brait/|sáng chói|
-|camcorder|/ˈkamkoːdə/|máy quay video|
-|prescribe|/prəˈskraib/|liệt kê|
-|parade|/pəˈreid/|cuộc diễu hành|
-|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
-|derive|/diˈraiv/|xuất phát từ|
-|permanent|/ˈpəːmənənt/|lâu dài|
-|anxious|/ˈӕŋkʃəs/|lo lắng|
-|appetizer|/ˈæpɪtaɪzər/|món khai vị|
-|convince|/kənˈvins/|thuyết phục|
-|insist|/inˈsist/|khăng khăng|
-|imply|/imˈplai/|ám chỉ|
-|illegal|/iˈliːɡəl/|bất hợp pháp|
-|immigrant|/ˈimiɡrənt/|nhập cư|
-|wealth|/welθ/|sự giàu có|
-|refrigerator|/rəˈfridʒəreitə/|tủ lạnh|
-|appoint|/əˈpoint/|bổ nhiệm|
-|markedly|/ˈmɑːrkɪdli/|thành công đáng kế, nổi bật|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
-|proud|/praud/|tự hào|
-|delegate|/ˈdeləɡeit/|ủy thác|
-|mission|/ˈmiʃən/|sứ mệnh, mục đích|
-|aggressive|/əˈɡresiv/|hung hăng|
-|climate|/ˈklaimət/|khí hậu|
-|excel|/ikˈsel/|hơn|
-|conversion|/kənˈvəːʃən/|sự chuyển đổi|
-|habitat|/ˈhæbɪtæt/|môi trường sống|
-|wild|/waild/|hoang dã|
-|vast|/vaːst/|rộng lớn, mênh mông|
-|reward|/rəˈwoːd/|phần thưởng|
-|conspicuous|/kənˈspikjuəs/|dễ thấy|
-|marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
-|upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
+|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
+|officiate|/əˈfiʃieit/|làm nhiệm vụ|
+|adverse|/ˈӕdvəːs/|bất lợi|
+|fluctuate|/ˈflaktʃuːˌeit/|biến động|
+|perceptions|/pəˈsepʃən/|sự nhận thức|
+|narrate|/nəˈreit/|kể lại|
+|oblige|/əˈblaidʒ/|bắt buộc|
+|generous|/ˈdʒenərəs/|hào phóng|
+|steam|/stiːm/|hơi nước|
+|spare|/speə/|không cần đến, tiết kiệm|
+|fan|/fӕn/|cái quạt|
+|withdraw|/wiðˈdroː/|rút quân|
+|bark|/baːk/|tiếng sủa|
+|rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
+|abundant|/əˈbʌndənt/| nhiều, phong phú|
+|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
+|attire|/əˈtaiə/|quần áo|
+|dispute|/diˈspjuːt/|tranh luận|
+|discreet|/diˈskriːt/|kín đáo|
+|active|/ˈӕktiv/|nhanh nhẹn, tích cực|
+|distinguish|/diˈstiŋɡwiʃ/|phân biệt|
+|lounge|/laundʒ/|lang thang, phòng khách, phòng đợi|
+|amuse|/əˈmjuːz/|làm cho ai cười|
+|accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
+|fire hydrant|/ˈhaidrənt/|vòi rồng|
+|cone|/koun/|vật hình nón, quả thông|
+|ceiling|/ˈsiːliŋ/|trần nhà|
+|thick|/θik/|dày|
+|scattered|/ˈskætərd/|lác đác, lưa thưa|
+|skyscraper|/ˈskaɪskreɪpər/|nhà cao chọc trời|
+|weed|/wiːd/|cỏ dại|
+|rake|/reik/|cái cào|
+|identical|/aiˈdentikəl/|giống hệt|
+|inventory|/ˈinvənˌtoːri/|bản kiểm kê|
+|adopt|/əˈdopt/|nhận con nuôi|
+|resist|/rəˈzist/|chống lại|
+|federal|/ˈfedərəl/|(thuộc) liên bang|
+|tariff|/ˈtӕrif/|bảng giá|
+|grant|/ɡraːnt/|ban cho, chấp nhận|
+|sincerely|/sɪnˈsɪrli/|một cách chân thành|
+|hardly|/ˈhaːdli/|khó có thể|
 
 ## Part 4
 
