@@ -4,10 +4,10 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|landscape|/ˈlӕndskeip/ |phong cảnh|
 |intrigue|/ˈintriːɡ/|mánh khóe|
 |intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
 |deficit|/ˈdefisit/|số tiền thiếu hụt|
-|consecutive|/kənˈsekjutiv/|liên tiếp|
 |compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
 |compose|/kəmˈpəuz/|tạo thành|
 |factor|/ˈfӕktə/|nhân tố|
@@ -911,7 +911,6 @@
 |journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
 |morale|/məˈraːl/ |nhuệ khí|
 |social|/ˈsəuʃəl/ |có tính chất xã hội|
-|landscape|/ˈlӕndskeip/ |phong cảnh|
 
 ## Part 21
 
