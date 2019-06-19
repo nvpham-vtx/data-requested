@@ -901,6 +901,17 @@
 |franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
 |appropriate|/əˈprəupriət/ |phù hợp|
 |behalf|/biˈhaːf/ |nhân danh|
+|demand|/diˈmaːnd/ |yêu cầu|
+|entail|/inˈteil/ |đòi hỏi|
+|unforeseen|/ˌʌnfɔːrˈsiːn/ |không lường trước được|
+|permanent|/ˈpəːmənənt/ |lâu dài|
+|signify|/ˈsiɡnifai/ |có nghĩa là|
+|unprecedented|/anˈpresidentid/ |không có tiền lệ|
+|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
+|journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
+|morale|/məˈraːl/ |nhuệ khí|
+|social|/ˈsəuʃəl/ |có tính chất xã hội|
+|landscape|/ˈlӕndskeip/ |phong cảnh|
 
 ## Part 21
 
