@@ -911,6 +911,12 @@
 |journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
 |morale|/məˈraːl/ |nhuệ khí|
 |social|/ˈsəuʃəl/ |có tính chất xã hội|
+|screenplay|/ˈskriːnpleɪ/ |kịch bản|
+|chief|/tʃiːf/ |chủ yếu|
+|courtesy|/ˈkəːtəsi/ |cử chỉ lịch sự|
+|reputation|/repjuˈteiʃən/ |danh tiếng|
+|efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
+|rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
 
 ## Part 21
 
@@ -952,3 +958,5 @@
 | admission to + places|cho phép vào nơi nào đó|
 |now that = because|
 |whether = if|
+|make a point of|xem mình có bổn phận phải làm|
+|As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
