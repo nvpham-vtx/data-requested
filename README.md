@@ -4,13 +4,13 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |landscape|/ˈlӕndskeip/ |phong cảnh|
 |intrigue|/ˈintriːɡ/|mánh khóe|
 |intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
 |deficit|/ˈdefisit/|số tiền thiếu hụt|
 |compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
 |compose|/kəmˈpəuz/|tạo thành|
-|factor|/ˈfӕktə/|nhân tố|
 |pattern|/ˈpӕtən/|hoa văn|
 |bright|/brait/|sáng chói|
 |camcorder|/ˈkamkoːdə/|máy quay video|
@@ -97,6 +97,9 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
+|federal|/ˈfedərəl/|(thuộc) liên bang|
+|tariff|/ˈtӕrif/|bảng giá|
+|sincerely|/sɪnˈsɪrli/|một cách chân thành|
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
 |adverse|/ˈӕdvəːs/|bất lợi|
 |fluctuate|/ˈflaktʃuːˌeit/|biến động|
@@ -132,10 +135,7 @@
 |inventory|/ˈinvənˌtoːri/|bản kiểm kê|
 |adopt|/əˈdopt/|nhận con nuôi|
 |resist|/rəˈzist/|chống lại|
-|federal|/ˈfedərəl/|(thuộc) liên bang|
-|tariff|/ˈtӕrif/|bảng giá|
 |grant|/ɡraːnt/|ban cho, chấp nhận|
-|sincerely|/sɪnˈsɪrli/|một cách chân thành|
 |hardly|/ˈhaːdli/|khó có thể|
 
 ## Part 4
@@ -353,7 +353,6 @@
 |prompt | /prɑːmpt/ |nhanh chóng|
 |dairy | /ˈderi/ |cửa hàng bán bơ sữa|
 |cheese = cheddar| /tʃiːz = tʃedə/ |phô mai|
-|unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |inquire | /inˈkwaiə/ |hỏi thăm|
 |flyer | /ˈflaɪər/ |phi công; nhà phi hành, tờ quảng cáo|
 |intermediate | /intəˈmiːdiət/ |trung gian; trung cấp|
@@ -368,6 +367,7 @@
 |premiere  | /prɪˈmɪr/ |ra mắt, công chiếu|
 |fully  | /ˈfʊli/ |đầy đủ; hoàn toàn|
 |hall  | /hoːl/ |phòng đợi, phòng hội trường|
+|factor|/ˈfӕktə/|nhân tố|
 
 ## Part 9
 
@@ -917,6 +917,22 @@
 |reputation|/repjuˈteiʃən/ |danh tiếng|
 |efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
 |rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
+|competent|/ˈkompətənt/ |thạo|
+|proximity|/prokˈsiməti/ |ở gần|
+|seldom|/ˈseldəm/ |hiếm khi|
+|conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
+|hedge|/hedʒ/ |bờ giậu|
+|interact|/intərˈӕkt/ |tương tác|
+|consequence|/ˈkonsikwəns/ |hậu quả|
+|tradition|/trəˈdiʃən/ |phong tục, tập quán|
+|pond|/pond/ |cái ao|
+|wade|/weid/ |lội qua|
+|refrigerate|/rəˈfridʒəreit/ |làm lạnh|
+|alternate|/ˈoːltəneit/ |xen kẽ|
+|accustom|/əˈkastəm/|làm quen|
+|biography|/baiˈoɡrəfi/|tiểu sử|
+|attempt|/əˈtempt/|cố gắng|
+|pursue|/pəˈsjuː/|đuổi, truy bắt|
 
 ## Part 21
 
