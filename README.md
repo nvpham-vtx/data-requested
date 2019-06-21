@@ -5,12 +5,17 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
+|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |stipulate|/ˈstipjuleit/|quy định, ước định|
 |debate|/diˈbeit/|cuộc tranh luận|
 |prestige|/preˈstiːʒ/|uy tín|
+|abandon|/əˈbӕndən/|hủy, từ bỏ|
+|pragmatic|/præɡˈmætik/|thực dụng|
 |emerge|/iˈmɜːrdʒ/|nổi lên|
 |wage|/weidʒ/|tiến hành|
+|rhetoric|/ˈretərik/|thuật hùng biện|
 |suffice|/səˈfais/|đủ để đáp ứng|
+|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |reliable|/ˈkuːpon/|có thể tin tưởng được|
 |essential|/iˈsenʃəl/|thiết yếu|
 |expedite|/ˈekspidait/|xúc tiến, tiến hành|
@@ -74,6 +79,8 @@
 |conspicuous|/kənˈspikjuəs/|dễ thấy|
 |marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
 |upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
+|prospective|/prəˈspek.tɪv/ |thuộc về sau này|
+|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
 
 ## Part 3
 
@@ -762,18 +769,13 @@
 |outbreak|/ˈautbreik/|bùng nổ|
 |disease|/diˈziːz/|bệnh|
 |civil|/ˈsivl/|thuộc công dân|
-|extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |absent|/absent/|vắng mặt|
-|abandon|/əˈbӕndən/|hủy, từ bỏ|
-|revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |pollute|/pəˈluːt/|ô nhiễm|
 |picturesque|/piktʃəˈresk/|sinh động|
 |praise|/preiz/|khen ngợi|
 |punctual|/ˈpaŋktʃuəl/|đúng giờ|
-|rhetoric|/ˈretərik/|thuật hùng biện|
 |contented|/kənˈtentɪd/|thỏa mãn|
 |surprise|/səˈpraiz/|sự ngạc nhiên, sự bất ngờ|
-|pragmatic|/præɡˈmætik/|thực dụng|
 |reassure|/riəˈʃuə/|khẳng định lại|
 |owe|/əu/|nợ|
 |military|/ˈmɪləteri/|quân sự|
@@ -869,8 +871,6 @@
 |outage|/ˈautidʒ/ |sự mất điện|
 |worse|/ˈwɜːrsn/ |tệ hơn|
 |definitely|/ˈdefɪnətli/ |một cách rõ ràng|
-|prospective|/prəˈspek.tɪv/ |thuộc về sau này|
-|dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
 |profit|/ˈprofit/ |lợi nhuận|
 |facility|/fəˈsiləti/ |kỹ năng; sự khéo léo|
 |blowout|/ˈbloʊaʊt/ |biến cố lớn, sự nổ lốp xe|
