@@ -81,6 +81,12 @@
 |upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
 |prospective|/prəˈspek.tɪv/ |thuộc về sau này|
 |dramatic|/drəˈmӕtik/ |gây ấn tượng mạnh, thuộc về kịch|
+|juice|/dʒuːs/|nước ép|
+|thirst|/θəːst/|sự khát|
+|upstairs|/upstairs/|lên, trên gác|
+|pool|/puːl/|vũng nước|
+|intern|/inˈtəːn/|giam giữ|
+|graph|/ɡraf/|đồ thị|
 
 ## Part 3
 
