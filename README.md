@@ -4,6 +4,30 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|handicap|/ˈhӕndikӕp/|điều bất lợi|
+|stipulate|/ˈstipjuleit/|quy định, ước định|
+|debate|/diˈbeit/|cuộc tranh luận|
+|prestige|/preˈstiːʒ/|uy tín|
+|emerge|/iˈmɜːrdʒ/|nổi lên|
+|wage|/weidʒ/|tiến hành|
+|suffice|/səˈfais/|đủ để đáp ứng|
+|reliable|/ˈkuːpon/|có thể tin tưởng được|
+|essential|/iˈsenʃəl/|thiết yếu|
+|expedite|/ˈekspidait/|xúc tiến, tiến hành|
+|inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
+|deteriorate|/diˈtiəriəreit/|xấu đi|
+|anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
+|awful|/ˈoːful/|khủng khiếp|
+|complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
+|blame|/bleim/|đổ lỗi, khiển trách|
+|delight| /diˈlait/ |thích thú, làm vui thích|
+|affordable| /əˈfɔːrdəbl/ |chấp nhận được|
+|rival|/ˈraivəl/|đối thủ|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|garment|/ˈɡaːmənt/|quần áo|
+|auction|/ˈoːkʃən/|cuộc bán đấu giá|
+|disrupt|/disˈrapt/|làm rối loạn|
+|tremendous|/trəˈmendəs/|ghê gớm, bao la|
 |unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |landscape|/ˈlӕndskeip/ |phong cảnh|
 |intrigue|/ˈintriːɡ/|mánh khóe|
@@ -19,6 +43,11 @@
 |laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
 |derive|/diˈraiv/|xuất phát từ|
 |permanent|/ˈpəːmənənt/|lâu dài|
+
+## Part 2
+
+| Word         | NAmE 			| VN				|
+|--------------|----------------|-------------------|
 |anxious|/ˈӕŋkʃəs/|lo lắng|
 |appetizer|/ˈæpɪtaɪzər/|món khai vị|
 |convince|/kənˈvins/|thuyết phục|
@@ -46,7 +75,7 @@
 |marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
 |upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
 
-## Part 2
+## Part 3
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -92,7 +121,7 @@
 |independent|/indiˈpendənt/|độc lập|
 |encounter|/ɪnˈkaʊntər/|bắt gặp|
 
-## Part 3
+## Part 4
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -138,7 +167,7 @@
 |grant|/ɡraːnt/|ban cho, chấp nhận|
 |hardly|/ˈhaːdli/|khó có thể|
 
-## Part 4
+## Part 5
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -184,7 +213,7 @@
 |poet|/ˈpouit/|nhà thơ|
 |resign|/rəˈzain/|từ chức, cam chịu|
 
-## Part 5
+## Part 6
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -230,7 +259,7 @@
 |  cartridge   |/ˈkɑːrtrɪdʒ/ |ống chứa mực, đạn; vỏ đạn|
 |  overseas   |/ˌoʊvərˈsiːz/ |hải ngoại|
 
-## Part 6
+## Part 7
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -262,7 +291,7 @@
 |bust |/bast/ |bắt giữ, thu, tượng bán thân|
 |straight |/streit/ |thẳng|
 |decaf |/ˈdiːˌkæf/ |khử hết cafein|
-|fault = defects |/fɔːlt = ˈdiːfekt/ |khuyết điểm|
+|fault = defect |/fɔːlt = ˈdiːfekt/ |khuyết điểm|
 |presentation |/ˌpriːzenˈteɪʃn/ |sự trình diễn, trưng bày|
 |bother |/ˈbɑːðər/ |làm phiền|
 |grab |/ɡrab/ |chiếm|
@@ -277,7 +306,7 @@
 |immediate|/iˈmiːdiət/ |ngay lập tức|
 |overall|/ˈəuvəroːl/ |tổng thể, tổng quát|
 
-## Part 7
+## Part 8
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -305,16 +334,10 @@
 |botany|/ˈbotəni/|thực vật học|
 |passion|/ˈpӕʃən/|sự say mê|
 |rare|/ˈreə/|hiếm, chín tái|
-|auction|/ˈoːkʃən/|cuộc bán đấu giá|
-|disrupt|/disˈrapt/|làm rối loạn|
-|tremendous|/trəˈmendəs/|ghê gớm, bao la|
 |demonstration|/ˌdemənˈstreɪʃn/|sự trình diễn|
 |pamphlet|/ˈpӕmflit/|sách mỏng|
 |proceeds|/ˈprəusiːdz/|tiền từ thiện|
 |hastily|/ˈheɪstɪli/|một cách vội vàng; hấp tấp|
-|garment|/ˈɡaːmənt/|quần áo|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|rival|/ˈraivəl/|đối thủ|
 |insurance|/ɪnˈʃʊrəns/|tiền bảo hiểm|
 |commute|/kəˈmjuːt/|đi lại thường xuyên giữa hai nơi|
 |smooth|/smuːð/|nhẵn, trơn, mượt|
@@ -322,7 +345,7 @@
 |adjacent|/əˈdʒeisənt/|liền kề|
 |attendant|/əˈtendənt/|người phục vụ|
 
-## Part 8
+## Part 9
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -369,7 +392,7 @@
 |hall  | /hoːl/ |phòng đợi, phòng hội trường|
 |factor|/ˈfӕktə/|nhân tố|
 
-## Part 9
+## Part 10
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -378,10 +401,7 @@
 |peak  | /piːk/ |đỉnh|
 |profession   | /prəˈfeʃn/ |nghề nghiệp|
 |thrill   | /θril/ |hồi hộp, xúc động|
-|affordable| /əˈfɔːrdəbl/ |chấp nhận được|
 |popular| /ˈpopjulə/ |nổi tiếng, phổ biến|
-|delight| /diˈlait/ |thích thú, làm vui thích|
-|stomachache| /ˈstamək/ |đau bụng, dạ dày|
 |sprain| /sprein/ |làm bong gân|
 |ankle| /ˈӕŋkl/ |mắt cá chân|	
 |launderette| /ˌlɔːndəˈret/ |cửa hàng giặt là|	
@@ -414,28 +434,24 @@
 |organic | /ɔːrˈɡænɪk/ |hữu cơ|	
 |dessert | /diˈzəːt/ |món tráng miệng|	
 
-## Part 10
+## Part 11
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |landlord | /ˈlændlɔːrd/ |chủ nhà|	
 |ongoing | /ˈɑːnɡoʊɪŋ/ |sắp sửa|	
-|blame|/bleim/|đổ lỗi, khiển trách|
 |elevator | /ˈelɪveɪtər/ |thang máy|		
 |time-consuming|/ˈtaɪm kənsuːmɪŋ/|tốn nhiều thời gian|
 |expense|/ɪkˈspens/|phí tổn|
 |reimbursement|/ˌriːɪmˈbɜːrsmənt/|hoàn trả|
 |abroad|/əˈbroːd/|ở nước ngoài|
 |reimburse|/ˌriːɪmˈbɜːrs/|trả lại|
-|complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
 |drum|/dram/|cái trống|
-|anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
 |nature|/ˈneitʃə/|thiên nhiên|
 |dedicate|/ˈdedikeit/|hiến dâng|
 |attitude|/ˈӕtitjuːd/|quan điểm|
 |various|/ˈveəriəs/|khác nhau, đa dạng|
 |disappoint|/disəˈpoint/|thất vọng|
-|awful|/ˈoːful/|khủng khiếp|
 |cavity|/ˈkӕvəti/|hốc|
 |painful|/ˈpeɪnfl/|đau đớn|
 |flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
@@ -445,7 +461,6 @@
 |debt|/det/|nợ|
 |laundry|/ˈlɔːndri/|cửa hàng giặt lả|
 |brief|/briːf/|ngắn gọn|
-|inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
 |Frankly|/ˈfræŋkli/|thành thực mà nói|
 |clerk|/kləːk/|người bán hàng|
 |potential|/pəˈtenʃəl/|tiềm năng|
@@ -458,11 +473,10 @@
 |patron|/ˈpeitrən/|khách hàng quen, người bảo trợ|
 |rectify|/ˈrektifai/|chỉnh cho bằng|
 
-## Part 11
+## Part 12
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|expedite|/ˈekspidait/|xúc tiến, tiến hành|
 |attorney|/əˈtəːni/|người được uỷ quyền|
 |residence|/ˈrezɪdəns/|nhà; dinh thự|
 |harbor|/ˈhɑːrbər/|hải cảng|
@@ -475,7 +489,6 @@
 |manufacturing|/ˌmænjuˈfæktʃərɪŋ/|việc sản xuất|
 |inspection|/ɪnˈspekʃn/|sự kiểm tra|
 |inspector|/ɪnˈspektər/|thanh tra viên|
-|essential|/iˈsenʃəl/|thiết yếu|
 |reunion|/riːjuːnjən/|cuộc hội ngộ|
 |authentic|/oːˈθentik/|đích thực|
 |elegant|/ˈeliɡənt/|thanh lịch|
@@ -495,26 +508,22 @@
 |hygiene|/ˈhaidʒiːn/|vệ sinh|
 |oral|/ˈoːrəl/|bằng lời nói|
 |prevent|/priˈvent/|ngăn chặn|
-|deteriorate|/diˈtiəriəreit/|xấu đi|
 |assurance|/əˈʃʊrəns/|sự bảo đảm|
 |cosmetic|/kozˈmetik/|trang điểm|
 |perfume|/ˈpəːfjuːm/|hương thơm|
-|handicap|/ˈhӕndikӕp/|điều bất lợi|
-|stipulate|/ˈstipjuleit/|quy định, ước định|
 |shredder|/ˈʃredər/|thiết bị cắt vụn|
 |relieve|/rɪˈliːv/|làm giảm; làm dịu|
 |commercial|/kəˈmɜːrʃl/|thuộc thương mại|
 |talkative|/ˈtoːkətiv/|lắm lời|
 |sudden|/ˈsadn/|thình lình|
 |political|/pəˈlɪtɪkl/|thuộc chính trị|
-|debate|/diˈbeit/|cuộc tranh luận|
 |fog|/fa:g/|sương mù|
 |further|/ˈfəːðə/|xa hơn nữa|
 |notice|/ˈnəutis/|thông báo|
 |coupon|/ˈkuːpɑːn/|phiếu|
 |dirty|/ˈdɜːrti/|bẩn|
 
-## Part 12
+## Part 13
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -522,20 +531,17 @@
 |timetable|/ˈtaɪmteɪbl/|thời gian biểu|
 |patience|/ˈpeiʃənt/|kiên nhẫn|
 |worth|/wəːθ/|gía trị|
-|reliable|/ˈkuːpon/|có thể tin tưởng được|
 |fuel|/ˈfjuəl/|chất đốt; nhiên liệu|
 |predecessor|/ˈpreːdisesə/|người tiền nhiệm|
 |nationwide|/ˌneɪʃnˈwaɪd/|toàn quốc|
 |hybrid|/ˈhaibrid/|xe kết hợp nhiều nguồn nhiên liệu|
 |columnist|/ˈkoləmnist/|người chuyên giữ một mục báo|
 |prize|/praiz/|giải thưởng|
-|prestige|/preˈstiːʒ/|uy tín|
 |nominate|/ˈnɑːmɪneɪt/|đề cử|
 |prohibit|/prəˈhibit/|cấm|
 |sculpture|/ˈskʌlptʃər/|nghệ thuật điêu khắc|
 |innovative|/ˈɪnəveɪtɪv/|sáng tạo|
 |bold|/bəuld/|táo bạo,nổi bật, rõ nét|
-|emerge|/iˈmɜːrdʒ/|nổi lên|
 |opportunity|/opəˈtjuːnəti/|cơ hội|
 |permit|/pəˈmit/|cho phép|
 |curator|/kjuəˈreitə/|người phụ trách bảo tàng|
@@ -543,7 +549,6 @@
 |settle|/ˈsetl/|giải quyết, thanh toán|
 |statement|/ˈsteɪtmənt/|bản kê in sẵn, sự phát biểu, tuyên bố|
 |outline|/ˈautlain/|phác thảo|
-|wage|/weidʒ/|tiến hành|
 |vacant|/ˈveikənt/|bỏ không, khuyết|
 |clerical|/ˈklerikəl/|thuộc tăng lữ|
 |cater|/ˈkeɪtər/|cung cấp thực phẩm|
@@ -557,10 +562,9 @@
 |opposite|/ˈopəzit/|đối lập|
 |ladder|/ˈlӕdə/|cái thang|
 |sink|/siŋk/|bồn rửa|
-|suffice|/səˈfais/|đủ để đáp ứng|
 |brick|/brik/|gạch|
 
-## Part 13
+## Part 14
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -608,7 +612,7 @@
 |apparel|/əˈpærəl/ |y phục|
 |exhibit|/iɡˈzibit/ |triển lãm|
 
-## Part 14
+## Part 15
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -654,7 +658,7 @@
 |  warehouse    |/ˈwerhaʊs/|kho|
 |retire |/rɪˈtaɪər/|về hưu|
 
-## Part 15
+## Part 16
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -701,7 +705,7 @@
 |curb |/kɜːrb/| lề đường, kiềm chế|
 |tow |/təu/| kéo|
 
-## Part 16
+## Part 17
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -743,7 +747,7 @@
 | stove|  /stoʊv/ | bếp |
 |wristwatch|/ˈrɪstwɑːtʃ/|đồng hồ đeo tay|
 
-## Part 17
+## Part 18
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -789,7 +793,7 @@
 |bankrupt|/ˈbӕŋkrapt/|phá sản|
 |feasible|/ˈfiːzəbl/|khả thi|
 
-## Part 18
+## Part 19
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -834,7 +838,7 @@
 |internship|/ˈɪntɜːrnʃɪp/|thực tập|
 |forced|/fɔːrst/|bắt buộc; ép buộc|
 
-## Part 19
+## Part 20
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -881,7 +885,7 @@
 |aware |/əˈweə/ |nhận thức|
 |symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
 
-## Part 20
+## Part 21
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
@@ -934,7 +938,7 @@
 |attempt|/əˈtempt/|cố gắng|
 |pursue|/pəˈsjuː/|đuổi, truy bắt|
 
-## Part 21
+## Part 22
 
 | Word         | NAmE 			|
 |--------------|----------------|
