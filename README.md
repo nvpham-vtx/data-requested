@@ -48,6 +48,7 @@
 |laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
 |derive|/diˈraiv/|xuất phát từ|
 |permanent|/ˈpəːmənənt/|lâu dài|
+|gain|/ɡein/|giành được|
 
 ## Part 2
 
@@ -87,6 +88,13 @@
 |pool|/puːl/|vũng nước|
 |intern|/inˈtəːn/|giam giữ|
 |graph|/ɡraf/|đồ thị|
+|persist|/pəˈsist/|kiên trì/ khăng khăng|
+|admit|/ədˈmit/|thừa nhận, cho vào|
+|spice|/spais/|gia vị|
+|cuisine|/kwiˈziːn/|cách nấu nướng|
+|herb|/həːb/|thảo dược|
+|flavour|/ˈfleɪvər/|cách nếm thức ăn, hương vị|
+|portion|/ˈpoːʃən/|cổ phần|
 
 ## Part 3
 
