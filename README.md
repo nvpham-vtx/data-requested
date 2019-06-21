@@ -86,47 +86,54 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|recession|/rəˈseʃən/|tình trạng suy thoái|
-|pace|/peis/|tốc độ đi, bước chân|
-|sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
-|sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
-|rug|/raɡ/|thảm dày trải sàn|
-|basket|/ˈbaːskit/|cái rổ|
-|roadway|/ˈroʊdweɪ/|đường dành cho ô tô|
-|rooftop|/ˈruːftɑːp/|mái nhà|
-|merchandise|/ˈməːtʃəndaiz/|hàng hóa|
-|cashier|/kӕˈʃiə/|nhân viên thu ngân|
-|archway|/ˈɑːrtʃweɪ/|cổng vòm|
-|arch|/aːtʃ/|mái vòm|
-|bridge|/bridʒ/|cái cầu|
-|medical|/ˈmedikəl/|thuộc y học|
-|lobby|/ˈlobi/|hành lang|
-|lease|/liːs/|sự cho thuê nhà đất|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
-|brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
-|scarf|/skaːf/|khăn quàng cổ|
-|grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
-|informal|/inˈfoːml/|thân mật|
-|casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
-|elect|/iˈlekt/|bầu cử|
-|vary|/ˈveəri/|thay đổi, biến đổi|
-|routine|/ruːˈtiːn/|thói quen|
-|negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
-|comfort|/ˈkamfət/|sự an ủi,tiện nghi|
-|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
-|compensate|/ˈkompənseit/|đền bù|
-|superb|/suˈpəːb/|tuyệt vời|
-|amenity|/əˈmiːnəti/|tiện nghi|
-|brain|/brein/|bộ não|
-|brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
-|ingredient|/inˈɡriːdiənt/|thành phần|
-|recruit|/rəˈkruːt/|thành viên mới|
-|tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
-|scrub|/skrab/|lau chùi; cọ rửa|
-|overwhelm|/əuvəˈwelm/|áp đảo|
-|interior|/inˈtiəriə/|bên trong, nội thất|
-|independent|/indiˈpendənt/|độc lập|
-|encounter|/ɪnˈkaʊntər/|bắt gặp|
+|fulfilment |/fulfilment/ |sự hoàn thành|
+|biweekly |/baiˈwiːkli/ |hai tuần một lần|
+|kit |/kit/ |quân trang|
+|toner |/ˈtoʊnər/ |mực máy in|
+|mop |/mop/ |giẻ lau sàn, lau, chùi|
+|misuse|/misˈjuːs/ |lạm dụng|
+|improper|/imˈpropə/ |không hợp lý|
+|negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
+|expert|/ˈekspəːt/ |về mặt chuyên môn|
+|reluctant|/rəˈlaktənt/ |miễn cưỡng|
+|ancient|/ˈeinʃənt/ |cổ đại|
+|contest|/ˈkontest/ |cuộc thi|
+|scheme|/skiːm/ |kế hoạch|
+|franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
+|appropriate|/əˈprəupriət/ |phù hợp|
+|behalf|/biˈhaːf/ |nhân danh|
+|demand|/diˈmaːnd/ |yêu cầu|
+|entail|/inˈteil/ |đòi hỏi|
+|unforeseen|/ˌʌnfɔːrˈsiːn/ |không lường trước được|
+|permanent|/ˈpəːmənənt/ |lâu dài|
+|signify|/ˈsiɡnifai/ |có nghĩa là|
+|unprecedented|/anˈpresidentid/ |không có tiền lệ|
+|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
+|journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
+|morale|/məˈraːl/ |nhuệ khí|
+|social|/ˈsəuʃəl/ |có tính chất xã hội|
+|screenplay|/ˈskriːnpleɪ/ |kịch bản|
+|chief|/tʃiːf/ |chủ yếu|
+|courtesy|/ˈkəːtəsi/ |cử chỉ lịch sự|
+|reputation|/repjuˈteiʃən/ |danh tiếng|
+|efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
+|rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
+|competent|/ˈkompətənt/ |thạo|
+|proximity|/prokˈsiməti/ |ở gần|
+|seldom|/ˈseldəm/ |hiếm khi|
+|conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
+|hedge|/hedʒ/ |bờ giậu|
+|interact|/intərˈӕkt/ |tương tác|
+|consequence|/ˈkonsikwəns/ |hậu quả|
+|tradition|/trəˈdiʃən/ |phong tục, tập quán|
+|pond|/pond/ |cái ao|
+|wade|/weid/ |lội qua|
+|refrigerate|/rəˈfridʒəreit/ |làm lạnh|
+|alternate|/ˈoːltəneit/ |xen kẽ|
+|accustom|/əˈkastəm/|làm quen|
+|biography|/baiˈoɡrəfi/|tiểu sử|
+|attempt|/əˈtempt/|cố gắng|
+|pursue|/pəˈsjuː/|đuổi, truy bắt|
 
 ## Part 4
 
@@ -889,54 +896,47 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|fulfilment |/fulfilment/ |sự hoàn thành|
-|biweekly |/baiˈwiːkli/ |hai tuần một lần|
-|kit |/kit/ |quân trang|
-|toner |/ˈtoʊnər/ |mực máy in|
-|mop |/mop/ |giẻ lau sàn, lau, chùi|
-|misuse|/misˈjuːs/ |lạm dụng|
-|improper|/imˈpropə/ |không hợp lý|
-|negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
-|expert|/ˈekspəːt/ |về mặt chuyên môn|
-|reluctant|/rəˈlaktənt/ |miễn cưỡng|
-|ancient|/ˈeinʃənt/ |cổ đại|
-|contest|/ˈkontest/ |cuộc thi|
-|scheme|/skiːm/ |kế hoạch|
-|franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
-|appropriate|/əˈprəupriət/ |phù hợp|
-|behalf|/biˈhaːf/ |nhân danh|
-|demand|/diˈmaːnd/ |yêu cầu|
-|entail|/inˈteil/ |đòi hỏi|
-|unforeseen|/ˌʌnfɔːrˈsiːn/ |không lường trước được|
-|permanent|/ˈpəːmənənt/ |lâu dài|
-|signify|/ˈsiɡnifai/ |có nghĩa là|
-|unprecedented|/anˈpresidentid/ |không có tiền lệ|
-|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
-|journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
-|morale|/məˈraːl/ |nhuệ khí|
-|social|/ˈsəuʃəl/ |có tính chất xã hội|
-|screenplay|/ˈskriːnpleɪ/ |kịch bản|
-|chief|/tʃiːf/ |chủ yếu|
-|courtesy|/ˈkəːtəsi/ |cử chỉ lịch sự|
-|reputation|/repjuˈteiʃən/ |danh tiếng|
-|efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
-|rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
-|competent|/ˈkompətənt/ |thạo|
-|proximity|/prokˈsiməti/ |ở gần|
-|seldom|/ˈseldəm/ |hiếm khi|
-|conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
-|hedge|/hedʒ/ |bờ giậu|
-|interact|/intərˈӕkt/ |tương tác|
-|consequence|/ˈkonsikwəns/ |hậu quả|
-|tradition|/trəˈdiʃən/ |phong tục, tập quán|
-|pond|/pond/ |cái ao|
-|wade|/weid/ |lội qua|
-|refrigerate|/rəˈfridʒəreit/ |làm lạnh|
-|alternate|/ˈoːltəneit/ |xen kẽ|
-|accustom|/əˈkastəm/|làm quen|
-|biography|/baiˈoɡrəfi/|tiểu sử|
-|attempt|/əˈtempt/|cố gắng|
-|pursue|/pəˈsjuː/|đuổi, truy bắt|
+|recession|/rəˈseʃən/|tình trạng suy thoái|
+|pace|/peis/|tốc độ đi, bước chân|
+|sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
+|sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
+|rug|/raɡ/|thảm dày trải sàn|
+|basket|/ˈbaːskit/|cái rổ|
+|roadway|/ˈroʊdweɪ/|đường dành cho ô tô|
+|rooftop|/ˈruːftɑːp/|mái nhà|
+|merchandise|/ˈməːtʃəndaiz/|hàng hóa|
+|cashier|/kӕˈʃiə/|nhân viên thu ngân|
+|archway|/ˈɑːrtʃweɪ/|cổng vòm|
+|arch|/aːtʃ/|mái vòm|
+|bridge|/bridʒ/|cái cầu|
+|medical|/ˈmedikəl/|thuộc y học|
+|lobby|/ˈlobi/|hành lang|
+|lease|/liːs/|sự cho thuê nhà đất|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
+|brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
+|scarf|/skaːf/|khăn quàng cổ|
+|grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
+|informal|/inˈfoːml/|thân mật|
+|casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
+|elect|/iˈlekt/|bầu cử|
+|vary|/ˈveəri/|thay đổi, biến đổi|
+|routine|/ruːˈtiːn/|thói quen|
+|negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
+|comfort|/ˈkamfət/|sự an ủi,tiện nghi|
+|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
+|compensate|/ˈkompənseit/|đền bù|
+|superb|/suˈpəːb/|tuyệt vời|
+|amenity|/əˈmiːnəti/|tiện nghi|
+|brain|/brein/|bộ não|
+|brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
+|ingredient|/inˈɡriːdiənt/|thành phần|
+|recruit|/rəˈkruːt/|thành viên mới|
+|tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
+|scrub|/skrab/|lau chùi; cọ rửa|
+|overwhelm|/əuvəˈwelm/|áp đảo|
+|interior|/inˈtiəriə/|bên trong, nội thất|
+|independent|/indiˈpendənt/|độc lập|
+|encounter|/ɪnˈkaʊntər/|bắt gặp|
 
 ## Part 22
 
