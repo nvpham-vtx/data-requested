@@ -16,7 +16,7 @@
 |rhetoric|/ˈretərik/|thuật hùng biện|
 |suffice|/səˈfais/|đủ để đáp ứng|
 |revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
-|reliable|/ˈkuːpon/|có thể tin tưởng được|
+|reliable|/rɪˈlaɪəbl/|có thể tin tưởng được|
 |essential|/iˈsenʃəl/|thiết yếu|
 |expedite|/ˈekspidait/|xúc tiến, tiến hành|
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
@@ -44,6 +44,9 @@
 |derive|/diˈraiv/|xuất phát từ|
 |permanent|/ˈpəːmənənt/|lâu dài|
 |gain|/ɡein/|giành được|
+|spectacle|/ˈspektəkl/|quang cảnh, cảnh tượng|
+|cruise|/kruːz/|đi chơi biển bằng tàu thuỷ|
+|tend|/tend/|trông nom, chăm sóc|
 
 ## Part 2
 
@@ -143,6 +146,7 @@
 |biography|/baiˈoɡrəfi/|tiểu sử|
 |attempt|/əˈtempt/|cố gắng|
 |pursue|/pəˈsjuː/|đuổi, truy bắt|
+|obligation|/obliˈɡeiʃən/|nghĩa vụ|
 
 ## Part 4
 
