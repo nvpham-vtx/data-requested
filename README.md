@@ -34,18 +34,13 @@
 |disrupt|/disˈrapt/|làm rối loạn|
 |tremendous|/trəˈmendəs/|ghê gớm, bao la|
 |unveil | /anˈveil/ |tuyên bố, tiết lộ|
-|landscape|/ˈlӕndskeip/ |phong cảnh|
 |intrigue|/ˈintriːɡ/|mánh khóe|
 |intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
 |deficit|/ˈdefisit/|số tiền thiếu hụt|
 |compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
 |compose|/kəmˈpəuz/|tạo thành|
-|pattern|/ˈpӕtən/|hoa văn|
-|bright|/brait/|sáng chói|
-|camcorder|/ˈkamkoːdə/|máy quay video|
 |prescribe|/prəˈskraib/|liệt kê|
 |parade|/pəˈreid/|cuộc diễu hành|
-|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
 |derive|/diˈraiv/|xuất phát từ|
 |permanent|/ˈpəːmənənt/|lâu dài|
 |gain|/ɡein/|giành được|
@@ -153,6 +148,7 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|bright|/brait/|sáng chói|
 |extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |federal|/ˈfedərəl/|(thuộc) liên bang|
 |tariff|/ˈtӕrif/|bảng giá|
@@ -372,6 +368,7 @@
 |underground|/andəˈɡraund/|ở dưới mặt đất|
 |adjacent|/əˈdʒeisənt/|liền kề|
 |attendant|/əˈtendənt/|người phục vụ|
+|camcorder|/ˈkamkoːdə/|máy quay video|
 
 ## Part 9
 
@@ -685,6 +682,7 @@
 |  atmosphere   |/ˈætməsfɪr/|bầu khí quyển|
 |  warehouse    |/ˈwerhaʊs/|kho|
 |retire |/rɪˈtaɪər/|về hưu|
+|laboratory|/ˈlӕbrətoːri/|phòng thí nghiệm|
 
 ## Part 16
 
@@ -951,6 +949,8 @@
 |interior|/inˈtiəriə/|bên trong, nội thất|
 |independent|/indiˈpendənt/|độc lập|
 |encounter|/ɪnˈkaʊntər/|bắt gặp|
+|landscape|/ˈlӕndskeip/ |phong cảnh|
+|pattern|/ˈpӕtən/|hoa văn|
 
 ## Part 22
 
