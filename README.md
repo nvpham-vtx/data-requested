@@ -47,6 +47,7 @@
 |spectacle|/ˈspektəkl/|quang cảnh, cảnh tượng|
 |cruise|/kruːz/|đi chơi biển bằng tàu thuỷ|
 |tend|/tend/|trông nom, chăm sóc|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
 
 ## Part 2
 
@@ -93,6 +94,11 @@
 |herb|/həːb/|thảo dược|
 |flavour|/ˈfleɪvər/|cách nếm thức ăn, hương vị|
 |portion|/ˈpoːʃən/|cổ phần|
+|rear|/riə/|bộ phận đằng sau; hậu phương|
+|steel|/stiːl/|thép|
+|associate|/əˈsəusieit/|liên tưởng, tụ tập|
+|period|/ˈpiəriəd/|giai đoạn|
+|prove|/pruːv/|chứng minh|
 
 ## Part 3
 
@@ -147,6 +153,8 @@
 |attempt|/əˈtempt/|cố gắng|
 |pursue|/pəˈsjuː/|đuổi, truy bắt|
 |obligation|/obliˈɡeiʃən/|nghĩa vụ|
+|drastic|/ˈdrӕstik/|quyết liệt|
+|outstanding|/autˈstӕndiŋ/|xuất sắc|
 
 ## Part 4
 
@@ -928,7 +936,6 @@
 |medical|/ˈmedikəl/|thuộc y học|
 |lobby|/ˈlobi/|hành lang|
 |lease|/liːs/|sự cho thuê nhà đất|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
 |brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
 |scarf|/skaːf/|khăn quàng cổ|
 |grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
