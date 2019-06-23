@@ -154,6 +154,7 @@
 |pursue|/pəˈsjuː/|đuổi, truy bắt|
 |obligation|/obliˈɡeiʃən/|nghĩa vụ|
 |drastic|/ˈdrӕstik/|quyết liệt|
+|probation|/proubeiʃən/|thời gian tập sự|
 |outstanding|/autˈstӕndiŋ/|xuất sắc|
 
 ## Part 4
