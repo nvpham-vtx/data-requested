@@ -5,6 +5,7 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
+|judge|/dʒadʒ/|xét xử, đánh giá, xem xét|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
 |stipulate|/ˈstipjuleit/|quy định, ước định|
 |debate|/diˈbeit/|cuộc tranh luận|
@@ -56,7 +57,7 @@
 |anxious|/ˈӕŋkʃəs/|lo lắng|
 |appetizer|/ˈæpɪtaɪzər/|món khai vị|
 |convince|/kənˈvins/|thuyết phục|
-|insist|/inˈsist/|khăng khăng|
+|insist|/inˈsist/|khăng khăng, yêu cầu|
 |imply|/imˈplai/|ám chỉ|
 |illegal|/iˈliːɡəl/|bất hợp pháp|
 |immigrant|/ˈimiɡrənt/|nhập cư|
@@ -99,6 +100,7 @@
 |associate|/əˈsəusieit/|liên tưởng, tụ tập|
 |period|/ˈpiəriəd/|giai đoạn|
 |prove|/pruːv/|chứng minh|
+|arise|/əˈraiz/|xuất hiện|
 
 ## Part 3
 
@@ -1005,4 +1007,5 @@
 |now that = because|
 |whether = if|
 |make a point of|xem mình có bổn phận phải làm|
+|be + credited with + v-ing|Được cho là, tin là|
 |As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
