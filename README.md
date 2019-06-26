@@ -49,6 +49,7 @@
 |cruise|/kruːz/|đi chơi biển bằng tàu thuỷ|
 |tend|/tend/|trông nom, chăm sóc|
 |deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
+|possess|/pəˈzes/|sở hữu; có|
 
 ## Part 2
 
@@ -210,47 +211,46 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|inadequate|/inˈӕdikwət/|không đủ|
-|conclude|/kənˈkluːd/|kết thúc, kết luận|
-|slight|/slait/|nhẹ, không đáng kể|
-|argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
-|crucial|/ˈkruːʃəl/|rất quan trọng|
-|scare|/skeə/|làm kinh hãi|
-|interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
-|projector|/prəˈdʒektər/|máy chiếu|
-|relative|/ˈrelətɪv/|họ hàng|
-|accessory|/əkˈsesəri/|đồ phụ tùng|
-|cooperate|/kəuˈopəreit/|cộng tác|
-|accompany|/əˈkampəni/|đi cùng|
-|cellist|/ˈtʃelɪst/|người chơi đàn violon|
-|infer|/ɪnˈfɜːr/|suy ra, kết luận|
-|politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
-|suitable|/ˈsuːtəbl/|phù hợp|
-|trouble|/ˈtrabl/|điều rắc rối|
-|remittance|/rɪˈmɪtns/|sự chuyển tiền|
-|strive|/straiv/|phấn đấu, đấu tranh|
-|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
-|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
-|deliberate|/diˈlibərət/|cố ý|
-|capable|/ˈkeipəbl/|có năng lực|
-|abide|/əˈbaid/|chịu đựng|
-|athlete|/ˈӕθliːt/|vận động viên điền kinh|
-|dumbbell|/ˈdʌm bel/|quả tạ đôi|
-|barbell|/ˈbɑːrbel/|tạ dài|
-|treadmill|/ˈtredmɪl/|máy tập chạy bộ|
-|eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
-|respective|/rɪˈspektɪv/|tương ứng|
-|coach|/kəutʃ/|toa, huấn luyện viên|
-|divert|/daiˈvəːt/|làm chệch hướng,giải trí|
-|transcript|/ˈtranskript/|bản sao,lý lịch học tập|
-|victim|/ˈviktim/|nạn nhân|
-|flood|/flad/|cơn lũ lụt|
-|trustee|/trʌˈstiː/|người được ủy thác|
-|ability|/əˈbiləti/|khả năng|
-|intranet|/ˈintrənet/|nội mạng|
-|coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
-|poet|/ˈpouit/|nhà thơ|
-|resign|/rəˈzain/|từ chức, cam chịu|
+|eminent|/ˈeminənt/|xuất chúng|
+|admire|/ədˈmaiə/|ngắm nhìn|
+|leisure|/ˈliːʒər/|thời gian rỗi|
+|estate|/ɪˈsteɪt/|khu xây dựng|
+|fund|/fand/|quĩ|
+|rescue|/ˈreskjuː/|cứu nguy|
+|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
+|abuse|/əˈbjuːz/|lạm dụng|
+|invest|/inˈvest/|đầu tư|
+|attempt|/əˈtempt/|cố gắng|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|expose|/ikˈspəuz/|phơi bày|
+|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
+|theory|/ˈθiəri/|lý luận, nguyên lý|
+|jealous|/ˈdʒeləs/|ghen tị|
+|temper|/ˈtempə/|tính tình, tính khí|
+|obsess|/əbˈses/|ám ảnh|
+|dramatically|/drəˈmætɪkli/|một cách đột ngột|
+|immense|/iˈmens/|rộng lớn|
+|claim|/kleim/|quả quyết, đòi hỏi|
+|impolite|/impəˈlait/|bất lịch sự, khẳng định|
+|acclaim|/əˈkleim/|hoan nghênh|
+|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|discard|/diˈskaːd/|loại bỏ|
+|eliminate|/iˈlimineit/|loại ra|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|tentative|/ˈtentətiv/|chưa hoàn thiện|
+|tight|/tait/|chặt chẽ, nghiêm khắc|
+|mere|/miə/|chỉ là|
+|entire|/inˈtaiə/|toàn bộ|
+|cheer|/tʃiə/|tiếng reo mừng|
+|bowl|/boʊl/|cái bát|
+|desire|/diˈzaiə/|sự khao khát|
+|collapse|/kəˈlӕps/|sụp đổ|
+|altogether|/oːltəˈɡeðə/|hoàn toàn|
+|enhance|/inˈhaːns/|nâng cao|
+|adult|/ˈӕdalt/|trưởng thành|
+|internship|/ˈɪntɜːrnʃɪp/|thực tập|
+|forced|/fɔːrst/|bắt buộc; ép buộc|
 
 ## Part 6
 
@@ -833,46 +833,48 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|eminent|/ˈeminənt/|xuất chúng|
-|admire|/ədˈmaiə/|ngắm nhìn|
-|leisure|/ˈliːʒər/|thời gian rỗi|
-|estate|/ɪˈsteɪt/|khu xây dựng|
-|fund|/fand/|quĩ|
-|rescue|/ˈreskjuː/|cứu nguy|
-|rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
-|abuse|/əˈbjuːz/|lạm dụng|
-|invest|/inˈvest/|đầu tư|
-|attempt|/əˈtempt/|cố gắng|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
-|expose|/ikˈspəuz/|phơi bày|
-|impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
-|theory|/ˈθiəri/|lý luận, nguyên lý|
-|jealous|/ˈdʒeləs/|ghen tị|
-|temper|/ˈtempə/|tính tình, tính khí|
-|obsess|/əbˈses/|ám ảnh|
-|dramatically|/drəˈmætɪkli/|một cách đột ngột|
-|immense|/iˈmens/|rộng lớn|
-|claim|/kleim/|quả quyết, đòi hỏi|
-|impolite|/impəˈlait/|bất lịch sự, khẳng định|
-|acclaim|/əˈkleim/|hoan nghênh|
-|misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
-|sensitive|/ˈsensitiv/|nhạy cảm|
-|discard|/diˈskaːd/|loại bỏ|
-|eliminate|/iˈlimineit/|loại ra|
-|disguise|/disˈɡaiz/|cải trang, che đậy|
-|tentative|/ˈtentətiv/|chưa hoàn thiện|
-|tight|/tait/|chặt chẽ, nghiêm khắc|
-|mere|/miə/|chỉ là|
-|entire|/inˈtaiə/|toàn bộ|
-|cheer|/tʃiə/|tiếng reo mừng|
-|bowl|/boʊl/|cái bát|
-|desire|/diˈzaiə/|sự khao khát|
-|collapse|/kəˈlӕps/|sụp đổ|
-|altogether|/oːltəˈɡeðə/|hoàn toàn|
-|enhance|/inˈhaːns/|nâng cao|
-|adult|/ˈӕdalt/|trưởng thành|
-|internship|/ˈɪntɜːrnʃɪp/|thực tập|
-|forced|/fɔːrst/|bắt buộc; ép buộc|
+
+|inadequate|/inˈӕdikwət/|không đủ|
+|conclude|/kənˈkluːd/|kết thúc, kết luận|
+|slight|/slait/|nhẹ, không đáng kể|
+|argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
+|crucial|/ˈkruːʃəl/|rất quan trọng|
+|scare|/skeə/|làm kinh hãi|
+|interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
+|projector|/prəˈdʒektər/|máy chiếu|
+|relative|/ˈrelətɪv/|họ hàng|
+|accessory|/əkˈsesəri/|đồ phụ tùng|
+|cooperate|/kəuˈopəreit/|cộng tác|
+|accompany|/əˈkampəni/|đi cùng|
+|cellist|/ˈtʃelɪst/|người chơi đàn violon|
+|infer|/ɪnˈfɜːr/|suy ra, kết luận|
+|politician|/ˌpɑːləˈtɪʃn/|chính trị gia|
+|suitable|/ˈsuːtəbl/|phù hợp|
+|trouble|/ˈtrabl/|điều rắc rối|
+|remittance|/rɪˈmɪtns/|sự chuyển tiền|
+|strive|/straiv/|phấn đấu, đấu tranh|
+|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
+|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
+|deliberate|/diˈlibərət/|cố ý|
+|capable|/ˈkeipəbl/|có năng lực|
+|abide|/əˈbaid/|chịu đựng|
+|athlete|/ˈӕθliːt/|vận động viên điền kinh|
+|dumbbell|/ˈdʌm bel/|quả tạ đôi|
+|barbell|/ˈbɑːrbel/|tạ dài|
+|treadmill|/ˈtredmɪl/|máy tập chạy bộ|
+|eligible|/ˈelidʒəbl/|có thể nhận, có đủ tư cách|
+|respective|/rɪˈspektɪv/|tương ứng|
+|coach|/kəutʃ/|toa, huấn luyện viên|
+|divert|/daiˈvəːt/|làm chệch hướng,giải trí|
+|transcript|/ˈtranskript/|bản sao,lý lịch học tập|
+|victim|/ˈviktim/|nạn nhân|
+|flood|/flad/|cơn lũ lụt|
+|trustee|/trʌˈstiː/|người được ủy thác|
+|ability|/əˈbiləti/|khả năng|
+|intranet|/ˈintrənet/|nội mạng|
+|coordinate|/koʊˈɔːrdɪneɪt/|phối hợp|
+|poet|/ˈpouit/|nhà thơ|
+|resign|/rəˈzain/|từ chức, cam chịu|
 
 ## Part 20
 
