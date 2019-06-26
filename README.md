@@ -833,7 +833,6 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-
 |inadequate|/inˈӕdikwət/|không đủ|
 |conclude|/kənˈkluːd/|kết thúc, kết luận|
 |slight|/slait/|nhẹ, không đáng kể|
