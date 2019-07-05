@@ -2,6 +2,39 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|abuse|/əˈbjuːz/|lạm dụng|
+|sketch|/sketʃ/|bức phác họa|
+|incentive  | /inˈsentiv/ |sự khuyến khích|
+|involve|/inˈvolv/|đòi hỏi; cần phải|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|immense|/iˈmens/|rộng lớn|
+|reluctant|/rəˈlaktənt/ |miễn cưỡng|
+|  attentive  |/əˈtentɪv/ |chăm chú|
+|flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
+|temper|/ˈtempə/|tính tình, tính khí|
+|obsess|/əbˈses/|ám ảnh|
+|expose|/ikˈspəuz/|phơi bày|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|wild|/waild/|hoang dã|
+|rat|/rat/|chuột, kẻ đê tiện|
+|particular|/pəˈtikjulə/|riêng biệt|
+|grain|/ɡrein/|ngũ cốc|
+|mate|/meit/|giao phối|
+|mystery|/ˈmistəri/|điều bí ẩn|
+|worship|/ˈwəːʃip/|thờ|
+|harm|/haːm/|sự tổn hại|
+|punish|/ˈpaniʃ/|trừng phạt|
+|superstition|/suːpəˈstiʃən/|sự mê tín|
+|influence|/ˈinfluəns/|ảnh hưởng|
+|sneeze|/sniːz/|hắt hơi|
+|seed|/siːd/|hạt giống|
+|ancient|/ˈeinʃənt/|cổ đại|
+|palm|/paːm/|lòng bàn tay|
+|archaeology|/aːkiˈolədʒi/|khảo cổ học|
+|extinct|/ikˈstiŋkt/|tuyệt chủng, tắt núi lửa|
+|sterile|/ˈsterail/|cằn cỗi, vô sinh, vô trùng|
+|mature|/məˈtjuə/|chín chắn|
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
 |judge|/dʒadʒ/|xét xử, đánh giá, xem xét|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
@@ -104,7 +137,6 @@
 |improper|/imˈpropə/ |không hợp lý|
 |negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
 |expert|/ˈekspəːt/ |về mặt chuyên môn|
-|reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |ancient|/ˈeinʃənt/ |cổ đại|
 |contest|/ˈkontest/ |cuộc thi|
 |scheme|/skiːm/ |kế hoạch|
@@ -127,7 +159,7 @@
 |reputation|/repjuˈteiʃən/ |danh tiếng|
 |efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
 |rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
-|competent|/ˈkompətənt/ |thạo|
+|competent|/ˈkompətənt/ |thông thạo|
 |proximity|/prokˈsiməti/ |ở gần|
 |seldom|/ˈseldəm/ |hiếm khi|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
@@ -141,8 +173,7 @@
 |alternate|/ˈoːltəneit/ |xen kẽ|
 |accustom|/əˈkastəm/|làm quen|
 |biography|/baiˈoɡrəfi/|tiểu sử|
-|attempt|/əˈtempt/|cố gắng|
-|pursue|/pəˈsjuː/|đuổi, truy bắt|
+|pursue|/pəˈsjuː/|theo đuổi, truy bắt|
 |obligation|/obliˈɡeiʃən/|nghĩa vụ|
 |drastic|/ˈdrӕstik/|quyết liệt|
 |probation|/proubeiʃən/|thời gian tập sự|
@@ -190,32 +221,24 @@
 |grant|/ɡraːnt/|ban cho, chấp nhận|
 |hardly|/ˈhaːdli/|khó có thể|
 |eminent|/ˈeminənt/|xuất chúng|
-|admire|/ədˈmaiə/|ngắm nhìn|
+|admire|/ədˈmaiə/|ngắm nhìn, khâm phục|
 |leisure|/ˈliːʒər/|thời gian rỗi|
 |estate|/ɪˈsteɪt/|khu xây dựng|
 |fund|/fand/|quĩ|
 |rescue|/ˈreskjuː/|cứu nguy|
 |rehabilitation|/riːəˈbiliteiʃn/|sự phục hồi|
-|abuse|/əˈbjuːz/|lạm dụng|
 |invest|/inˈvest/|đầu tư|
 |attempt|/əˈtempt/|cố gắng|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
-|expose|/ikˈspəuz/|phơi bày|
 |impact|/ˈimpӕkt/|ảnh hưởng, sự va chạm|
 |theory|/ˈθiəri/|lý luận, nguyên lý|
 |jealous|/ˈdʒeləs/|ghen tị|
-|temper|/ˈtempə/|tính tình, tính khí|
-|obsess|/əbˈses/|ám ảnh|
 |dramatically|/drəˈmætɪkli/|một cách đột ngột|
-|immense|/iˈmens/|rộng lớn|
 |claim|/kleim/|quả quyết, đòi hỏi|
 |impolite|/impəˈlait/|bất lịch sự, khẳng định|
 |acclaim|/əˈkleim/|hoan nghênh|
 |misspelling|/ˌmɪsˈspelɪŋ/|lỗi chính tả|
-|sensitive|/ˈsensitiv/|nhạy cảm|
 |discard|/diˈskaːd/|loại bỏ|
 |eliminate|/iˈlimineit/|loại ra|
-|disguise|/disˈɡaiz/|cải trang, che đậy|
 |tentative|/ˈtentətiv/|chưa hoàn thiện|
 |tight|/tait/|chặt chẽ, nghiêm khắc|
 |mere|/miə/|chỉ là|
@@ -265,7 +288,6 @@
 | understaffed |/ˌʌndərˈstæft/ |thiếu nhân sự|
 | unpack |/ˌʌnˈpæk/ |tháo, dỡ, mở, cởi|
 | glad  |/ɡlæd/ |hài lòng, vui mừng|
-|  attentive  |/əˈtentɪv/ |chăm chú|
 |  reception   |/rɪˈsepʃn/ |nơi tiếp nhận, tiệc chiêu đãi|
 |  ballroom   |/ˈbɔːlruːm/ |phòng khiêu vũ|
 |  cartridge   |/ˈkɑːrtrɪdʒ/ |ống chứa mực, đạn; vỏ đạn|
@@ -319,7 +341,6 @@
 |unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
 |oppose|/əˈpəuz/|phản đối, chống lại|
 |reluctant|/rəˈlaktənt/|miễn cưỡng|
-|sketch|/sketʃ/|bức phác họa|
 |ultimate|/ˈaltimət/|cuối cùng, sau cùng|
 |precaution|/priˈkoːʃən/|sự đề phòng|
 |characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
@@ -381,7 +402,6 @@
 |damage | /ˈdӕmidʒ/ |sự hư hại|
 |annual | /ˈӕnjuəl/ |hàng năm|
 |engaged  | /ɪnˈɡeɪdʒd/ |bận, đính hôn|
-|incentive  | /inˈsentiv/ |sự khuyến khích|
 |compete  | /kəmˈpiːt/ |cạnh tranh, đua tranh|
 |qualify  | /ˈkwolifai/ |đủ tiêu chuẩn|
 |competitive  | /kəmˈpetətiv/ |có sức cạnh tranh|
@@ -442,7 +462,6 @@
 |disappoint|/disəˈpoint/|thất vọng|
 |cavity|/ˈkӕvəti/|hốc|
 |painful|/ˈpeɪnfl/|đau đớn|
-|flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
 |minor|/ˈmainə/|nhỏ; thứ yếu,phụ|
 |stable|/ˈsteibl/|vững chắc|
 |originally|/əˈrɪdʒənəli/|xét về nguồn gốc|
@@ -865,23 +884,6 @@
 |landscape|/ˈlӕndskeip/ |phong cảnh|
 |pattern|/ˈpӕtən/|hoa văn|
 |tail|/teil/|đuôi|
-|wild|/waild/|hoang dã|
-|rat|/rat/|chuột, kẻ đê tiện|
-|particular|/pəˈtikjulə/|riêng biệt|
-|grain|/ɡrein/|ngũ cốc|
-|mate|/meit/|giao phối|
-|mystery|/ˈmistəri/|điều bí ẩn|
-|worship|/ˈwəːʃip/|thờ|
-|harm|/haːm/|sự tổn hại|
-|punish|/ˈpaniʃ/|trừng phạt|
-|superstition|/suːpəˈstiʃən/|sự mê tín|
-|influence|/ˈinfluəns/|ảnh hưởng|
-|sneeze|/sniːz/|hắt hơi|
-|seed|/siːd/|hạt giống|
-|ancient|/ˈeinʃənt/|cổ đại|
-|palm|/paːm/|lòng bàn tay|
-|archaeology|/aːkiˈolədʒi/|khảo cổ học|
-|extinct|/ikˈstiŋkt/|tuyệt chủng, tắt núi lửa|
 
 ## Part 2
 
