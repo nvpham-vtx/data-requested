@@ -8,9 +8,12 @@
 |involve|/inˈvolv/|đòi hỏi; cần phải|
 |disguise|/disˈɡaiz/|cải trang, che đậy|
 |sensitive|/ˈsensitiv/|nhạy cảm|
+|reunion|/riːjuːnjən/|cuộc hội ngộ|
 |immense|/iˈmens/|rộng lớn|
 |reluctant|/rəˈlaktənt/ |miễn cưỡng|
-|  attentive  |/əˈtentɪv/ |chăm chú|
+|attentive  |/əˈtentɪv/ |chăm chú|
+|elegant|/ˈeliɡənt/|thanh lịch|
+|rectify|/ˈrektifai/|chỉnh cho bằng|
 |flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
 |temper|/ˈtempə/|tính tình, tính khí|
 |obsess|/əbˈses/|ám ảnh|
@@ -478,7 +481,6 @@
 |anniversary|/ӕnəˈvəːsəri/|lễ kỷ niệm|
 |brand|/brӕnd/|nhãn mác|
 |patron|/ˈpeitrən/|khách hàng quen, người bảo trợ|
-|rectify|/ˈrektifai/|chỉnh cho bằng|
 |attorney|/əˈtəːni/|người được uỷ quyền|
 |residence|/ˈrezɪdəns/|nhà; dinh thự|
 |harbor|/ˈhɑːrbər/|hải cảng|
@@ -491,9 +493,7 @@
 |manufacturing|/ˌmænjuˈfæktʃərɪŋ/|việc sản xuất|
 |inspection|/ɪnˈspekʃn/|sự kiểm tra|
 |inspector|/ɪnˈspektər/|thanh tra viên|
-|reunion|/riːjuːnjən/|cuộc hội ngộ|
 |authentic|/oːˈθentik/|đích thực|
-|elegant|/ˈeliɡənt/|thanh lịch|
 |steady|/ˈstedi/|vững vàng, vững chắc|
 |venue|/ˈvenjuː/|nơi tổ chức sự kiện|
 |orphanage|/ˈɔːrfənɪdʒ/|trại mồ côi|
