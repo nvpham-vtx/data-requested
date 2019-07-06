@@ -2,8 +2,8 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|abuse|/əˈbjuːz/|lạm dụng|
 |sketch|/sketʃ/|bức phác họa|
+|abuse|/əˈbjuːz/|lạm dụng|
 |incentive  | /inˈsentiv/ |sự khuyến khích|
 |involve|/inˈvolv/|đòi hỏi; cần phải|
 |disguise|/disˈɡaiz/|cải trang, che đậy|
