@@ -2,7 +2,18 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|peel|/piːl/|gọt vỏ|
 |sketch|/sketʃ/|bức phác họa|
+|chairman|/chairman/|chủ tọa|
+|tire|/ˈtaiə/|làm cho mệt|
+|belongings|/bɪˈlɔːŋɪŋz/|đồ dùng cá nhân|
+|cart|/kaːt/|xe ngựa|
+|assignment|/əˈsaɪnmənt/|nhiệm vụ|
+|directory|/dəˈrektəri/|danh bạ|
+|towards|/tɔːrdz/|về phía|
+|hang on|/hang on/|đợi; giữ máy|
+|envoy|/ˈenvɔɪ/|đại sứ|
+|scarf|/skaːf/|khăn quàng cổ|
 |abuse|/əˈbjuːz/|lạm dụng|
 |incentive  | /inˈsentiv/ |sự khuyến khích|
 |involve|/inˈvolv/|đòi hỏi; cần phải|
@@ -858,7 +869,6 @@
 |lobby|/ˈlobi/|hành lang|
 |lease|/liːs/|sự cho thuê nhà đất|
 |brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
-|scarf|/skaːf/|khăn quàng cổ|
 |grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
 |informal|/inˈfoːml/|thân mật|
 |casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
