@@ -2,8 +2,16 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|skyline|/ˈskaɪlaɪn/|hình dáng in lên nền trời|
+|slippery|/ˈslɪpəri/|trơn, khó nắm giữ, không đáng tin cậy|
+|trade| /treid/ |thương mại, sự buôn bán|	
+|goalkeeper|/ˈɡoʊlkiːpər/|thủ thành|
 |peel|/piːl/|gọt vỏ|
+|waive|/weiv/|từ bỏ|
+|shutter|/ˈʃatə/|cánh cửa chớp|
+|sterling|/ˈstəːliŋ/|đồng bảng Anh|
 |sketch|/sketʃ/|bức phác họa|
+|sweater|/ˈswetər/|áo len dài tay|
 |chairman|/chairman/|chủ tọa|
 |tire|/ˈtaiə/|làm cho mệt|
 |belongings|/bɪˈlɔːŋɪŋz/|đồ dùng cá nhân|
@@ -432,7 +440,6 @@
 |sprain| /sprein/ |làm bong gân|
 |ankle| /ˈӕŋkl/ |mắt cá chân|	
 |launderette| /ˌlɔːndəˈret/ |cửa hàng giặt là|	
-|trade| /treid/ |thương mại, sự buôn bán|	
 |magazine| /mӕɡəˈziːn/ |tạp chí|	
 |award| /əˈwoːd/ |thưởng|	
 |entitle| /inˈtaitl/ |đặt tiêu đề|	
