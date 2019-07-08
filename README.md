@@ -2,6 +2,10 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|initiative|/ɪˈnɪʃətɪv/|sáng kiến|
+|coffee maker |/ˈkɔːfi meɪkər/|máy làm coffee|
+|exclamation|/ekskləˈmeiʃən/|thán từ|
+|extreme|/ikˈstriːm/|vô cùng, rất xa|
 |skyline|/ˈskaɪlaɪn/|hình dáng in lên nền trời|
 |slippery|/ˈslɪpəri/|trơn, khó nắm giữ, không đáng tin cậy|
 |trade| /treid/ |thương mại, sự buôn bán|	
@@ -945,3 +949,4 @@
 |make a point of|xem mình có bổn phận phải làm|
 |be + credited with + v-ing|Được cho là, tin là|
 |As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
+[Liên từ](https://www.voca.vn/blog/lien-tu-trong-tieng-anh-va-cach-dung-day-du-nhat-507)
