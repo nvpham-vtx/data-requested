@@ -950,3 +950,4 @@
 |be + credited with + v-ing|Được cho là, tin là|
 |As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
 [Liên từ](https://www.voca.vn/blog/lien-tu-trong-tieng-anh-va-cach-dung-day-du-nhat-507)
+[Thì](https://www.voca.vn/blog/dau-hieu-nhan-biet-va-cach-su-dung-cac-thi-trong-tieng-anh-1255)
