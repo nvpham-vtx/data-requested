@@ -2,7 +2,16 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
+|scrub|/skrab/|lau chùi; cọ rửa|
+|overwhelm|/əuvəˈwelm/|áp đảo|
+|informal|/inˈfoːml/|thân mật|
+|elect|/iˈlekt/|bầu cử|
 |patience|/ˈpeiʃənt/|kiên nhẫn|
+|treatment|/ˈtriːtmənt/|điều trị|
+|cure|/kjʊr/|chữa bệnh|
+|injury|/ˈɪndʒəri/|chấn thương|
+|illness|/ˈɪlnəs/|sự đau ốm|
 |recession|/rəˈseʃən/|tình trạng suy thoái|
 |agenda|/əˈdʒendə/|chương trình hội nghị|
 |painful|/ˈpeɪnfl/|đau đớn|
@@ -880,14 +889,11 @@
 |lease|/liːs/|sự cho thuê nhà đất|
 |brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
 |grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
-|informal|/inˈfoːml/|thân mật|
 |casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
-|elect|/iˈlekt/|bầu cử|
 |vary|/ˈveəri/|thay đổi, biến đổi|
 |routine|/ruːˈtiːn/|thói quen|
 |negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
 |comfort|/ˈkamfət/|sự an ủi,tiện nghi|
-|diplomat|/ˈdipləmӕt/|nhà ngoại giao|
 |compensate|/ˈkompənseit/|đền bù|
 |superb|/suˈpəːb/|tuyệt vời|
 |amenity|/əˈmiːnəti/|tiện nghi|
@@ -896,8 +902,6 @@
 |ingredient|/inˈɡriːdiənt/|thành phần|
 |recruit|/rəˈkruːt/|thành viên mới|
 |tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
-|scrub|/skrab/|lau chùi; cọ rửa|
-|overwhelm|/əuvəˈwelm/|áp đảo|
 |interior|/inˈtiəriə/|bên trong, nội thất|
 |independent|/indiˈpendənt/|độc lập|
 |encounter|/ɪnˈkaʊntər/|bắt gặp|
@@ -911,7 +915,7 @@
 |--------------|----------------|
 |run out|cạn kiệt|
 |engaged in/on something|bận làm cái gì, tham gia vào cái gì đó|
-|  afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
+|afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
 |be supposed to|bổn phận, có nhiệm vụ làm gì| 
 |be about to| sắp làm gì|
 |make up mind| quyết định|
