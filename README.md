@@ -2,6 +2,24 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|bother |/ˈbɑːðər/ |làm phiền|
+|reluctant|/rəˈlaktənt/ |miễn cưỡng|
+|occupation | /ˌɑːkjuˈpeɪʃn/ |sự chiếm giữ, nghề nghiệp|
+|awful|/ˈoːful/|khủng khiếp|
+|fantastic|/fænˈtæstɪk/ |tuyệt vời; rất tốt|
+|accurate|/ˈækjərət/ |chính sác đến từng chi tiết, đúng đắn|
+|desire|/diˈzaiə/|sự khao khát|
+|habitat|/ˈhæbɪtæt/|môi trường sống|
+|wild|/waild/|hoang dã|
+|vast|/vaːst/|rộng lớn, mênh mông|
+|reward|/rəˈwoːd/|phần thưởng|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|deteriorate|/diˈtiəriəreit/|xấu đi|
+|grain|/ɡrein/|ngũ cốc|
+|mate|/meit/|giao phối|
+|envoy|/ˈenvɔɪ/|đại sứ|
+|scarf|/skaːf/|khăn quàng cổ|
+|belongings|/bɪˈlɔːŋɪŋz/|đồ dùng cá nhân|
 |initiative|/ɪˈnɪʃətɪv/|sáng kiến|
 |coffee maker |/ˈkɔːfi meɪkər/|máy làm coffee|
 |exclamation|/ekskləˈmeiʃən/|thán từ|
@@ -18,14 +36,11 @@
 |sweater|/ˈswetər/|áo len dài tay|
 |chairman|/chairman/|chủ tọa|
 |tire|/ˈtaiə/|làm cho mệt|
-|belongings|/bɪˈlɔːŋɪŋz/|đồ dùng cá nhân|
-|cart|/kaːt/|xe ngựa|
+|cart|/kɑːrt/|xe ngựa, giỏ hàng|
 |assignment|/əˈsaɪnmənt/|nhiệm vụ|
 |directory|/dəˈrektəri/|danh bạ|
 |towards|/tɔːrdz/|về phía|
 |hang on|/hang on/|đợi; giữ máy|
-|envoy|/ˈenvɔɪ/|đại sứ|
-|scarf|/skaːf/|khăn quàng cổ|
 |abuse|/əˈbjuːz/|lạm dụng|
 |incentive  | /inˈsentiv/ |sự khuyến khích|
 |involve|/inˈvolv/|đòi hỏi; cần phải|
@@ -33,7 +48,6 @@
 |sensitive|/ˈsensitiv/|nhạy cảm|
 |reunion|/riːjuːnjən/|cuộc hội ngộ|
 |immense|/iˈmens/|rộng lớn|
-|reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |attentive  |/əˈtentɪv/ |chăm chú|
 |elegant|/ˈeliɡənt/|thanh lịch|
 |rectify|/ˈrektifai/|chỉnh cho bằng|
@@ -45,8 +59,6 @@
 |wild|/waild/|hoang dã|
 |rat|/rat/|chuột, kẻ đê tiện|
 |particular|/pəˈtikjulə/|riêng biệt|
-|grain|/ɡrein/|ngũ cốc|
-|mate|/meit/|giao phối|
 |mystery|/ˈmistəri/|điều bí ẩn|
 |worship|/ˈwəːʃip/|thờ|
 |harm|/haːm/|sự tổn hại|
@@ -78,15 +90,12 @@
 |essential|/iˈsenʃəl/|thiết yếu|
 |expedite|/ˈekspidait/|xúc tiến, tiến hành|
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
-|deteriorate|/diˈtiəriəreit/|xấu đi|
 |anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
-|awful|/ˈoːful/|khủng khiếp|
 |complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
 |blame|/bleim/|đổ lỗi, khiển trách|
 |delight| /diˈlait/ |thích thú, làm vui thích|
 |affordable| /əˈfɔːrdəbl/ |chấp nhận được|
 |rival|/ˈraivəl/|đối thủ|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
 |garment|/ˈɡaːmənt/|quần áo|
 |auction|/ˈoːkʃən/|cuộc bán đấu giá|
 |disrupt|/disˈrapt/|làm rối loạn|
@@ -126,10 +135,6 @@
 |climate|/ˈklaimət/|khí hậu|
 |excel|/ikˈsel/|hơn|
 |conversion|/kənˈvəːʃən/|sự chuyển đổi|
-|habitat|/ˈhæbɪtæt/|môi trường sống|
-|wild|/waild/|hoang dã|
-|vast|/vaːst/|rộng lớn, mênh mông|
-|reward|/rəˈwoːd/|phần thưởng|
 |conspicuous|/kənˈspikjuəs/|dễ thấy|
 |marginally|/ˈmɑːrdʒɪnəli/|rất nhẹ, không đáng kể|
 |upcoming|/ˈʌpkʌmɪŋ/|xảy ra sớm|
@@ -172,7 +177,6 @@
 |demand|/diˈmaːnd/ |yêu cầu|
 |entail|/inˈteil/ |đòi hỏi|
 |unforeseen|/ˌʌnfɔːrˈsiːn/ |không lường trước được|
-|permanent|/ˈpəːmənənt/ |lâu dài|
 |signify|/ˈsiɡnifai/ |có nghĩa là|
 |unprecedented|/anˈpresidentid/ |không có tiền lệ|
 |furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
@@ -271,7 +275,6 @@
 |entire|/inˈtaiə/|toàn bộ|
 |cheer|/tʃiə/|tiếng reo mừng|
 |bowl|/boʊl/|cái bát|
-|desire|/diˈzaiə/|sự khao khát|
 |collapse|/kəˈlӕps/|sụp đổ|
 |altogether|/oːltəˈɡeðə/|hoàn toàn|
 |enhance|/inˈhaːns/|nâng cao|
@@ -320,7 +323,6 @@
 |  overseas   |/ˌoʊvərˈsiːz/ |hải ngoại|
 |  suburb    |/ˈsʌbɜːrb/ |ngoại ô|
 |  depart    |/dɪˈpɑːrt/ |khởi hành|
-|  accurate    |/ˈækjərət/ |chính sác đến từng chi tiết, đúng đắn|
 |   patient     |/ˈpeɪʃnt/ |bệnh nhân|
 |   intersection     |/ɪntərˈsekʃn/ |giao nhau|
 |   alphabetical     |/ˌælfəˈbetɪkl/ |bảng chữ cái|
@@ -328,7 +330,6 @@
 |     tenant      |/ˈtenənt/ |người thuê nhà|
 |     terrible      |/ˈterəbl/ |tồi tệ khủng khiếp|
 |     speech      |/spiːtʃ/ |bài diễn thuyết|
-|      fantastic      |/fænˈtæstɪk/ |tuyệt vời; rất tốt|
 |unfortunately|/ʌnˈfɔːrtʃənətli/ |không may thay|
 |handout |/ˈhændaʊt/ |tờ thông tin|
 |reserve |/rɪˈzɜːrv/ |đặt trước|
@@ -348,7 +349,6 @@
 |decaf |/ˈdiːˌkæf/ |khử hết cafein|
 |fault = defect |/fɔːlt = ˈdiːfekt/ |khuyết điểm|
 |presentation |/ˌpriːzenˈteɪʃn/ |sự trình diễn, trưng bày|
-|bother |/ˈbɑːðər/ |làm phiền|
 |grab |/ɡrab/ |chiếm|
 |bite |/bait/ |cắn, châm đốt|
 |warrant|/ˈwɔːrənt/ |biện hộ, bảo đảm|
@@ -408,7 +408,6 @@
 |injure | /ˈindʒə/ |gây thương tích|
 |apparently | /əˈpӕrəntli/ |hình như|
 |recover | /rəˈkavə/ |hồi phục|
-|occupation | /ˌɑːkjuˈpeɪʃn/ |sự chiếm giữ, nghề nghiệp|
 |sort | /soːt// |loại, thứ, hạng|
 |involved | /ɪnˈvɑːlvd/ |phức tạp|
 |capability | /ˌkeɪpəˈbɪləti/ |năng lực|
