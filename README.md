@@ -2,7 +2,14 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|patience|/ˈpeiʃənt/|kiên nhẫn|
+|recession|/rəˈseʃən/|tình trạng suy thoái|
+|agenda|/əˈdʒendə/|chương trình hội nghị|
+|painful|/ˈpeɪnfl/|đau đớn|
+|attorney|/əˈtəːni/|người được uỷ quyền|
 |bother |/ˈbɑːðər/ |làm phiền|
+|dedicate|/ˈdedikeit/|hiến dâng|
+|attitude|/ˈӕtitjuːd/|quan điểm|
 |reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |occupation | /ˌɑːkjuˈpeɪʃn/ |sự chiếm giữ, nghề nghiệp|
 |awful|/ˈoːful/|khủng khiếp|
@@ -409,7 +416,7 @@
 |apparently | /əˈpӕrəntli/ |hình như|
 |recover | /rəˈkavə/ |hồi phục|
 |sort | /soːt// |loại, thứ, hạng|
-|involved | /ɪnˈvɑːlvd/ |phức tạp|
+|involved | /ɪnˈvɑːlvd/ |phức tạp, liên quan|
 |capability | /ˌkeɪpəˈbɪləti/ |năng lực|
 |comfortable | /ˈkʌmftəbl/ |dễ chịu|
 |rough | /raf/ |nhám; ráp, gồ ghề|
@@ -480,12 +487,9 @@
 |reimburse|/ˌriːɪmˈbɜːrs/|trả lại|
 |drum|/dram/|cái trống|
 |nature|/ˈneitʃə/|thiên nhiên|
-|dedicate|/ˈdedikeit/|hiến dâng|
-|attitude|/ˈӕtitjuːd/|quan điểm|
 |various|/ˈveəriəs/|khác nhau, đa dạng|
 |disappoint|/disəˈpoint/|thất vọng|
 |cavity|/ˈkӕvəti/|hốc|
-|painful|/ˈpeɪnfl/|đau đớn|
 |minor|/ˈmainə/|nhỏ; thứ yếu,phụ|
 |stable|/ˈsteibl/|vững chắc|
 |originally|/əˈrɪdʒənəli/|xét về nguồn gốc|
@@ -502,7 +506,6 @@
 |anniversary|/ӕnəˈvəːsəri/|lễ kỷ niệm|
 |brand|/brӕnd/|nhãn mác|
 |patron|/ˈpeitrən/|khách hàng quen, người bảo trợ|
-|attorney|/əˈtəːni/|người được uỷ quyền|
 |residence|/ˈrezɪdəns/|nhà; dinh thự|
 |harbor|/ˈhɑːrbər/|hải cảng|
 |appliance|/əˈplaɪəns/|thiết bị|
@@ -510,7 +513,6 @@
 |earn|/əːn/|kiếm được|
 |keynote|/ˈkiːnoʊt/|ý chủ đạo|
 |hazard|/ˈhӕzəd/|mối nguy hiểm; sự độc hại|
-|agenda|/əˈdʒendə/|chương trình hội nghị|
 |manufacturing|/ˌmænjuˈfæktʃərɪŋ/|việc sản xuất|
 |inspection|/ɪnˈspekʃn/|sự kiểm tra|
 |inspector|/ɪnˈspektər/|thanh tra viên|
@@ -547,7 +549,6 @@
 |dirty|/ˈdɜːrti/|bẩn|
 |luggage|/ˈlaɡidʒ/|hành lý|
 |timetable|/ˈtaɪmteɪbl/|thời gian biểu|
-|patience|/ˈpeiʃənt/|kiên nhẫn|
 |worth|/wəːθ/|gía trị|
 |fuel|/ˈfjuəl/|chất đốt; nhiên liệu|
 |predecessor|/ˈpreːdisesə/|người tiền nhiệm|
@@ -583,7 +584,7 @@
 |brick|/brik/|gạch|
 |emergency    |/iˈmɜːrdʒənsi/|trường hợp khẩn cấp|
 |get in touch|// |liên lạc|
-|  promotional |/prəˈmoʊʃənl/ |quảng cáo|
+|  promotional |/prəˈmoʊʃənl/ |liên quan đến quảng cáo|
 |  secretary    |/ˈsekrəteri/|thư ký|
 |  shade   |/ʃeɪd/|làm cho một phần của cái gì đó tối hơn|
 |cabinet |/ˈkæbɪnət/|buồng tắm|
@@ -643,7 +644,7 @@
 |fold |/foʊld/|gấp, uốn cong nhỏ lại để tiện mang theo|
 |  dig  |/dɪɡ/|đào|
 | ditch  |/dɪtʃ/|kênh, mương|
-|steering wheel |/ɪkˈsiːd/|vô lăng ô tô|
+|steering wheel |/ˈstɪrɪŋ wiːl/|vô lăng ô tô|
 |splash |/splæʃ/|văng, bắn tung tóe|
 | renovation |/ˌrenəˈveɪʃn/|cải tạo|
 | wire |/waɪər/|dây điện|
@@ -862,7 +863,6 @@
 |relevant |/ˈreləvənt/ |liên quan|
 |aware |/əˈweə/ |nhận thức|
 |symposium |/sɪmˈpoʊziəm/ |hội nghị chuyên gia|
-|recession|/rəˈseʃən/|tình trạng suy thoái|
 |pace|/peis/|tốc độ đi, bước chân|
 |sidewalk|/ˈsaɪdwɔːk/|vỉa hè|
 |sweeping|/ˈswiːpɪŋ/|bao quát, chung chung|
