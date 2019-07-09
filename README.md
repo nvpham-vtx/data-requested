@@ -4,6 +4,7 @@
 |--------------|----------------|-------------------|
 |diplomat|/ˈdipləmӕt/|nhà ngoại giao|
 |scrub|/skrab/|lau chùi; cọ rửa|
+|subsequent|/ˈsʌbsɪkwənt/|đến sau, xảy ra sau|
 |overwhelm|/əuvəˈwelm/|áp đảo|
 |informal|/inˈfoːml/|thân mật|
 |elect|/iˈlekt/|bầu cử|
