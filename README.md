@@ -909,7 +909,7 @@
 |pattern|/ˈpӕtən/|hoa văn|
 |tail|/teil/|đuôi|
 
-## Part 2
+#Grammar
 
 | Word         | NAmE 			|
 |--------------|----------------|
