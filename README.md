@@ -2,7 +2,16 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|trek|/trek/|đi vất vả,chuyến đi vất vả|
+|fascinating|/ˈfæsɪneɪtɪŋ/|hấp dẫn; quyến rũ|
+|shake|/ʃeik/|rung, lắc|
+|adapt|/əˈdӕpt/|sửa lại cho hợp|
+|bleed|/bliːd/|chảy máu|
+|exhausted|/exhausted/|kiệt sức|
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|imperative|/imˈperətiv/|có tính chất mệnh lệnh|
+|retain|/rəˈtein/|giữ được; nhớ được|
+|unemployed|/animˈploid/|thất nghiệp|
 |deteriorate|/diˈtiəriəreit/|xấu đi|
 |painful|/ˈpeɪnfl/|đau đớn|
 |desire|/diˈzaiə/|sự khao khát|
@@ -206,7 +215,7 @@
 |reputation|/repjuˈteiʃən/ |danh tiếng|
 |efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
 |rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
-|competent|/ˈkompətənt/ |thông thạo|
+|competent|/ˈkompətənt/ |thông thạo, có năng lực|
 |proximity|/prokˈsiməti/ |ở gần|
 |seldom|/ˈseldəm/ |hiếm khi|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
@@ -955,3 +964,4 @@
 |As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
 [Liên từ](https://www.voca.vn/blog/lien-tu-trong-tieng-anh-va-cach-dung-day-du-nhat-507)
 [Thì](https://www.voca.vn/blog/dau-hieu-nhan-biet-va-cach-su-dung-cac-thi-trong-tieng-anh-1255)
+[Đảo ngữ](https://www.voca.vn/blog/11-cau-truc-cau-dao-ngu-trong-tieng-anh-513)
