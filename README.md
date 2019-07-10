@@ -2,7 +2,26 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
+|deteriorate|/diˈtiəriəreit/|xấu đi|
+|painful|/ˈpeɪnfl/|đau đớn|
+|desire|/diˈzaiə/|sự khao khát|
+|attorney|/əˈtəːni/|người được uỷ quyền|
+|mystery|/ˈmistəri/|điều bí ẩn|
+|sneeze|/sniːz/|hắt hơi|
+|seed|/siːd/|hạt giống|
+|ancient|/ˈeinʃənt/|cổ đại|
+|palm|/paːm/|lòng bàn tay|
+|archaeology|/aːkiˈolədʒi/|khảo cổ học|
+|extinct|/ikˈstiŋkt/|tuyệt chủng, tắt núi lửa|
+|sterile|/ˈsterail/|cằn cỗi, vô sinh, vô trùng|
+|mature|/məˈtjuə/|chín chắn|
+|worship|/ˈwəːʃip/|thờ|
+|harm|/haːm/|sự tổn hại|
+|punish|/ˈpaniʃ/|trừng phạt|
+|superstition|/suːpəˈstiʃən/|sự mê tín|
 |diplomat|/ˈdipləmӕt/|nhà ngoại giao|
+|significantly|/siɡˈnifikəntli/|có ý nghĩa|
 |scrub|/skrab/|lau chùi; cọ rửa|
 |subsequent|/ˈsʌbsɪkwənt/|đến sau, xảy ra sau|
 |overwhelm|/əuvəˈwelm/|áp đảo|
@@ -15,8 +34,6 @@
 |illness|/ˈɪlnəs/|sự đau ốm|
 |recession|/rəˈseʃən/|tình trạng suy thoái|
 |agenda|/əˈdʒendə/|chương trình hội nghị|
-|painful|/ˈpeɪnfl/|đau đớn|
-|attorney|/əˈtəːni/|người được uỷ quyền|
 |bother |/ˈbɑːðər/ |làm phiền|
 |dedicate|/ˈdedikeit/|hiến dâng|
 |attitude|/ˈӕtitjuːd/|quan điểm|
@@ -25,13 +42,10 @@
 |awful|/ˈoːful/|khủng khiếp|
 |fantastic|/fænˈtæstɪk/ |tuyệt vời; rất tốt|
 |accurate|/ˈækjərət/ |chính sác đến từng chi tiết, đúng đắn|
-|desire|/diˈzaiə/|sự khao khát|
 |habitat|/ˈhæbɪtæt/|môi trường sống|
 |wild|/waild/|hoang dã|
 |vast|/vaːst/|rộng lớn, mênh mông|
 |reward|/rəˈwoːd/|phần thưởng|
-|dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|deteriorate|/diˈtiəriəreit/|xấu đi|
 |grain|/ɡrein/|ngũ cốc|
 |mate|/meit/|giao phối|
 |envoy|/ˈenvɔɪ/|đại sứ|
@@ -73,23 +87,9 @@
 |obsess|/əbˈses/|ám ảnh|
 |expose|/ikˈspəuz/|phơi bày|
 |utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
-|wild|/waild/|hoang dã|
 |rat|/rat/|chuột, kẻ đê tiện|
 |particular|/pəˈtikjulə/|riêng biệt|
-|mystery|/ˈmistəri/|điều bí ẩn|
-|worship|/ˈwəːʃip/|thờ|
-|harm|/haːm/|sự tổn hại|
-|punish|/ˈpaniʃ/|trừng phạt|
-|superstition|/suːpəˈstiʃən/|sự mê tín|
 |influence|/ˈinfluəns/|ảnh hưởng|
-|sneeze|/sniːz/|hắt hơi|
-|seed|/siːd/|hạt giống|
-|ancient|/ˈeinʃənt/|cổ đại|
-|palm|/paːm/|lòng bàn tay|
-|archaeology|/aːkiˈolədʒi/|khảo cổ học|
-|extinct|/ikˈstiŋkt/|tuyệt chủng, tắt núi lửa|
-|sterile|/ˈsterail/|cằn cỗi, vô sinh, vô trùng|
-|mature|/məˈtjuə/|chín chắn|
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
 |judge|/dʒadʒ/|xét xử, đánh giá, xem xét|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
