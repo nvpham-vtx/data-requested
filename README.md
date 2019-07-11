@@ -2,7 +2,14 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|belt |/belt/ |dây thắng lưng|
+|burn |/bəːn/ |đốt cháy|
+|annoy |/əˈnoi/ |làm phiền|
+|souvenir |/ˈsuːvəniər/ |đồ lưu niệm|
 |mop |/mop/ |giẻ lau sàn, lau, chùi|
+|merchant |/ˈməːtʃənt/ |thương gia|
+|bazaar |/bəˈzaː/ |cửa hàng tạp hoá|
+|iceberg |/ˈaɪsbɜːrɡ/ |tảng băng|
 |proximity|/prokˈsiməti/ |ở gần|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
 |extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
@@ -235,7 +242,6 @@
 |pond|/pond/ |cái ao|
 |wade|/weid/ |lội qua|
 |refrigerate|/rəˈfridʒəreit/ |làm lạnh|
-|reluctant|/rəˈlaktənt/|miễn cưỡng|
 |alternate|/ˈoːltəneit/ |xen kẽ, thay phiên|
 |pursue|/pəˈsjuː/|theo đuổi, truy bắt|
 |obligation|/obliˈɡeiʃən/|nghĩa vụ|
@@ -385,7 +391,7 @@
 |degree|/diˈɡriː/ |bằng cấp, độ C|
 |dish|/diʃ/ |đĩa, món ăn|
 |immediate|/iˈmiːdiət/ |ngay lập tức|
-|overall|/ˈəuvəroːl/ |tổng thể, tổng quát|
+|overall|/ˈəuvəroːl/ |tổng thể, tổng quát, áo khoác làm việc|
 |lay|/lei/|đặt; để|
 |filing cabinet |/ /|tủ đựng hồ sơ|
 |stuck|/ stʌk/|tắc, bí bách|
