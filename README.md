@@ -2,16 +2,62 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|mop |/mop/ |giẻ lau sàn, lau, chùi|
+|proximity|/prokˈsiməti/ |ở gần|
+|conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
+|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
+|sincerely|/sɪnˈsɪrli/|một cách chân thành|
+|tariff|/ˈtӕrif/|bảng giá|
+|hedge|/hedʒ/ |bờ giậu|
+|accustom|/əˈkastəm/|làm quen|
+|biography|/baiˈoɡrəfi/|tiểu sử|
+|morale|/məˈraːl/ |nhuệ khí|
+|improper|/imˈpropə/ |không hợp lý|
+|unprecedented|/anˈpresidentid/ |không có tiền lệ|
+|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
+|ancient|/ˈeinʃənt/|cổ đại|
 |trek|/trek/|đi vất vả,chuyến đi vất vả|
+|persist|/pəˈsist/|kiên trì/ khăng khăng|
+|negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
+|slippery|/ˈslɪpəri/|trơn, khó nắm giữ, không đáng tin cậy|
 |fascinating|/ˈfæsɪneɪtɪŋ/|hấp dẫn; quyến rũ|
+|exclamation|/ekskləˈmeiʃən/|thán từ|
+|incentive  | /inˈsentiv/ |sự khuyến khích|
+|spice|/spais/|gia vị|
+|cuisine|/kwiˈziːn/|cách nấu nướng|
+|herb|/həːb/|thảo dược|
+|flavour|/ˈfleɪvər/|cách nếm thức ăn, hương vị|
+|portion|/ˈpoːʃən/|cổ phần|
+|rear|/riə/|bộ phận đằng sau; hậu phương|
+|steel|/stiːl/|thép|
+|associate|/əˈsəusieit/|liên tưởng, tụ tập|
+|abundant|/əˈbʌndənt/| nhiều, phong phú|
+|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
+|attire|/əˈtaiə/|quần áo|
+|dispute|/diˈspjuːt/|tranh luận|
+|discreet|/diˈskriːt/|kín đáo|
+|involve|/inˈvolv/|đòi hỏi; cần phải|
+|disguise|/disˈɡaiz/|cải trang, che đậy|
+|sensitive|/ˈsensitiv/|nhạy cảm|
+|reunion|/riːjuːnjən/|cuộc hội ngộ|
+|immense|/iˈmens/|rộng lớn|
+|attentive  |/əˈtentɪv/ |chăm chú|
+|extreme|/ikˈstriːm/|vô cùng, rất xa|
+|obsess|/əbˈses/|ám ảnh|
+|expose|/ikˈspəuz/|phơi bày|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |shake|/ʃeik/|rung, lắc|
 |adapt|/əˈdӕpt/|sửa lại cho hợp|
 |bleed|/bliːd/|chảy máu|
 |exhausted|/exhausted/|kiệt sức|
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
 |imperative|/imˈperətiv/|có tính chất mệnh lệnh|
+|franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
 |retain|/rəˈtein/|giữ được; nhớ được|
 |unemployed|/animˈploid/|thất nghiệp|
+|sketch|/sketʃ/|bức phác họa|
+|sweater|/ˈswetər/|áo len dài tay|
 |deteriorate|/diˈtiəriəreit/|xấu đi|
 |painful|/ˈpeɪnfl/|đau đớn|
 |desire|/diˈzaiə/|sự khao khát|
@@ -19,7 +65,6 @@
 |mystery|/ˈmistəri/|điều bí ẩn|
 |sneeze|/sniːz/|hắt hơi|
 |seed|/siːd/|hạt giống|
-|ancient|/ˈeinʃənt/|cổ đại|
 |palm|/paːm/|lòng bàn tay|
 |archaeology|/aːkiˈolədʒi/|khảo cổ học|
 |extinct|/ikˈstiŋkt/|tuyệt chủng, tắt núi lửa|
@@ -44,9 +89,6 @@
 |recession|/rəˈseʃən/|tình trạng suy thoái|
 |agenda|/əˈdʒendə/|chương trình hội nghị|
 |bother |/ˈbɑːðər/ |làm phiền|
-|dedicate|/ˈdedikeit/|hiến dâng|
-|attitude|/ˈӕtitjuːd/|quan điểm|
-|reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |occupation | /ˌɑːkjuˈpeɪʃn/ |sự chiếm giữ, nghề nghiệp|
 |awful|/ˈoːful/|khủng khiếp|
 |fantastic|/fænˈtæstɪk/ |tuyệt vời; rất tốt|
@@ -62,18 +104,15 @@
 |belongings|/bɪˈlɔːŋɪŋz/|đồ dùng cá nhân|
 |initiative|/ɪˈnɪʃətɪv/|sáng kiến|
 |coffee maker |/ˈkɔːfi meɪkər/|máy làm coffee|
-|exclamation|/ekskləˈmeiʃən/|thán từ|
-|extreme|/ikˈstriːm/|vô cùng, rất xa|
 |skyline|/ˈskaɪlaɪn/|hình dáng in lên nền trời|
-|slippery|/ˈslɪpəri/|trơn, khó nắm giữ, không đáng tin cậy|
 |trade| /treid/ |thương mại, sự buôn bán|	
 |goalkeeper|/ˈɡoʊlkiːpər/|thủ thành|
 |peel|/piːl/|gọt vỏ|
 |waive|/weiv/|từ bỏ|
 |shutter|/ˈʃatə/|cánh cửa chớp|
 |sterling|/ˈstəːliŋ/|đồng bảng Anh|
-|sketch|/sketʃ/|bức phác họa|
-|sweater|/ˈswetər/|áo len dài tay|
+|dedicate|/ˈdedikeit/|hiến dâng|
+|attitude|/ˈӕtitjuːd/|quan điểm|
 |chairman|/chairman/|chủ tọa|
 |tire|/ˈtaiə/|làm cho mệt|
 |cart|/kɑːrt/|xe ngựa, giỏ hàng|
@@ -82,20 +121,10 @@
 |towards|/tɔːrdz/|về phía|
 |hang on|/hang on/|đợi; giữ máy|
 |abuse|/əˈbjuːz/|lạm dụng|
-|incentive  | /inˈsentiv/ |sự khuyến khích|
-|involve|/inˈvolv/|đòi hỏi; cần phải|
-|disguise|/disˈɡaiz/|cải trang, che đậy|
-|sensitive|/ˈsensitiv/|nhạy cảm|
-|reunion|/riːjuːnjən/|cuộc hội ngộ|
-|immense|/iˈmens/|rộng lớn|
-|attentive  |/əˈtentɪv/ |chăm chú|
 |elegant|/ˈeliɡənt/|thanh lịch|
 |rectify|/ˈrektifai/|chỉnh cho bằng|
 |flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
 |temper|/ˈtempə/|tính tình, tính khí|
-|obsess|/əbˈses/|ám ảnh|
-|expose|/ikˈspəuz/|phơi bày|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
 |rat|/rat/|chuột, kẻ đê tiện|
 |particular|/pəˈtikjulə/|riêng biệt|
 |influence|/ˈinfluəns/|ảnh hưởng|
@@ -172,16 +201,7 @@
 |pool|/puːl/|vũng nước|
 |intern|/inˈtəːn/|giam giữ|
 |graph|/ɡraf/|đồ thị|
-|persist|/pəˈsist/|kiên trì/ khăng khăng|
 |admit|/ədˈmit/|thừa nhận, cho vào|
-|spice|/spais/|gia vị|
-|cuisine|/kwiˈziːn/|cách nấu nướng|
-|herb|/həːb/|thảo dược|
-|flavour|/ˈfleɪvər/|cách nếm thức ăn, hương vị|
-|portion|/ˈpoːʃən/|cổ phần|
-|rear|/riə/|bộ phận đằng sau; hậu phương|
-|steel|/stiːl/|thép|
-|associate|/əˈsəusieit/|liên tưởng, tụ tập|
 |period|/ˈpiəriəd/|giai đoạn|
 |prove|/pruːv/|chứng minh|
 |arise|/əˈraiz/|xuất hiện|
@@ -189,25 +209,17 @@
 |biweekly |/baiˈwiːkli/ |hai tuần một lần|
 |kit |/kit/ |quân trang|
 |toner |/ˈtoʊnər/ |mực máy in|
-|mop |/mop/ |giẻ lau sàn, lau, chùi|
 |misuse|/misˈjuːs/ |lạm dụng|
-|improper|/imˈpropə/ |không hợp lý|
-|negligence|/ˈneɡlidʒəns/ |sự cẩu thả|
 |expert|/ˈekspəːt/ |về mặt chuyên môn|
-|ancient|/ˈeinʃənt/ |cổ đại|
 |contest|/ˈkontest/ |cuộc thi|
 |scheme|/skiːm/ |kế hoạch|
-|franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
 |appropriate|/əˈprəupriət/ |phù hợp|
 |behalf|/biˈhaːf/ |nhân danh|
 |demand|/diˈmaːnd/ |yêu cầu|
 |entail|/inˈteil/ |đòi hỏi|
 |unforeseen|/ˌʌnfɔːrˈsiːn/ |không lường trước được|
 |signify|/ˈsiɡnifai/ |có nghĩa là|
-|unprecedented|/anˈpresidentid/ |không có tiền lệ|
-|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
 |journalist|/ˈdʒɜːrnəlɪst/ |nhà báo|
-|morale|/məˈraːl/ |nhuệ khí|
 |social|/ˈsəuʃəl/ |có tính chất xã hội|
 |screenplay|/ˈskriːnpleɪ/ |kịch bản|
 |chief|/tʃiːf/ |chủ yếu|
@@ -216,29 +228,22 @@
 |efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
 |rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
 |competent|/ˈkompətənt/ |thông thạo, có năng lực|
-|proximity|/prokˈsiməti/ |ở gần|
 |seldom|/ˈseldəm/ |hiếm khi|
-|conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
-|hedge|/hedʒ/ |bờ giậu|
 |interact|/intərˈӕkt/ |tương tác|
 |consequence|/ˈkonsikwəns/ |hậu quả|
 |tradition|/trəˈdiʃən/ |phong tục, tập quán|
 |pond|/pond/ |cái ao|
 |wade|/weid/ |lội qua|
 |refrigerate|/rəˈfridʒəreit/ |làm lạnh|
-|alternate|/ˈoːltəneit/ |xen kẽ|
-|accustom|/əˈkastəm/|làm quen|
-|biography|/baiˈoɡrəfi/|tiểu sử|
+|reluctant|/rəˈlaktənt/|miễn cưỡng|
+|alternate|/ˈoːltəneit/ |xen kẽ, thay phiên|
 |pursue|/pəˈsjuː/|theo đuổi, truy bắt|
 |obligation|/obliˈɡeiʃən/|nghĩa vụ|
 |drastic|/ˈdrӕstik/|quyết liệt|
 |probation|/proubeiʃən/|thời gian tập sự|
 |outstanding|/autˈstӕndiŋ/|xuất sắc|
 |bright|/brait/|sáng chói|
-|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |federal|/ˈfedərəl/|(thuộc) liên bang|
-|tariff|/ˈtӕrif/|bảng giá|
-|sincerely|/sɪnˈsɪrli/|một cách chân thành|
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
 |adverse|/ˈӕdvəːs/|bất lợi|
 |fluctuate|/ˈflaktʃuːˌeit/|biến động|
@@ -252,11 +257,6 @@
 |withdraw|/wiðˈdroː/|rút quân|
 |bark|/baːk/|tiếng sủa|
 |rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
-|abundant|/əˈbʌndənt/| nhiều, phong phú|
-|articulate|/aːˈtikjuleit/|phát âm rõ ràng|
-|attire|/əˈtaiə/|quần áo|
-|dispute|/diˈspjuːt/|tranh luận|
-|discreet|/diˈskriːt/|kín đáo|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
 |distinguish|/diˈstiŋɡwiʃ/|phân biệt|
 |lounge|/laundʒ/|lang thang, phòng khách, phòng đợi|
@@ -392,7 +392,6 @@
 |unwilling|/ anˈwiliŋ/|miễn cưỡng, không sẵn lòng|
 |unfavourable|/ ʌnˈfeɪvərəbl/|không thuận lợi, không tán thành|
 |oppose|/əˈpəuz/|phản đối, chống lại|
-|reluctant|/rəˈlaktənt/|miễn cưỡng|
 |ultimate|/ˈaltimət/|cuối cùng, sau cùng|
 |precaution|/priˈkoːʃən/|sự đề phòng|
 |characteristic|/ˌkærəktəˈrɪstɪk/|cá tính|
