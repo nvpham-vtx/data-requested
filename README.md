@@ -2,6 +2,33 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
+|fluent |/ˈfluənt/ |lưu loát|
+|deficit|/ˈdefisit/|số tiền thiếu hụt|
+|derive|/diˈraiv/|xuất phát từ|
+|adverse|/ˈӕdvəːs/|bất lợi|
+|fluctuate|/ˈflaktʃuːˌeit/|biến động|
+|perceptions|/pəˈsepʃən/|sự nhận thức|
+|narrate|/nəˈreit/|kể lại|
+|oblige|/əˈblaidʒ/|bắt buộc|
+|permanent|/ˈpəːmənənt/|lâu dài|
+|gain|/ɡein/|giành được|
+|courtesy|/ˈkəːtəsi/ |cử chỉ lịch sự|
+|spectacle|/ˈspektəkl/|quang cảnh, cảnh tượng|
+|blame|/bleim/|đổ lỗi, khiển trách|
+|excited |/ɪkˈsaɪtɪd/ |kích động|
+|alternate|/ˈoːltəneit/ |xen kẽ, thay phiên|
+|pursue|/pəˈsjuː/|theo đuổi, truy bắt|
+|obligation|/obliˈɡeiʃən/|nghĩa vụ|
+|drastic|/ˈdrӕstik/|quyết liệt|
+|probation|/proubeiʃən/|thời gian tập sự|
+|outstanding|/autˈstӕndiŋ/|xuất sắc|
+|bright|/brait/|sáng chói|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|scissors|/ˈsizəz/ |cái kéo|
+|compose|/kəmˈpəuz/|tạo thành|
+|furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
+|evolve |/iˈvolv/ |tiến triển; tiến hoá|
+|sanctuary |/ˈsӕŋktʃuəri/ |nơi trú ẩn|
 |belt |/belt/ |dây thắng lưng|
 |burn |/bəːn/ |đốt cháy|
 |annoy |/əˈnoi/ |làm phiền|
@@ -21,6 +48,8 @@
 |morale|/məˈraːl/ |nhuệ khí|
 |improper|/imˈpropə/ |không hợp lý|
 |unprecedented|/anˈpresidentid/ |không có tiền lệ|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
+|possess|/pəˈzes/|sở hữu; có|
 |furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
 |ancient|/ˈeinʃənt/|cổ đại|
 |trek|/trek/|đi vất vả,chuyến đi vất vả|
@@ -128,6 +157,7 @@
 |towards|/tɔːrdz/|về phía|
 |hang on|/hang on/|đợi; giữ máy|
 |abuse|/əˈbjuːz/|lạm dụng|
+|amuse|/əˈmjuːz/|làm cho ai cười|
 |elegant|/ˈeliɡənt/|thanh lịch|
 |rectify|/ˈrektifai/|chỉnh cho bằng|
 |flaw|/floː/|vết nhơ; thói xấu; chỗ hỏng|
@@ -154,7 +184,6 @@
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
 |anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
 |complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
-|blame|/bleim/|đổ lỗi, khiển trách|
 |delight| /diˈlait/ |thích thú, làm vui thích|
 |affordable| /əˈfɔːrdəbl/ |chấp nhận được|
 |rival|/ˈraivəl/|đối thủ|
@@ -165,19 +194,10 @@
 |unveil | /anˈveil/ |tuyên bố, tiết lộ|
 |intrigue|/ˈintriːɡ/|mánh khóe|
 |intriguing|/ɪnˈtriːɡɪŋ/|hấp dẫn|
-|deficit|/ˈdefisit/|số tiền thiếu hụt|
-|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
-|compose|/kəmˈpəuz/|tạo thành|
 |prescribe|/prəˈskraib/|liệt kê|
 |parade|/pəˈreid/|cuộc diễu hành|
-|derive|/diˈraiv/|xuất phát từ|
-|permanent|/ˈpəːmənənt/|lâu dài|
-|gain|/ɡein/|giành được|
-|spectacle|/ˈspektəkl/|quang cảnh, cảnh tượng|
 |cruise|/kruːz/|đi chơi biển bằng tàu thuỷ|
 |tend|/tend/|trông nom, chăm sóc|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
-|possess|/pəˈzes/|sở hữu; có|
 |anxious|/ˈӕŋkʃəs/|lo lắng|
 |appetizer|/ˈæpɪtaɪzər/|món khai vị|
 |convince|/kənˈvins/|thuyết phục|
@@ -230,7 +250,6 @@
 |social|/ˈsəuʃəl/ |có tính chất xã hội|
 |screenplay|/ˈskriːnpleɪ/ |kịch bản|
 |chief|/tʃiːf/ |chủ yếu|
-|courtesy|/ˈkəːtəsi/ |cử chỉ lịch sự|
 |reputation|/repjuˈteiʃən/ |danh tiếng|
 |efficient|/iˈfiʃənt/ |có năng lực, hiệu suất|
 |rehearsal|/rɪˈhɜːrsl (n)/ |sự diễn tập, buổi diễn tập|
@@ -242,31 +261,18 @@
 |pond|/pond/ |cái ao|
 |wade|/weid/ |lội qua|
 |refrigerate|/rəˈfridʒəreit/ |làm lạnh|
-|alternate|/ˈoːltəneit/ |xen kẽ, thay phiên|
-|pursue|/pəˈsjuː/|theo đuổi, truy bắt|
-|obligation|/obliˈɡeiʃən/|nghĩa vụ|
-|drastic|/ˈdrӕstik/|quyết liệt|
-|probation|/proubeiʃən/|thời gian tập sự|
-|outstanding|/autˈstӕndiŋ/|xuất sắc|
-|bright|/brait/|sáng chói|
 |federal|/ˈfedərəl/|(thuộc) liên bang|
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
-|adverse|/ˈӕdvəːs/|bất lợi|
-|fluctuate|/ˈflaktʃuːˌeit/|biến động|
-|perceptions|/pəˈsepʃən/|sự nhận thức|
-|narrate|/nəˈreit/|kể lại|
-|oblige|/əˈblaidʒ/|bắt buộc|
 |generous|/ˈdʒenərəs/|hào phóng|
 |steam|/stiːm/|hơi nước|
 |spare|/speə/|không cần đến, tiết kiệm|
 |fan|/fӕn/|cái quạt|
-|withdraw|/wiðˈdroː/|rút quân|
+|withdraw|/wiðˈdroː/|rút quân, dừng hoạt động|
 |bark|/baːk/|tiếng sủa|
 |rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
 |distinguish|/diˈstiŋɡwiʃ/|phân biệt|
 |lounge|/laundʒ/|lang thang, phòng khách, phòng đợi|
-|amuse|/əˈmjuːz/|làm cho ai cười|
 |accommodate|/əˈkomədeit/|cung cấp chỗ ở cho ai|
 |fire hydrant|/ˈhaidrənt/|vòi rồng|
 |cone|/koun/|vật hình nón, quả thông|
@@ -761,7 +767,6 @@
 |    polish  	    	   | /ˈpɑːlɪʃ/ 			|làm bóng|
 |stir|/ˈstɜːr/| khuấy|
 |     utensil  	    	   | /juːˈtensl/ 			| Vật dụng gia đình |
-|     admiring  	    	   | /ədˈmaɪərɪŋ/ 			| chiêm ngưỡng |
 | shore   	   | /ʃɔːr/ 			| bờ biển			|
 |blueprint|  /ˈbluːprɪnt/| bản vẽ thiết kế |
 |     couch  	    	   | /kaʊtʃ/ 			| sofa |
