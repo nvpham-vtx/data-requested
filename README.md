@@ -3,6 +3,11 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent |/ˈfluənt/ |lưu loát|
+|spotless|/ˈspɒtləs / |sạch sẽ|
+|freezing |/ˈfriːzɪŋ/ |rất lạnh; rét mướt|
+|tropical |/ˈtrɒpɪkəl / |nhiệt đới|
+|mechanic |/miˈkӕnik/ |thợ máy|
+|election |/ɪˈlekʃən/ |cuộc bầu cử|
 |deficit|/ˈdefisit/|số tiền thiếu hụt|
 |derive|/diˈraiv/|xuất phát từ|
 |adverse|/ˈӕdvəːs/|bất lợi|
