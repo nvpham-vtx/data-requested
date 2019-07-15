@@ -3,6 +3,24 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent |/ˈfluənt/ |lưu loát|
+|symptom |/ˈsimptəm/ |triệu chứng, dấu hiệu tồn tại của cái gì|
+|diagnose |/daiəɡˈnous/ |chẩn đoán|
+|pressure |/ˈpreʃə/ |lực; áp suất|
+|prescription |/prɪˈskrɪpʃən/ |đơn thuốc|
+|counterfeit |/ˈkauntəfit/ |giả mạo|
+|interpret|/inˈtəːprit/ |phiên dịch, giải nghĩa|
+|suffer|/ˈsafə/ |đau khổ, chịu đựng|
+|assess|/əˈses/ |ước định|
+|severe|/səˈviə/ |gay go, khốc liệt|
+|circulation |/ˌsɜːkjəˈleɪʃən / |sự lưu thông|
+|balance|/ˈbӕləns/|sự thăng bằng|
+|raft |/raːft/ |bè gỗ|
+|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
+|emphasis |/ˈemfəsis/ |sự nhấn giọng|
+|approach |/əˈprəutʃ/ |đến gần|
+|fragile |/ˈfrӕdʒail/ |mỏng manh; dễ vỡ|
+|dizziness |/ˈdɪzi/ |sự chóng mặt; choáng váng|
+|essay |/ˈesei/ |bài tiểu luận|
 |spotless|/ˈspɒtləs / |sạch sẽ|
 |freezing |/ˈfriːzɪŋ/ |rất lạnh; rét mướt|
 |tropical |/ˈtrɒpɪkəl / |nhiệt đới|
@@ -44,7 +62,6 @@
 |iceberg |/ˈaɪsbɜːrɡ/ |tảng băng|
 |proximity|/prokˈsiməti/ |ở gần|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
-|extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |sincerely|/sɪnˈsɪrli/|một cách chân thành|
 |tariff|/ˈtӕrif/|bảng giá|
 |hedge|/hedʒ/ |bờ giậu|
@@ -806,7 +823,6 @@
 |assume|/əˈsjuːm/|giả thiết rằng|
 |inevitable|/inˈevitəbl/|không thể tránh khỏi|
 |restrict|/rəˈstrikt/|hạn chế|
-|balance|/ˈbӕləns/|sự thăng bằng|
 |sincere|/sinˈsiə/|thành thật, chân thật|
 |regret|/rɪˈɡret/|tiếc|
 |thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
