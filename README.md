@@ -5,7 +5,9 @@
 |fluent |/ˈfluənt/ |lưu loát|
 |symptom |/ˈsimptəm/ |triệu chứng, dấu hiệu tồn tại của cái gì|
 |diagnose |/daiəɡˈnous/ |chẩn đoán|
-|gear |/ɡiə/ |bánh răng, bộ phận|	
+|gear |/ɡiə/ |bánh răng, bộ phận|
+|portable |/ˈpoːtəbl/ |có thể mang được|
+|aspect |/ˈӕspekt/ |khía cạnh|
 |possess|/pəˈzes/|sở hữu; có|
 |furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
 |pressure |/ˈpreʃə/ |lực; áp suất|
