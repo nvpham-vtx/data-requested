@@ -5,12 +5,17 @@
 |fluent |/ˈfluənt/ |lưu loát|
 |symptom |/ˈsimptəm/ |triệu chứng, dấu hiệu tồn tại của cái gì|
 |diagnose |/daiəɡˈnous/ |chẩn đoán|
+|gear |/ɡiə/ |bánh răng, bộ phận|	
+|possess|/pəˈzes/|sở hữu; có|
+|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
 |pressure |/ˈpreʃə/ |lực; áp suất|
 |prescription |/prɪˈskrɪpʃən/ |đơn thuốc|
 |counterfeit |/ˈkauntəfit/ |giả mạo|
+|souvenir |/ˈsuːvəniər/ |đồ lưu niệm|
 |interpret|/inˈtəːprit/ |phiên dịch, giải nghĩa|
 |suffer|/ˈsafə/ |đau khổ, chịu đựng|
 |assess|/əˈses/ |ước định|
+|merchant |/ˈməːtʃənt/ |thương gia|
 |severe|/səˈviə/ |gay go, khốc liệt|
 |circulation |/ˌsɜːkjəˈleɪʃən / |sự lưu thông|
 |balance|/ˈbӕləns/|sự thăng bằng|
@@ -18,7 +23,7 @@
 |extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |emphasis |/ˈemfəsis/ |sự nhấn giọng|
 |approach |/əˈprəutʃ/ |đến gần|
-|fragile |/ˈfrӕdʒail/ |mỏng manh; dễ vỡ|
+|fragile |/ˈfrӕdʒəl/ |mỏng manh; dễ vỡ|
 |dizziness |/ˈdɪzi/ |sự chóng mặt; choáng váng|
 |essay |/ˈesei/ |bài tiểu luận|
 |spotless|/ˈspɒtləs / |sạch sẽ|
@@ -55,9 +60,7 @@
 |belt |/belt/ |dây thắng lưng|
 |burn |/bəːn/ |đốt cháy|
 |annoy |/əˈnoi/ |làm phiền|
-|souvenir |/ˈsuːvəniər/ |đồ lưu niệm|
 |mop |/mop/ |giẻ lau sàn, lau, chùi|
-|merchant |/ˈməːtʃənt/ |thương gia|
 |bazaar |/bəˈzaː/ |cửa hàng tạp hoá|
 |iceberg |/ˈaɪsbɜːrɡ/ |tảng băng|
 |proximity|/prokˈsiməti/ |ở gần|
@@ -70,9 +73,7 @@
 |morale|/məˈraːl/ |nhuệ khí|
 |improper|/imˈpropə/ |không hợp lý|
 |unprecedented|/anˈpresidentid/ |không có tiền lệ|
-|deposit|/diˈpozit/|gửi tiền vào ngân hàng, đặt cọc|
-|possess|/pəˈzes/|sở hữu; có|
-|furnish|/ˈfəːniʃ/ |trang bị đồ đạc (phòng, nhà…), cung cấp|
+|deposit|/diˈpozit/|gửi tiền vào ngân hàng, phần đặt cọc|
 |ancient|/ˈeinʃənt/|cổ đại|
 |trek|/trek/|đi vất vả,chuyến đi vất vả|
 |persist|/pəˈsist/|kiên trì/ khăng khăng|
@@ -289,7 +290,7 @@
 |steam|/stiːm/|hơi nước|
 |spare|/speə/|không cần đến, tiết kiệm|
 |fan|/fӕn/|cái quạt|
-|withdraw|/wiðˈdroː/|rút quân, dừng hoạt động|
+|withdraw|/wiðˈdroː/|rút quân, rút tiền, dừng hoạt động|
 |bark|/baːk/|tiếng sủa|
 |rectangle|/ˈrektӕŋɡl/|hình chữ nhật|
 |active|/ˈӕktiv/|nhanh nhẹn, tích cực|
@@ -894,7 +895,7 @@
 |alleviate|/əˈliːvieit/ |làm giảm|
 |congested|/kənˈdʒestid/ |đông nghịt; chật ních|
 |official|/əˈfiʃəl/ |thuộc chính quyền|
-|alternative|/oːlˈtəːnətiv/ |có thể lựa chọn|
+|alternative|/oːlˈtəːnətiv/ |có thể lựa chọn thay thế|
 |citizen|/ˈsitizn/ |công dân|
 |spoil|/spoil/ |làm hỏng|
 |outage|/ˈautidʒ/ |sự mất điện|
