@@ -3,8 +3,15 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent |/ˈfluənt/ |lưu loát|
+|lease|/liːs/|sự cho thuê nhà đất|
+|unanimous|/juˈnӕniməs/|nhất trí|
+|precise |/priˈsais/ |chính xác|
+|foster|/ˈfostə/ |thúc đẩy; khuyến khích|
+|circulate |/ˈsəːkjuleit/ |tuần hoàn, lan truyền|
 |symptom |/ˈsimptəm/ |triệu chứng, dấu hiệu tồn tại của cái gì|
 |diagnose |/daiəɡˈnous/ |chẩn đoán|
+|eager |/ˈiːɡə/ |háo hức; thiết tha|
+|abide |/əˈbaid/ |chịu đựng|
 |gear |/ɡiə/ |bánh răng, bộ phận|
 |portable |/ˈpoːtəbl/ |có thể mang được|
 |aspect |/ˈӕspekt/ |khía cạnh|
@@ -21,7 +28,7 @@
 |severe|/səˈviə/ |gay go, khốc liệt|
 |circulation |/ˌsɜːkjəˈleɪʃən / |sự lưu thông|
 |balance|/ˈbӕləns/|sự thăng bằng|
-|raft |/raːft/ |bè gỗ|
+|raft |/raːft/ |bè gỗ|2
 |extraordinary|/ɪkˈstrɔːrdəneri/|phi thường|
 |emphasis |/ˈemfəsis/ |sự nhấn giọng|
 |approach |/əˈprəutʃ/ |đến gần|
@@ -59,13 +66,6 @@
 |furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
 |evolve |/iˈvolv/ |tiến triển; tiến hoá|
 |sanctuary |/ˈsӕŋktʃuəri/ |nơi trú ẩn|
-|belt |/belt/ |dây thắng lưng|
-|burn |/bəːn/ |đốt cháy|
-|annoy |/əˈnoi/ |làm phiền|
-|mop |/mop/ |giẻ lau sàn, lau, chùi|
-|bazaar |/bəˈzaː/ |cửa hàng tạp hoá|
-|iceberg |/ˈaɪsbɜːrɡ/ |tảng băng|
-|proximity|/prokˈsiməti/ |ở gần|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
 |sincerely|/sɪnˈsɪrli/|một cách chân thành|
 |tariff|/ˈtӕrif/|bảng giá|
@@ -110,6 +110,8 @@
 |reluctant|/rəˈlaktənt/ |miễn cưỡng|
 |shake|/ʃeik/|rung, lắc|
 |adapt|/əˈdӕpt/|sửa lại cho hợp|
+|annoy |/əˈnoi/ |làm phiền|
+|mop |/mop/ |giẻ lau sàn, lau, chùi|
 |bleed|/bliːd/|chảy máu|
 |exhausted|/exhausted/|kiệt sức|
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
@@ -172,6 +174,8 @@
 |waive|/weiv/|từ bỏ|
 |shutter|/ˈʃatə/|cánh cửa chớp|
 |sterling|/ˈstəːliŋ/|đồng bảng Anh|
+|belt |/belt/ |dây thắng lưng|
+|burn |/bəːn/ |đốt cháy|
 |dedicate|/ˈdedikeit/|hiến dâng|
 |attitude|/ˈӕtitjuːd/|quan điểm|
 |chairman|/chairman/|chủ tọa|
@@ -193,6 +197,9 @@
 |handicap|/ˈhӕndikӕp/|điều bất lợi|
 |judge|/dʒadʒ/|xét xử, đánh giá, xem xét|
 |extinguish|/ikˈstiŋɡwiʃ/|dập tắt|
+|bazaar |/bəˈzaː/ |cửa hàng tạp hoá|
+|iceberg |/ˈaɪsbɜːrɡ/ |tảng băng|
+|proximity|/prokˈsiməti/ |ở gần|
 |stipulate|/ˈstipjuleit/|quy định, ước định|
 |debate|/diˈbeit/|cuộc tranh luận|
 |prestige|/preˈstiːʒ/|uy tín|
@@ -930,7 +937,6 @@
 |bridge|/bridʒ/|cái cầu|
 |medical|/ˈmedikəl/|thuộc y học|
 |lobby|/ˈlobi/|hành lang|
-|lease|/liːs/|sự cho thuê nhà đất|
 |brochure|/ˈbrəuʃuə/|sách nhỏ thông tin quảng cáo về cái gì|
 |grocery|/ˈɡroʊsəri/|của hàng tạp hóa|
 |casual|/ˈkӕʒuəl/|thường phục, hững hờ, tình cờ, thất thường|
