@@ -2,9 +2,15 @@
 
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
-|fluent |/ˈfluənt/ |lưu loát|
+|fluent|/ˈfluənt/|lưu loát|
+|countless|/ˈkaʊntləs/|vô số|
+|obtain|/əbˈtein/|đạt được|
+|duty|/ˈdjuːti/|nhiệm vụ; trách nhiệm|
+|concession|/kənˈseʃən/|sự nhượng bộ|
+|proprietor |/prəˈpraiətə/ |chủ sở hữu|
 |lease|/liːs/|sự cho thuê nhà đất|
 |unanimous|/juˈnӕniməs/|nhất trí|
+|perishable|/ˈperɪʃəbəl/|dễ hỏng|
 |precise |/priˈsais/ |chính xác|
 |foster|/ˈfostə/ |thúc đẩy; khuyến khích|
 |circulate |/ˈsəːkjuleit/ |tuần hoàn, lan truyền|
