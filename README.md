@@ -3,7 +3,13 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|likewise|/ˈlaɪk-waɪz/|tương tự|
+|cultural|/kaltʃərəl/|đa văn hóa|
+|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
+|obsolete|/obsəˈliːt/|cổ xưa, cũ|
+|acknowledge|/əkˈnolidʒ/|công nhận|
 |countless|/ˈkaʊntləs/|vô số|
+|foremost|/ˈfoːmoust/|đầu tiên; trước nhất|
 |obtain|/əbˈtein/|đạt được|
 |duty|/ˈdjuːti/|nhiệm vụ; trách nhiệm|
 |concession|/kənˈseʃən/|sự nhượng bộ|
