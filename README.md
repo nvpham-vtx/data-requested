@@ -3,6 +3,8 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|combine|/kəmˈbain/|kết hợp|
+|surcharge|/ˈsəːtʃaːdʒ/|số tiền tính thêm, tiền trả thêm|
 |likewise|/ˈlaɪk-waɪz/|tương tự|
 |cultural|/kaltʃərəl/|đa văn hóa|
 |utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
@@ -224,7 +226,7 @@
 |revitalize|/ˌriːˈvaɪtəlaɪz/|hồi sinh|
 |reliable|/rɪˈlaɪəbl/|có thể tin tưởng được|
 |essential|/iˈsenʃəl/|thiết yếu|
-|expedite|/ˈekspidait/|xúc tiến, tiến hành|
+|expedite|/ˈekspidait/|xúc tiến, tiến hành nhanh chóng|
 |inspirational|/ˌɪnspəˈreɪʃənl/|truyền cảm hứng|
 |anticipate|/ӕnˈtisəpeit/|lường trước, đoán trước|
 |complimentary|/ˌkɑːmplɪˈmentri/|miễn phí|
