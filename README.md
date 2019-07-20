@@ -3,6 +3,11 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|conscience|/ˈkonʃəns/|lương tâm|
+|exclusively|/exclusively/|dành riêng|
+|janitor|/ˈdʒӕnitə/|người trông nhà|
+|surge|/səːdʒ/|tràn, dâng|
+|statistics|/stəˈtistiks/|số liệu thống kê|
 |combine|/kəmˈbain/|kết hợp|
 |surcharge|/ˈsəːtʃaːdʒ/|số tiền tính thêm, tiền trả thêm|
 |likewise|/ˈlaɪk-waɪz/|tương tự|
