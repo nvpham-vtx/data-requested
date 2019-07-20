@@ -3,6 +3,7 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|ingredient|/inˈɡriːdiənt/|thành phần|
 |conscience|/ˈkonʃəns/|lương tâm|
 |exclusively|/exclusively/|dành riêng|
 |janitor|/ˈdʒӕnitə/|người trông nhà|
