@@ -3,6 +3,16 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|foam|/foum/|bọt|
+|globe|/ɡləub/|quả địa cầu|
+|sophisticated|/səˈfistikeitid/|quả địa cầu|
+|episode|/ˈepisəud/|đoạn; hồi|
+|appeal|/əːpiːl/|lyêu cầu, kháng cáo|
+|intend|/inˈtend/|dự định|
+|formation|/fɔːˈmeɪʃən /|sự hình thành; sự thành lập|
+|dormitory|/ˈdoːmitri/|phòng ngủ tập thể|
+|municipal|/mjuˈnisipəl/|thuộc thành thị|
+|foyer|/ˈfoiər/|phòng chờ|
 |ingredient|/inˈɡriːdiənt/|thành phần|
 |conscience|/ˈkonʃəns/|lương tâm|
 |exclusively|/exclusively/|dành riêng|
