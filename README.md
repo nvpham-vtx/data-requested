@@ -5,12 +5,16 @@
 |fluent|/ˈfluənt/|lưu loát|
 |foam|/foum/|bọt|
 |globe|/ɡləub/|quả địa cầu|
-|sophisticated|/səˈfistikeitid/|quả địa cầu|
+|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
+|scissors|/ˈsizəz/ |cái kéo|
+|compose|/kəmˈpəuz/|tạo thành|
+|furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
+|sophisticated|/səˈfistikeitid/|công phu, rắc rối|
 |episode|/ˈepisəud/|đoạn; hồi|
 |appeal|/əːpiːl/|lyêu cầu, kháng cáo|
 |intend|/inˈtend/|dự định|
 |formation|/fɔːˈmeɪʃən /|sự hình thành; sự thành lập|
-|dormitory|/ˈdoːmitri/|phòng ngủ tập thể|
+|dormitory|/ˈdoːmitri/|phòng ngủ tập thể, ký túc xá|
 |municipal|/mjuˈnisipəl/|thuộc thành thị|
 |foyer|/ˈfoiər/|phòng chờ|
 |ingredient|/inˈɡriːdiənt/|thành phần|
@@ -21,9 +25,10 @@
 |statistics|/stəˈtistiks/|số liệu thống kê|
 |combine|/kəmˈbain/|kết hợp|
 |surcharge|/ˈsəːtʃaːdʒ/|số tiền tính thêm, tiền trả thêm|
+|obligation|/obliˈɡeiʃən/|nghĩa vụ|
+|drastic|/ˈdrӕstik/|quyết liệt|
 |likewise|/ˈlaɪk-waɪz/|tương tự|
 |cultural|/kaltʃərəl/|đa văn hóa|
-|utilize|/ˈjuːtilaiz/|sử dụng, tận dụng|
 |obsolete|/obsəˈliːt/|cổ xưa, cũ|
 |acknowledge|/əkˈnolidʒ/|công nhận|
 |countless|/ˈkaʊntləs/|vô số|
@@ -85,15 +90,9 @@
 |excited |/ɪkˈsaɪtɪd/ |kích động|
 |alternate|/ˈoːltəneit/ |xen kẽ, thay phiên|
 |pursue|/pəˈsjuː/|theo đuổi, truy bắt|
-|obligation|/obliˈɡeiʃən/|nghĩa vụ|
-|drastic|/ˈdrӕstik/|quyết liệt|
 |probation|/proubeiʃən/|thời gian tập sự|
 |outstanding|/autˈstӕndiŋ/|xuất sắc|
 |bright|/brait/|sáng chói|
-|compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
-|scissors|/ˈsizəz/ |cái kéo|
-|compose|/kəmˈpəuz/|tạo thành|
-|furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
 |evolve |/iˈvolv/ |tiến triển; tiến hoá|
 |sanctuary |/ˈsӕŋktʃuəri/ |nơi trú ẩn|
 |conservatory|/kənˈsəːtoːri/ |nhà kính trồng cây|
@@ -145,7 +144,7 @@
 |bleed|/bliːd/|chảy máu|
 |exhausted|/exhausted/|kiệt sức|
 |dominate|/ˈdɑːmɪneɪt/|chi phối, trội hơn|
-|imperative|/imˈperətiv/|có tính chất mệnh lệnh|
+|imperative|/imˈperətiv/|có tính chất mệnh lệnh, cấp bách|
 |franchise|/ˈfrӕntʃaiz/ |quyền bầu cử|
 |retain|/rəˈtein/|giữ được; nhớ được|
 |unemployed|/animˈploid/|thất nghiệp|
