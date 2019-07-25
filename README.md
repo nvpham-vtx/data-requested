@@ -3,6 +3,8 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|compensate|/ˈkompənseit/|đền bù|
+|superb|/suˈpəːb/|tuyệt vời|
 |foam|/foum/|bọt|
 |strive|/straiv/|phấn đấu, đấu tranh|
 |devise|/diˈvaiz/|đặt kế hoạch, phát minh|
@@ -929,7 +931,7 @@
 |adventure|/ədˈventʃə/ |chuyến phiêu lưu|
 |amaze|/əˈmeiz/ |hết sức ngạc nhiên|
 |critic|/ˈkritik/ |nhà phê bình|
-|overpass|/ˈəuvəpaːs/ |vượt qua|
+|overpass|/ˈəuvəpaːs/ |cầu vượt|
 |alleviate|/əˈliːvieit/ |làm giảm|
 |congested|/kənˈdʒestid/ |đông nghịt; chật ních|
 |official|/əˈfiʃəl/ |thuộc chính quyền|
@@ -973,8 +975,6 @@
 |routine|/ruːˈtiːn/|thói quen|
 |negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
 |comfort|/ˈkamfət/|sự an ủi,tiện nghi|
-|compensate|/ˈkompənseit/|đền bù|
-|superb|/suˈpəːb/|tuyệt vời|
 |amenity|/əˈmiːnəti/|tiện nghi|
 |brain|/brein/|bộ não|
 |brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
