@@ -6,6 +6,7 @@
 |compensate|/ˈkompənseit/|đền bù|
 |superb|/suˈpəːb/|tuyệt vời|
 |foam|/foum/|bọt|
+|amenity|/əˈmiːnəti/|tiện nghi|
 |strive|/straiv/|phấn đấu, đấu tranh|
 |devise|/diˈvaiz/|đặt kế hoạch, phát minh|
 |incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
@@ -975,7 +976,6 @@
 |routine|/ruːˈtiːn/|thói quen|
 |negotiate|/nɪˈɡoʊʃieɪt/|đàm phán, thương thảo|
 |comfort|/ˈkamfət/|sự an ủi,tiện nghi|
-|amenity|/əˈmiːnəti/|tiện nghi|
 |brain|/brein/|bộ não|
 |brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
 |ingredient|/inˈɡriːdiənt/|thành phần|
