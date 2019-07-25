@@ -986,7 +986,7 @@
 |encounter|/ɪnˈkaʊntər/|bắt gặp|
 |landscape|/ˈlӕndskeip/ |phong cảnh|
 |pattern|/ˈpӕtən/|hoa văn|
-|tail|/teil/|đuôi|
+|tail|/teil/|đuôi máy bay|
 
 # Grammar
 
