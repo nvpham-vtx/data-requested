@@ -4,15 +4,23 @@
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
 |foam|/foum/|bọt|
+|strive|/straiv/|phấn đấu, đấu tranh|
+|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
+|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
+|deliberate|/diˈlibərət/|cố ý|
+|scare|/skeə/|làm kinh hãi|
 |globe|/ɡləub/|quả địa cầu|
 |compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
 |scissors|/ˈsizəz/ |cái kéo|
 |compose|/kəmˈpəuz/|tạo thành|
 |furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
 |sophisticated|/səˈfistikeitid/|công phu, rắc rối|
+|spare|/speə/|không cần đến, tiết kiệm|
 |episode|/ˈepisəud/|đoạn; hồi|
 |appeal|/əːpiːl/|lyêu cầu, kháng cáo|
 |intend|/inˈtend/|dự định|
+|spite|/spait/|mối hận thù, sự giận|
+|hectic|/ˈhektik/|bận rộn|
 |formation|/fɔːˈmeɪʃən /|sự hình thành; sự thành lập|
 |dormitory|/ˈdoːmitri/|phòng ngủ tập thể, ký túc xá|
 |municipal|/mjuˈnisipəl/|thuộc thành thị|
@@ -326,7 +334,6 @@
 |officiate|/əˈfiʃieit/|làm nhiệm vụ|
 |generous|/ˈdʒenərəs/|hào phóng|
 |steam|/stiːm/|hơi nước|
-|spare|/speə/|không cần đến, tiết kiệm|
 |fan|/fӕn/|cái quạt|
 |withdraw|/wiðˈdroː/|rút quân, rút tiền, dừng hoạt động|
 |bark|/baːk/|tiếng sủa|
@@ -867,8 +874,6 @@
 |thunderstorm|/ˈθʌndərstɔːrm/|giông bão|
 |badge|/bӕdʒ/|huy hiệu|
 |temporary|/ˈtempərəri/|tạm thời|
-|spite|/spait/|mối hận thù, sự giận|
-|hectic|/ˈhektik/|bận rộn|
 |bankrupt|/ˈbӕŋkrapt/|phá sản|
 |feasible|/ˈfiːzəbl/|khả thi|
 |inadequate|/inˈӕdikwət/|không đủ|
@@ -876,7 +881,6 @@
 |slight|/slait/|nhẹ, không đáng kể|
 |argue|/ˈaːɡjuː/|cãi nhau, phản đối, tranh luận; biện luận|
 |crucial|/ˈkruːʃəl/|rất quan trọng|
-|scare|/skeə/|làm kinh hãi|
 |interrupt|/intəˈrapt/|ngắt lời, chặn; ngừng|
 |projector|/prəˈdʒektər/|máy chiếu|
 |relative|/ˈrelətɪv/|họ hàng|
@@ -889,10 +893,6 @@
 |suitable|/ˈsuːtəbl/|phù hợp|
 |trouble|/ˈtrabl/|điều rắc rối|
 |remittance|/rɪˈmɪtns/|sự chuyển tiền|
-|strive|/straiv/|phấn đấu, đấu tranh|
-|devise|/diˈvaiz/|đặt kế hoạch, phát minh|
-|incumbent|/ɪnˈkʌmbənt/|đương nhiệm|
-|deliberate|/diˈlibərət/|cố ý|
 |capable|/ˈkeipəbl/|có năng lực|
 |abide|/əˈbaid/|chịu đựng|
 |athlete|/ˈӕθliːt/|vận động viên điền kinh|
