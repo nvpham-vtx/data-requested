@@ -3,6 +3,12 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|surfing|/ˈsɜːfɪŋ /|môn lướt sóng|
+|classified|/ˈklæsɪfaɪd/|đã được xếp loại|
+|addict|/ˈӕdikt/|người nghiện|
+|tobacco|/təˈbӕkəu/|thuốc lá|
+|substance|/ˈsabstəns/|loại vật chất nào đó|
+|vapour|/ˈveipə/|hơi nước,hơi|
 |cigarette|/ˈsiɡəret/|điếu thuốc lá|
 |compensate|/ˈkompənseit/|đền bù|
 |superb|/suˈpəːb/|tuyệt vời|
