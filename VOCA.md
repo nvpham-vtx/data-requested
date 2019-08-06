@@ -3,6 +3,14 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|achievement|/əˈtʃiːvmənt/|thành tích|
+|venture|/ˈventʃə/|việc mạo hiểm|
+|aspiring|/əˈspaɪərɪŋ /|đầy nhiệt huyết, khao khát|
+|mass|/mӕs/|khối; đống|
+|democracy|/diˈmokrəsi/|dân chủ|
+|peace|/piːs/|hoà bình|
+|comrade|/ˈkomrӕd/|đồng chí|
+|absolute|/ˈӕbsəluːt/|tuyệt đối|
 |surfing|/ˈsɜːfɪŋ /|môn lướt sóng|
 |classified|/ˈklæsɪfaɪd/|đã được xếp loại|
 |addict|/ˈӕdikt/|người nghiện|
@@ -77,6 +85,7 @@
 |interpret|/inˈtəːprit/ |phiên dịch, giải nghĩa|
 |suffer|/ˈsafə/ |đau khổ, chịu đựng|
 |assess|/əˈses/ |ước định|
+|convince|/kənˈvins/|thuyết phục|
 |merchant |/ˈməːtʃənt/ |thương gia|
 |severe|/səˈviə/ |gay go, khốc liệt|
 |circulation |/ˌsɜːkjəˈleɪʃən / |sự lưu thông|
@@ -279,7 +288,6 @@
 |tend|/tend/|trông nom, chăm sóc|
 |anxious|/ˈӕŋkʃəs/|lo lắng|
 |appetizer|/ˈæpɪtaɪzər/|món khai vị|
-|convince|/kənˈvins/|thuyết phục|
 |insist|/inˈsist/|khăng khăng, yêu cầu|
 |imply|/imˈplai/|ám chỉ|
 |illegal|/iˈliːɡəl/|bất hợp pháp|
@@ -995,49 +1003,3 @@
 |pattern|/ˈpӕtən/|hoa văn|
 |tail|/teil/|đuôi máy bay|
 
-# Grammar
-
-| Word         | NAmE 			|
-|--------------|----------------|
-|run out|cạn kiệt|
-|engaged in/on something|bận làm cái gì, tham gia vào cái gì đó|
-|afford to somthing/ do something  |/əˈfɔːrd/ |đủ tiền để mua cái gì đó|
-|be supposed to|bổn phận, có nhiệm vụ làm gì| 
-|be about to| sắp làm gì|
-|make up mind| quyết định|
-|by any chance|có thể|
-|find out|khám phá|
-|be sold out| đã hết|
-|in honor of|dư danh nghĩa của|
-|round off|thành công|
-|feel free|đừng ngại|
-|come up with|nảy ra|
-|take advantage of|tận dụng cơ hội|
-|take on |đồng ý, đảm nhiệm|
-|all set|sẵn sàng|
-|carry out|tiến hành|
-|in order to = in oder (that) = so (that)|để|
-|all time|từ trước đến nay|
-|press conference |cuộc họp báo|
-|civil servant |công chức|
-| spite of|mặc dù, bất chấp|
-|owing to = because of|bởi vì|
-|find sb + adj|bởi vì|
-|state-of-the-art|công nghệ tiên tiến|
-|be about to|sắp làm gì|
-|make the most of|tận dụng cái gì|
-|deem = consider +adj|xem xét|
-|mess up|làm lộn xộn|
-|ahead of| trước|
-|referred to| giới superb|
-|figure out|hiểu|
-|Dipose of|loại bỏ|
-| admission to + places|cho phép vào nơi nào đó|
-|now that = because|
-|whether = if|
-|make a point of|xem mình có bổn phận phải làm|
-|be + credited with + v-ing|Được cho là, tin là|
-|As a result (+ clause) = therefore|As a result of (+ noun phrase) = because of|
-[Liên từ](https://www.voca.vn/blog/lien-tu-trong-tieng-anh-va-cach-dung-day-du-nhat-507)
-[Thì](https://www.voca.vn/blog/dau-hieu-nhan-biet-va-cach-su-dung-cac-thi-trong-tieng-anh-1255)
-[Đảo ngữ](https://www.voca.vn/blog/11-cau-truc-cau-dao-ngu-trong-tieng-anh-513)
