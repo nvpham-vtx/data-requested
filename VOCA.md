@@ -3,6 +3,12 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|shame|/ʃeim/|sự xấu hổ, sự tủi thẹn|
+|eggplant|/ˈeɡplɑːnt /|quả cà|
+|messy|/ˈmesi/|bẩn thỉu|
+|hearty|/ˈhɑːrti/|thịnh soạn, nhiệt tình|
+|glowing|/ˈɡloʊɪŋ /|rực rỡ; sặc sỡ|
+|expenditure|/ɪkˈspendɪtʃə /|sự tiêu dùng|
 |interfere|/intəˈfiə/|cản trở|
 |interval|/ˈintəvəl/|khoảng thời gian giữa 2 sự kiện|
 |anchor|/ˈӕŋkə/|mỏ neo|
