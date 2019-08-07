@@ -3,6 +3,19 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|interfere|/intəˈfiə/|cản trở|
+|interval|/ˈintəvəl/|khoảng thời gian giữa 2 sự kiện|
+|anchor|/ˈӕŋkə/|mỏ neo|
+|mainland|/ˈmeɪnlænd/|lục địa|
+|intuitive|/inˈtjuːətiv/|thuộc về trực giác|
+|robust|/rəˈbast/|khỏe mạnh|
+|beam|/biːm/|xà, rầm,phát đi|
+|excessive|/ɪkˈsesɪv/|quá mức|
+|en masse|/ˌɒn ˈmæs/|đồng loạt|
+|frustration|/frʌˈstreɪʃən/|tình trạng nản lòng; sự thất vọng|
+|goodwill|/good will/|uy tín, thiện chí|
+|contemporary|/kənˈtempərəri/|đương đại, người đương thời|
+|take advantage of|/........./|tận dụng cơ hội|
 |achievement|/əˈtʃiːvmənt/|thành tích|
 |venture|/ˈventʃə/|việc mạo hiểm|
 |aspiring|/əˈspaɪərɪŋ /|đầy nhiệt huyết, khao khát|
