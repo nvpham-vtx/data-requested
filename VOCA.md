@@ -3,6 +3,13 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|stellar|/ˈstelə/|có hình sao|
+|institution|/ˌɪnstɪˈtjuːʃən /|thể chế|
+|positive|/ˈpozətiv/|rõ ràng, khẳng định|
+|nevertheless|/ˌnevəðəˈles /|tuy nhiên|
+|on the one hand|//|mặt này…mặt khác|
+|exceptional|/ɪkˈsepʃənəl/|khác thường, xuất sắc|
+|endure|/inˈdjuə/|cam chịu, tồn tại|
 |enrolment|/ɪnˈrəʊlmənt /|sự kết nạp, đăng ký|
 |trendsetter|/ˈtrendˌsetə /|người tạo xu thế thời trang|
 |magnify|/ˈmӕɡnifai/|phóng to; thổi phồng|
