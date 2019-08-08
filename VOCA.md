@@ -3,6 +3,12 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|enrolment|/ɪnˈrəʊlmənt /|sự kết nạp, đăng ký|
+|trendsetter|/ˈtrendˌsetə /|người tạo xu thế thời trang|
+|magnify|/ˈmӕɡnifai/|phóng to; thổi phồng|
+|testify|/ˈtestifai/|chứng tỏ, chứng thực|
+|apart|/əˈpaːt/|cách nhau|
+|revive|/rəˈvaiv/|khôi phục lại|
 |shame|/ʃeim/|sự xấu hổ, sự tủi thẹn|
 |eggplant|/ˈeɡplɑːnt /|quả cà|
 |messy|/ˈmesi/|bẩn thỉu|
