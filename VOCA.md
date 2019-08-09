@@ -3,6 +3,13 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|discourage|/disˈkəridʒ/|làm nhụt chí, nản chí|
+|angle|/ˈӕŋɡl/|góc độ|
+|leap|/liːp/|nhảy, lao vào|
+|territory|/ˈteritəri/|dải đất, khu vực, lĩnh vực|
+|virtual|/ˈveː(r)tʃuəl/|thực sự|
+|correspond|/korəˈspond/|tương tự|
+|quote|/kwəut/|trích dẫn, định giá|
 |stellar|/ˈstelə/|có hình sao|
 |institution|/ˌɪnstɪˈtjuːʃən /|thể chế|
 |positive|/ˈpozətiv/|rõ ràng, khẳng định|
@@ -62,7 +69,7 @@
 |globe|/ɡləub/|quả địa cầu|
 |compensation|/ˌkɑːmpenˈseɪʃn/|sự bồi thường|
 |scissors|/ˈsizəz/ |cái kéo|
-|compose|/kəmˈpəuz/|tạo thành|
+|compose|/kəmˈpəuz/|tạo thành, soạn|
 |furious |/ˈfjʊəriəs / |giận dữ, điên tiết|
 |sophisticated|/səˈfistikeitid/|công phu, rắc rối|
 |spare|/speə/|không cần đến, tiết kiệm|
