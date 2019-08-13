@@ -3,16 +3,24 @@
 | Word         | NAmE 			| VN				|
 |--------------|----------------|-------------------|
 |fluent|/ˈfluənt/|lưu loát|
+|aspiring|/əˈspaɪərɪŋ /|đầy nhiệt huyết, khao khát|
+|mass|/mӕs/|khối; đống|
+|democracy|/diˈmokrəsi/|dân chủ|
+|peace|/piːs/|hoà bình|
+|comrade|/ˈkomrӕd/|đồng chí|
 |discourage|/disˈkəridʒ/|làm nhụt chí, nản chí|
+|venture|/ˈventʃə/|việc mạo hiểm|
+|robust|/rəˈbast/|khỏe mạnh|
+|intuitive|/inˈtjuːətiv/|thuộc về trực giác|
 |angle|/ˈӕŋɡl/|góc độ|
 |leap|/liːp/|nhảy, lao vào|
 |territory|/ˈteritəri/|dải đất, khu vực, lĩnh vực|
-|virtual|/ˈveː(r)tʃuəl/|thực sự|
+|virtual|/ˈvɜːrtʃuəl/|thực sự|
 |correspond|/korəˈspond/|tương tự|
 |quote|/kwəut/|trích dẫn, định giá|
 |stellar|/ˈstelə/|có hình sao|
 |institution|/ˌɪnstɪˈtjuːʃən /|thể chế|
-|positive|/ˈpozətiv/|rõ ràng, khẳng định|
+|positive|/ˈpɑːzətiv/|rõ ràng, khẳng định|
 |nevertheless|/ˌnevəðəˈles /|tuy nhiên|
 |on the one hand|//|mặt này…mặt khác|
 |exceptional|/ɪkˈsepʃənəl/|khác thường, xuất sắc|
@@ -33,8 +41,6 @@
 |interval|/ˈintəvəl/|khoảng thời gian giữa 2 sự kiện|
 |anchor|/ˈӕŋkə/|mỏ neo|
 |mainland|/ˈmeɪnlænd/|lục địa|
-|intuitive|/inˈtjuːətiv/|thuộc về trực giác|
-|robust|/rəˈbast/|khỏe mạnh|
 |beam|/biːm/|xà, rầm,phát đi|
 |excessive|/ɪkˈsesɪv/|quá mức|
 |en masse|/ˌɒn ˈmæs/|đồng loạt|
@@ -43,12 +49,6 @@
 |contemporary|/kənˈtempərəri/|đương đại, người đương thời|
 |take advantage of|/........./|tận dụng cơ hội|
 |achievement|/əˈtʃiːvmənt/|thành tích|
-|venture|/ˈventʃə/|việc mạo hiểm|
-|aspiring|/əˈspaɪərɪŋ /|đầy nhiệt huyết, khao khát|
-|mass|/mӕs/|khối; đống|
-|democracy|/diˈmokrəsi/|dân chủ|
-|peace|/piːs/|hoà bình|
-|comrade|/ˈkomrӕd/|đồng chí|
 |absolute|/ˈӕbsəluːt/|tuyệt đối|
 |surfing|/ˈsɜːfɪŋ /|môn lướt sóng|
 |classified|/ˈklæsɪfaɪd/|đã được xếp loại|
@@ -1032,7 +1032,6 @@
 |comfort|/ˈkamfət/|sự an ủi,tiện nghi|
 |brain|/brein/|bộ não|
 |brainstorming|/ˈbreɪnstɔːrmɪŋ/|sự động não, nghiên cứu|
-|ingredient|/inˈɡriːdiənt/|thành phần|
 |recruit|/rəˈkruːt/|thành viên mới|
 |tidy|/ˈtaidi/|sạch sẽ, ngăn nắp|
 |interior|/inˈtiəriə/|bên trong, nội thất|
