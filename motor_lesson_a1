@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Phần của đường bộ đươc sử dụng cho các phương tiện giao thông qua lại là gì?",
+      "answers": [{id: 1, title: 'Phần mặt đường và lề đường'}, {id: 2, title: 'Phần đường xe chạy'}, {id: 3, title: 'Phần đường xe cơ giới'}],
+	  "correct_answer": {id: 2, title: 'Phần đường xe chạy'}
+    },
+	{
+      "id": 2,
+      "title": ""Làn đường" là gì?",
+      "answers": [{id: 1, title: 'Là một phần của phần đường xe chạy được chai theo chiều dọc của đường, sử dụng cho xe chạy'},
+				{id: 2, title: 'Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn'},
+				{id: 3, title: 'Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ bề rộng cho xe ô tô chạy an toàn'}],
+	  "correct_answer": {id: 2, title: Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn'},
+    },
+	{
+      "id": 3,
+      "title": "Trong các khái niệm dưới đây, “dải phân cách” được hiểu như thế nào là đúng?",
+      "answers": [{id: 1, title: 'Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép'},
+				{id: 2, title: 'Là bộ phận đường để phân tách phần đường xe chạy và hành lang an toàn giao thông.'},
+				{id: 3, title: 'Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.'}],
+	  "correct_answer": {id: 3, title: 'Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.'}
+    },
+  ]
+}
