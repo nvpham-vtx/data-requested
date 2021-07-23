@@ -3630,10 +3630,10 @@
         var asNodeRedis;
         var node_redis_args = [];
         if (process.env.REDIS_JS_NODE_REDIS_PORT) {
-            node_redis_args.push("6378");
+            node_redis_args.push(process.env.REDIS_JS_NODE_REDIS_PORT);
         }
         if (process.env.REDIS_JS_NODE_REDIS_HOST) {
-            node_redis_args.push("10.101.9.81");
+            node_redis_args.push(process.env.REDIS_JS_NODE_REDIS_HOST);
         }
         if (process.env.REDIS_JS_NODE_REDIS_OPTIONS) {
             node_redis_args.push(JSON.parse(process.env.REDIS_JS_NODE_REDIS_OPTIONS));
