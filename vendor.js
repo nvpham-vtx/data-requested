@@ -1,5 +1,1 @@
-(function() {
-  subStr = function(str) {
-    return str;
-  }
-}.call(this));
+function sunStr(str) {return str}
