@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "title": "Male",
+      "code": "M",
+      "id": 1
+    },
+    {
+      "title": "Female",
+      "code": "F",
+      "id": 2
+    }
+  ]
+}
